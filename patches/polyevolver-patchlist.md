@@ -1,0 +1,525 @@
+# Poly Evolver Complete Patch List (From Screenshots)
+
+## Bank A (A001-A128) - Leads
+
+- A001 Big Sawz
+- A002 ShineOnUCrayDmn
+- A003 Old Analog Rez
+- A004 Switched On
+- A005 MW Morph Comp
+- A006 Poly Tubulator
+- A007 Africa
+- A008 Classic Sawtoot
+- A009 Low String Idea
+- A010 Semi-Tuned
+- A011 Inside the Tank
+- A012 Ring On Sync
+- A013 Fast Rez
+- A014 Cosmic Shift
+- A015 Blue Tube
+- A016 Spoink
+- A017 Cheese
+- A018 Lucky Man Lead
+- A019 Germanic
+- A020 Detuned Repeat
+- A021 Light Glide
+- A022 Isotope
+- A023 Slappy
+- A024 Slightly Unstable
+- A025 Growly Box
+- A026 Tri Sync
+- A027 Incredibly Thin
+- A028 Popcorgan
+- A029 Tweezer
+- A030 Spark Coil
+- A031 Wide Soft Lead
+- A032 Another Synth
+- A033 Magneto
+- A034 Simple Virus
+- A035 Rough Edges
+- A036 Mechatronic
+- A037 Glassy Repeat
+- A038 Cliff Pad
+- A039 Ghost Ship
+- A040 Daft Octaves
+- A041 Z-Compy
+- A042 4 Voice
+- A043 Mountain Hall
+- A044 Outbreak
+- A045 Kaput+ Wah
+- A046 CheeseAmp
+- A047 Seoul
+- A048 SunsetProph4Les
+- A049 Buzz Saw (MWRes)
+- A050 Short and Tight
+- A051 4 Voice
+- A052 Squelchy Lead
+- A053 Fearless Sweep
+- A054 Light Distorto
+- A055 Wired Bass
+- A056 Thick & Complex
+- A057 Rave Drone
+- A058 Pro77
+- A059 Nord Rave
+- A060 1/8 bass
+- A061 Mo lead
+- A062 SuperSize Lead
+- A063 Roundabout
+- A064 Shammer
+- A065 Triumvirat Lead
+- A066 Ripper
+- A067 Wind Granola
+- A068 MorphLead
+- A069 DrunkLead
+- A070 Razzy and Pain
+- A071 DewsReveral
+- A072 Blow Split
+- A073 WiseMonkeys
+- A074 SemiCircle
+- A075 SyncBallz
+- A076 Transmit
+- A077 PolyLeastic
+- A078 InfinitiArp
+- A079 BG-Triangels
+- A080 OB-XA-Seq
+- A081 Stakkato
+- A082 FastSyncSeq
+- A083 Dem Bones Seq
+- A084 VaryRhythm
+- A085 Frumpy
+- A086 RobTripp2
+- A087 CRimsonSolo
+- A088 FreqFracture 2
+- A089 BakerDrums
+- A090 Cream
+- A091 OldStyle
+- A092 SquareLead
+- A093 HP-Sync2
+- A094 Nice Day Seq
+- A095 LegRectangles
+- A096 IntroArp
+- A097 Primates
+- A098 Lupo
+- A099 Synergy
+- A100 PaddySeq
+- A101 Steamroller
+- A102 Mechatronic 2
+- A103 TubeIntro
+- A104 ResoSweep
+- A105 RhythmGuit
+- A106 FunkSynKopes
+- A107 Bustle
+- A108 SnareDist
+- A109 PowerChord12
+- A110 4BarBDBreak
+- A111 BG-Triangels
+- A112 OB-XA-Seq
+- A113 Stakkato
+- A114 FatSyncSeq
+- A115 Dem Bones Seq
+- A116 VaryRhythm
+- A117 Frumpy
+- A118 RobTripp2
+- A119 CRimsonSolo
+- A120 FreqFracture 2
+- A121 BakerDrums
+- A122 Cream
+- A123 OldStyle
+- A124 SquareLead
+- A125 HP-Sync2
+- A126 Nice Day Seq
+- A127 Cornflap
+- A128 LazyRectangles
+
+## Bank B (B001-B128) - Bass
+
+- B001 Numan Cars Bass
+- B002 Speedway
+- B003 Snoop Bass
+- B004 Rezzy Bass
+- B005 Bass Mod Deep
+- B006 2x4 Pole Wet
+- B007 *Distorted Hipas
+- B008 *Plinkstein
+- B009 Delay Grok, 3
+- B010 Fast Synap Bass
+- B011 WayTonComplies
+- B012 KineticBassGroo
+- B013 MCBass Delay
+- B014 Bass Doom
+- B015 Bass Shhh...
+- B016 *Mean Bass
+- B017 Roadhouse Bass
+- B018 Angry Young Man
+- B019 Scythe Bass
+- B020 Repeat-o-matic
+- B021 Giant Robot Bas
+- B022 Plucked+Use
+- B023 Deep Saw Bass
+- B024 Bon Seq
+- B025 Heavy
+- B026 Saw Oil res MW
+- B027 Nice Background
+- B028 Happy Bass
+- B029 Bulldozer Seq
+- B030 Whap Bass
+- B031 RobFripp
+- B032 LuLoop
+- B033 HypnoDrumsDist
+- B034 FBBass
+- B035 DantBD
+- B036 UmpfBass2
+- B037 What? Why? Seq
+- B038 StandBass
+- B039 AggroBass
+- B040 BaseBeat
+- B041 Gabbabass
+- B042 UmpfBass4
+- B043 FrigiFeediack
+- B044 4BarBassnBD 2
+- B045 BelewBassEnding
+- B046 BruceBass
+- B047 Massive
+- B048 CornBassHH
+- B049 LazyBass
+- B050 LazyBassHacked
+- B051 Square Jump Seq
+- B052 C-Bass
+- B053 D&Bass
+- B054 Panning Digswell
+- B055 Cembali
+- B056 Marim Bah
+- B057 Eastern Evo
+- B058 Warble Bell
+- B059 Bells
+- B060 Wind Bells
+- B061 FlangeBells
+- B062 PitchGlass
+- B063 Many Bells
+- B064 Bellorgon
+- B065 Sustaining Bell
+- B066 PannedBell
+- B067 Poly Brass
+- B068 Prog Monster
+- B069 GX Brass
+- B070 Phazor Brass
+- B071 Tubulator
+- B072 Saw2th Brass 2
+- B073 French Horny
+- B074 SpaceAge&HiPa
+- B075 Saw2th Brass 1
+- B076 FunkyMotherBras
+- B077 G Horn
+- B078 Low Mixed Brass
+- B079 Mucky
+- B080 Analog Cello+
+- B081 Barytone Hall
+- B082 J Hammer Lead
+- B083 SynthHarpsichor
+- B084 Executioner
+- B085 Prophet Strings
+- B086 Elec Ensemble
+- B087 String Cheeze
+- B088 Super Fast
+- B089 SuperPunchyClAv
+- B090 Harpy
+- B091 PowerChord
+- B092 PictSolo2
+- B093 Whistlehoot
+- B094 Mellotron Flute
+- B095 Flutish
+- B096 Wooden Plates
+- B097 Disto BD
+- B098 Metal Mallet
+- B099 Marimba
+- B100 Repeating Malle
+- B101 Open HH
+- B102 Zimmons
+- B103 Plucky
+- B104 Analog Cello+
+- B105 Banjo from Hell
+- B106 J Hammer Lead
+- B107 SynthHarpsichor
+- B108 Executioner
+- B109 Prophet Strings
+- B110 Elec Ensemble
+- B111 String Cheeze
+- B112 Super Fast
+- B113 SuperPunchyClav
+- B114 Harpy
+- B115 PowerChord
+- B116 PictSolo2
+- B117 Whistlehoot
+- B118 Mellotron Flute
+- B119 Flutish
+- B120 Wooden Plates
+- B121 Disto BD
+- B122 Metal Mallet
+- B123 Marimba
+- B124 Repeating Malle
+- B125 Open HH
+- B126 Zimmons
+- B127 Xylotron
+- B128 FunkBreaks
+
+## Bank C (C001-C128) - Pads
+
+- C001 Nice Combinatio
+- C002 Low Magna Sweep
+- C003 *Wah with Noise
+- C004 NOISE Theory
+- C005 S/H Madness
+- C006 P-5 Aliens
+- C007 ValvArkl-Sweeper
+- C008 Big and Moving
+- C009 Pan Sweep
+- C010 Lots of Sound
+- C011 Landing 2
+- C012 Strange De-Tune
+- C013 ARP SE IV
+- C014 Spaced Orgo
+- C015 Satellite Pad
+- C016 *Massive Pad/Les
+- C017 Mixed Sweep Up
+- C018 Wartime Drone
+- C019 More Nasals
+- C020 Over Rezzed
+- C021 AnxOrch Press F
+- C022 Prophetic Pad
+- C023 Bella Voce
+- C024 Phat Sync
+- C025 Tasty Pad
+- C026 Pushed Out
+- C027 Pwinl+Pad1
+- C028 Phase Rift
+- C029 Breath Of Evo
+- C030 Gurgle Sweep
+- C031 *A Bit Subtle
+- C032 TrancePad
+- C033 Ski Poles
+- C034 LFO Swell Pad
+- C035 PolishedSteps
+- C036 X-Mod-Bows
+- C037 Regal Sweep
+- C038 Mod Wipeout
+- C039 Full Audio Mod
+- C040 Relaxing Drone
+- C041 Heavyweight
+- C042 Wait a While...
+- C043 Duster
+- C044 ICMC
+- C045 Heavenly Drift
+- C046 Jabba
+- C047 Baha Bass
+- C048 Trillium
+- C049 Vectoring Step
+- C050 Swirl Back
+- C051 Click Clock Pad
+- C052 *Reverse Psych10
+- C053 SlowMotion
+- C054 Drill Down
+- C055 Slowww Sync
+- C056 Sulken Haunt
+- C057 Jingle
+- C058 Fliessband
+- C059 Drownedroid
+- C060 Signs Of Life
+- C061 Silent Movie
+- C062 Smooth Pad
+- C063 Low, Low Pad
+- C064 SquareLead
+- C065 Wah Zen
+- C066 Woova Pad
+- C067 Bell Runner
+- C068 Borg Flange
+- C069 Swirly NoiseyH
+- C070 Vectoring 2
+- C071 Upward Swirls
+- C072 Multiple Sweeps
+- C073 Thin Mint
+- C074 YetBasic2PolePa
+- C075 Ethereal
+- C076 ELP circa 1977
+- C077 Scifi
+- C078 Hi Q Sweeper
+- C079 More Quicksand
+- C080 Alien Texture
+- C081 Morph Phun
+- C082 Wail Whale
+- C083 Symphonic
+- C084 Triangles
+- C085 8-bitChamber
+- C086 Keyboard
+- C087 PolyVox
+- C088 Sync to Me
+- C089 SchizoBase
+- C090 Syn Rain
+- C091 Low Anthem Bass
+- C092 Come Sail Away
+- C093 PWMPoly
+- C094 DistantGlow
+- C095 VoxPad
+- C096 microQ
+- C097 PolishedSteps 2
+- C098 SatnPerc
+- C099 Promenade
+- C100 PictPad
+- C101 PictSolo
+- C102 PictPerc
+- C103 More Quicksand
+- C104 Alien Texture
+- C105 Morph Phun
+- C106 Wail Whale
+- C107 Symphonic
+- C108 Triangles
+- C109 8-bitChamber
+- C110 Keyboard
+- C111 PolyVox
+- C112 Sync to Me
+- C113 SchizoBase
+- C114 Syn Rain
+- C115 Low Anthem Bass
+- C116 Come Sail Away
+- C117 PWMPoly
+- C118 DistantGlow
+- C119 VoxPad
+- C120 microQ
+- C121 PolishedSteps 2
+- C122 SatnPerc
+- C123 Promenade
+- C124 PictPad
+- C125 PictSolo
+- C126 PictPerc
+- C127 Organic Beat Se
+- C128 FFB3
+
+## Bank D (D001-D128) - Sequences/FX
+
+- D001 Swish Swirl
+- D002 King Mattress
+- D003 Nagger
+- D004 Unplayable
+- D005 PinkPlunk
+- D006 Ouverture
+- D007 Downwards
+- D008 Automat
+- D009 Messing
+- D010 Warble
+- D011 Springy
+- D012 5th Dynasty
+- D013 Ana Drive
+- D014 Evo Fanfare
+- D015 FM-Maze
+- D016 Playground
+- D017 Sync Sweep
+- D018 Snap Lead
+- D019 FB-Demo3
+- D020 HybridPad
+- D021 Score
+- D022 Slo Phase Stuf
+- D023 Suint Chord
+- D024 MidfPM
+- D025 Nice Pattern
+- D026 Circuitous Gus
+- D027 Swirly
+- D028 W.S.Z. Seq FX
+- D029 News Flash
+- D030 DoThe VS Shuffl
+- D031 Rapid Fire
+- D032 Radio Noise Seq
+- D033 Mello Sweep Seq
+- D034 Fastball
+- D035 Vitamin r
+- D036 Digi Lights
+- D037 Waveshape Seq
+- D038 Mechanics Pad
+- D039 Plucked Arp
+- D040 Basic FM
+- D041 IchinInBerlin
+- D042 ItMakesYouThink
+- D043 Synthvergnuegen
+- D044 Plucked Melton
+- D045 Nice Repeat Seq
+- D046 Slide
+- D047 Hipais Pulse Se
+- D048 Vectoring
+- D049 Key Trash Beat
+- D050 SuperMoas
+- D051 VectorPreeurunq
+- D052 DancingWavetabl
+- D053 Elizabeth F.
+- D054 Backbeat
+- D055 Plucky Noise WS
+- D056 ResistFutile Se
+- D057 Sweet Dreams Se
+- D058 Sounds Like? Se
+- D059 Basic Wave Seq
+- D060 Posi-tune Seq
+- D061 Puffed beat
+- D062 Feed the  Seq
+- D063 Impossible
+- D064 Bugsinthestew
+- D065 FeedStrModSeq
+- D066 PWMSeq
+- D067 Amoeba
+- D068 MWh to 7
+- D069 Count Down
+- D070 Reigen
+- D071 Peachskin
+- D072 The Seeqer
+- D073 Wisp Walk
+- D074 SweetSixteen
+- D075 FishLips
+- D076 Ganymed Slow
+- D077 HeyMusicTheWheel
+- D078 Bell Seq 2
+- D079 Spaceport Gamma
+- D080 bed-SEQ
+- D081 TheComputrThink
+- D082 FFB     P5
+- D083 Lost On Io
+- D084 Move Me Forward
+- D085 Light Particles
+- D086 Mechanicseq
+- D087 Deteriorate
+- D088 *TrenT
+- D089 Happy Chaos Tri
+- D090 U Make Me Nervs
+- D091 Moody Shuffle
+- D092 Vodka Red Bull
+- D093 ArpeggiarFlurt
+- D094 Galloping Stee
+- D095 BushSeq
+- D096 Forbidden Plane
+- D097 Time
+- D098 Feedback 2
+- D099 Steam
+- D100 Just Mean
+- D101 Grind
+- D102 Touchy Bugger
+- D103 Spaceport Gamma
+- D104 bed-SEQ
+- D105 TheComputrThink
+- D106 FFB     PS
+- D107 Lost On Io
+- D108 Move Me Forward
+- D109 Light Particles
+- D110 Mechanicseq
+- D111 Deteriorate
+- D112 *TrenT
+- D113 Happy Chaos Tri
+- D114 U Make Me Nervs
+- D115 Moody Shuffle
+- D116 Vodka Red Bull
+- D117 ArpeggiarFlurt
+- D118 Galloping Stee
+- D119 BushSeq
+- D120 Forbidden Plane
+- D121 Time
+- D122 Just Mean
+- D123 Grind
+- D124 Touchy Bugger
+- D125 Buzzsaw Feed
+- D126 Noise Rez
+- D127 Twisted
+- D128 Fade Outta Here
