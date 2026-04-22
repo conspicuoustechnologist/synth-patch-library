@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>VOODOO SYSTEM :: PATCH GENERATOR</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="container">
+<div class="logo-container"><img src="assets/logo.png" class="logo" alt="VOODOO SYSTEM"></div>
+<div class="subtitle">// obscure algorithms :: corrupt systems :: unknown protocols //</div>
+<div class="section-tabs">
+<button class="tab-button active" onclick="switchTab('electronic')">🎛️ ELECTRONIC</button>
+<button class="tab-button" onclick="switchTab('orchestra')">🎻 ORCHESTRA</button>
+</div>
+
+<div id="tab-electronic" class="tab-content active">
+<div class="quick-buttons">
+<button onclick="app.random()">🎲 RANDOM COMBO</button>
+<button onclick="app.chill()">😌 CHILL VIBES</button>
+<button onclick="app.aggressive()">🔥 AGGRESSIVE</button>
+<button onclick="app.minimal()">✨ MINIMAL</button>
+</div>
+<div class="advanced-section">
+<div class="advanced-title">🎛️ SYSTEM CONFIGURATION</div>
+<div class="controls-grid">
+<div class="control-group">
+<label class="control-label">Bass Protocol</label>
+<select id="bass-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="bass-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'bass')">
+<span class="stack-value" id="bass-stack-value">1x</span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label">Lead Algorithm</label>
+<select id="lead-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="lead-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'lead')">
+<span class="stack-value" id="lead-stack-value">1x</span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label">Pad Module</label>
+<select id="pad-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="pad-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'pad')">
+<span class="stack-value" id="pad-stack-value">1x</span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label">Percussion Unit</label>
+<select id="perc-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="perc-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'perc')">
+<span class="stack-value" id="perc-stack-value">1x</span>
+</div>
+</div>
+</div>
+<button class="generate-custom" onclick="app.custom()">⚡ EXECUTE SYSTEM PROTOCOL</button>
+</div>
+</div>
+
+<div id="tab-orchestra" class="tab-content">
+<div class="quick-buttons">
+<button onclick="app.fullOrchestra()">🎼 FULL ORCHESTRA</button>
+<button onclick="app.chamber()">🎵 CHAMBER ENSEMBLE</button>
+<button onclick="app.strings()">🎻 STRING SECTION</button>
+</div>
+<div class="advanced-section">
+<div class="advanced-title">🎻 ORCHESTRA CONFIGURATION</div>
+<div class="controls-grid">
+<div class="control-group">
+<label class="control-label">Strings Unit</label>
+<select id="strings-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="strings-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'strings')">
+<span class="stack-value" id="strings-stack-value">1x</span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label">Brass Protocol</label>
+<select id="brass-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="brass-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'brass')">
+<span class="stack-value" id="brass-stack-value">1x</span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label">Woodwinds Module</label>
+<select id="woodwinds-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="woodwinds-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'woodwinds')">
+<span class="stack-value" id="woodwinds-stack-value">1x</span>
+</div>
+</div>
+<div class="control-group">
+<label class="control-label">Choir System</label>
+<select id="vocal-synth"><option value="random">Random</option>
+                        <option value="Alesis Micron">Alesis Micron</option>
+                        <option value="Dave Smith Poly Evolver">Dave Smith Poly Evolver</option>
+                        <option value="Korg microKORG">Korg microKORG</option>
+                        <option value="Modal Argon8">Modal Argon8</option>
+                        <option value="Moog Little Phatty">Moog Little Phatty</option>
+                        <option value="Yamaha PSR-730">Yamaha PSR-730</option></select>
+<div class="stack-control">
+<span class="stack-label">STACK:</span>
+<input type="range" class="stack-slider" id="vocal-stack" min="1" max="3" value="1" oninput="updateStackValue(this,'vocal')">
+<span class="stack-value" id="vocal-stack-value">1x</span>
+</div>
+</div>
+</div>
+<button class="generate-custom" onclick="app.customOrchestra()">⚡ EXECUTE ORCHESTRA PROTOCOL</button>
+</div>
+</div>
+
+<div id="results" class="results">
+<div class="loading">:: SYSTEM IDLE :: Click a protocol to generate patches...</div>
+</div>
+</div>
+
+<script src="data/patches.js"></script>
+<script src="data/reaper-template.js"></script>
+<script src="js/PatchLibrary.js"></script>
+<script src="js/Generator.js"></script>
+<script src="js/UI.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
