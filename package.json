@@ -1,0 +1,24 @@
+{
+  "name": "synth-patch-library",
+  "version": "1.0.0",
+  "description": "Complete patch reference for all synthesizers in the studio setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpelander/synth-patch-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cpelander/synth-patch-library/issues"
+  },
+  "homepage": "https://github.com/cpelander/synth-patch-library#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
