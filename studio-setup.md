@@ -45,13 +45,14 @@
 | Boss Katana 100 MkIII        | [Boss](https://www.boss.info/us/products/katana_100_mkiii/) | 100W combo, built-in models/FX                       |
 | Mackie Onyx 1640i            | [Mackie](https://mackie.com/products/onyx-1604i-16-channel-analog-mixer) | 16-channel analog mixer                              |
 
-## AUX Chains
-| AUX | Chain / Routing | Purpose |
-|---|---|---|
-| AUX 1 | Digitech RV-7 | Reverb depth / space |
-| AUX 2 | MicroKorg Vocoder input | Vocoder processing (sound in → vocoder out) |
-| AUX 3 | Toneworks AX1500G → Roland RE-201 Space Echo | Distortion + tape delay / echo |
-| AUX 4 | Boss BR-8 → Electribe ESX-1 | Glitch / experimental FX into drum/percussion chain |
+## Effects
+| Send | Return | Notes | Source | Purpose |
+|------|--------|-------|--------|---------|
+| Mackie 1 | Mackie 1 | | Digitech RV-7 | Reverb depth / space |
+| Mackie 2 | Track/Ch/Via Synth | | MicroKorg Vocoder input | Vocoder processing (sound in → vocoder out) |
+| Mackie 3 | Mackie 3 | | Toneworks AX1500G → Roland RE-201 Space Echo | Distortion + tape delay / echo |
+| Mackie 4 | Mackie 4 | ESX-1 Audio In Button, Indiv. Out | Boss BR-8 → Electribe ESX-1 | Glitch / experimental FX into drum/percussion chain |
+| Mackie 4 | Mackie 2 | BR-8 Main out | Boss BR-8 | Guitar effects |
 
 ## MIDI Chains
 | MIDI | Routing | Role |
