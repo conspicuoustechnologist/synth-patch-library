@@ -62,3 +62,13 @@
 | MIDI Chain 2 | Controller → Yamaha PSR-730 | Arranger / textures |
 | USB MIDI Devices | Argon8, Little Phatty Stage II, Alesis Micron | USB devices synced to Reaper |
 | Mode | All MIDI pass-thru | Reaper as master clock |
+
+## DAW / Software (Ableton)
+- Controller: Novation Launchpad Mini
+- DAW: Ableton Live Lite, stock instruments only (Drum Rack, Impulse, Simpler); no Suite instruments (Operator, Wavetable, Analog) yet
+- Plugins installed:
+  - Degrader 1.0.5, bitcrush/degradation effect
+  - Texturize (SoundGhost), granular texture effect
+  - iZotope Ozone 12 Elements, mastering suite
+  - VSL Stage Synchron Reverb, algorithmic/convolution reverb
+  - XLN Addictive Keys, piano/keys instrument VST
