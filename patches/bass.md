@@ -2,7 +2,6 @@
 
 # Bass Patches by Synthesizer
 
-
 ## Modal Argon8 (35 patches)
 
 
@@ -47,6 +46,39 @@
 | 034-Pro Basic | Powerful bass |
 | 300-jd - Bwah bass | Custom bwah bass sound |
 ## Moog Little Phatty (21 patches)
+
+### Sound Design Recipe: TB-303 Acid Bass (not a factory preset)
+
+**Oscillators**
+- OSC 1: waveform knob fully toward sawtooth
+- OSC 2: off, or same octave/saw slightly detuned for thickness (real 303 is single-oscillator)
+- Octave: 16' or one octave down
+
+**Filter**
+- Cutoff: start low-to-mid, this is the sweep's launch point
+- Resonance: high, 70-90%, self-oscillates near the top
+- Keyboard tracking amount: low/off (real 303 doesn't track filter to pitch)
+- Filter envelope amount: high, 60-90%, this is what makes the "quack"
+
+**Filter envelope (ADSR)**
+- Attack: 0
+- Decay: short, 100-300ms (this decay time is basically the whole character, shorter = tighter pluck, longer = more wah)
+- Sustain: 0 or near it
+- Release: short, 0-50ms
+
+**Amp envelope**
+- Attack: 0
+- Sustain: high/full, keep amp steady, let the filter envelope do the timbral movement
+
+**Glide**
+- On, moderate amount, play/program legato notes for slides, staccato notes for none (matches how the 303 itself decides slide vs. no-slide)
+
+**Accent** (no dedicated accent control, but the keybed is velocity-sensitive)
+- Route velocity to filter cutoff amount, hit accented notes harder (or program higher velocity values) to pop the filter open further
+
+Optional: Multidrive/overload control for extra grit beyond what a real 303 has.
+
+Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatty), [Moog Forum: Aftertouch and velocity modification](https://forum.moogmusic.com/t/aftertouch-and-velocity-modification/15860)
 
 | Patch # | Patch Name | Description |
 |---------|------------|-------------|
