@@ -1,0 +1,1302 @@
+// .reabank files define MIDI bank/program (patch) information
+// for specific hardware or software devices
+
+// A bank entry lists the MSB, LSB, and bank name
+// for all the patches that follow, until the next bank entry.
+
+Bank 0 0 Program Bank 0
+
+// A program entry simply lists the program number and patch name.
+1 Sfx:* 101 Vocoder
+2 Sfx:* Deep Vocoder
+3 Sfx:* ExtIn-Dly+FM
+4 Sfx:* ExtIn-Filter
+5 Sfx:* ExtIn-Flt+Pn
+6 Sfx:* ExtIn-Gate
+7 Sfx:* Goblin Talk
+8 Sfx:* Hobbitronix
+9 Sfx:* Sing 'Coder
+10 Pad:16-PoleDeepPad
+11 Comp:1and2andComp
+12 Pad:2-PoleDarkPad
+13 Pad:4-PoleSoftPad
+14 Key:60's Organ
+15 Key:6WivesOfRickW.
+16 Pad:8-PoleWarmPad
+17 Brass:ABitOffTheTop
+18 Bass:AcidAndOilBass
+19 Lead:Adrastea
+20 Pad:Aeon Choir
+21 String:AheadOfItsTime
+22 Comp:Ai-ya!
+23 Sfx:Airlock Door
+24 Bass:Alien Womb
+25 Comp:Amsterdam DJ
+26 Brass:AnalogHorns ff
+27 Bass:Analogue Seq
+28 Comp:Animator
+29 Pad:AnotherLongDay
+30 Bass:Anti-Static
+31 Lead:AquamarineLead
+32 String:AquarianString
+33 Key:ArEmEye Piano
+34 Sfx:AsteroidsD-Lux
+35 Pad:AstrologySweep
+36 Pad:Auto Player
+37 Drum:BD 808 Kick
+38 Drum:BD 909 Kick
+39 Drum:BD Bang On!
+40 Drum:BD CR Kick
+41 Drum:BD CleanRhythm
+42 Drum:BD Club Kick
+43 Drum:BD Cool
+44 Drum:BD CowboyJungl
+45 Drum:BD Distresser
+46 Drum:BD El Distorto
+47 Drum:BD ElectroKick
+48 Drum:BD Excalade
+49 Drum:BD Filter Kick
+50 Drum:BD Future Kick
+51 Drum:BD Hardcore
+52 Drum:BD Harsh Real
+53 Drum:BD Hello Buck!
+54 Drum:BD Hi-TechKick
+55 Drum:BD Jungle Kick
+56 Drum:BD KHO Beats
+57 Drum:BD Kick Me 2
+58 Drum:BD Kick PS
+59 Drum:BD Kick SAEFF
+60 Drum:BD Math
+61 Drum:BD Metal Machn
+62 Drum:BD Mipmap
+63 Drum:BD Osc Kick
+64 Drum:BD Pitch E-Kik
+65 Drum:BD Rattler!
+66 Comp:Baba O'Riley
+67 Key:Bach Overdrive
+68 Pad:Backing Vox
+69 Pad:Bad Acid
+70 Lead:Bambam Lead
+71 Brass:Bass Trombone
+72 Comp:Beefy Sync
+73 Comp:Bellsichord
+74 Bass:Big Bass Pedal
+75 Comp:Bioinformatics
+76 Bass:Black & Knobby
+77 Pad:Blue Doll
+78 Comp:Boing Bongs
+79 Sfx:Bombs Away
+80 Comp:Bone Kalimba
+81 Comp:Boss Battle
+82 Bass:Bottlecap
+83 Pad:Brainpounder
+84 Brass:Brassic Class
+85 Comp:Breathy Tone
+86 Sfx:Bromide
+87 String:Buzzy String
+88 Drum:Cy China Cmbl
+89 Drum:CY FM Gong
+90 Drum:CY FM Ride Cym
+91 Drum:CY Ping Ride
+92 Comp:Carillion
+93 Lead:Cars Sync
+94 Brass:Caterpillar
+95 Pad:Cauldron Pad
+96 Bass:Cellar Bass
+97 Pad:Choirbox
+98 Comp:Chords2Rock
+99 Key:Circus
+100 Comp:Classic Decay
+101 Pad:Classic Vox
+102 Key:Clavitude
+103 Key:Clavy
+104 Sfx:Close one!
+105 Bass:Closet Bass
+106 Pad:Clusters
+107 Comp:CompJazzGuitar
+108 Pad:Concert Pad
+109 Lead:CoolMellowLead
+110 Brass:CrispBrassPad
+111 Comp:Crystallizer
+112 Sfx:Cyber Washer
+113 Sfx:Da Ring
+114 Pad:Dagon Visitors
+115 String:Dark Oberstngs
+116 Sfx:Dead Pack,Man
+117 Pad:Deep Space
+118 Sfx:Default
+119 Bass:Demolition Bass
+120 Comp:Deutsche Bahn
+121 Pad:Dirty Dreamer
+122 Sfx:Dog vs.Cat
+123 Bass:Down And Dirty
+124 Pad:Dream Pad
+125 Comp:Dude!
+126 Key:Dusty Organ
+127 Pad:Dutch Choir
+
+Bank 0 1 Program Bank 1
+
+0 Pad:DynaAahOohVox
+1 Comp:DynaEthno Bell
+2 Comp:E-Sitar Layer
+3 Pad:ELen8R
+4 Pad:Emotion Pad
+5 Key:EP? OK!
+6 Pad:Ecology
+7 String:Eight Strings
+8 Key:ElecHarpsi8'4'
+9 Comp:Electric Jello
+10 Comp:Electrorail
+11 Pad:Elektronique
+12 Comp:Elp Time
+13 Pad:Ensemble
+14 Lead:Executioner
+15 Pad:Exhalation
+16 Bass:Expressive
+17 Comp:FM Slider 2
+18 Brass:Fast n Brassy
+19 String:Fast1stViolin
+20 Brass:Fast Brassy 5th
+21 Pad:Fat2Compose
+22 Brass:FilmNoirTrumpt
+23 Pad:FilterSweep101
+24 Comp:Flatron
+25 Lead:Flatulent Duck
+26 Sfx:Fly-By
+27 Comp:Formant WEH
+28 Brass:Fr.Horn Chorus
+29 Sfx:Frankenstein
+30 Comp:Froggy
+31 Lead:Frogstar IV
+32 Sfx:From Venus
+33 Key:Funky 70's Clav
+34 Comp:Funky Slide
+35 Lead:Fuzzy Buzzy
+36 Comp:Get Funky!
+37 Pad:Ghostly
+38 Pad:Ghosty Voice
+39 Sfx:Gizmo
+40 Comp:Glass + Steel
+41 Key:Glass Keys
+42 Key:Glasspipe
+43 Pad:Golem Emerges
+44 Bass:GrapSquishyBaz
+45 Brass:Greco Fr. Horn
+46 Pad:Gritter Pad
+47 Key:GroovyAuto-Wah
+48 Bass:Growl Bass
+49 Drum:HH CR Hat
+50 Drum:HH CR Hat Clos
+51 Drum:HH CleanRhythm
+52 Drum:HH ClosedE-Hat
+53 Drum:HH CowboyJungl
+54 Drum:HH E-HiHats Op
+55 Drum:HH Elect Hat
+56 Drum:HH ElectroClsd
+57 Drum:HH FM Hat
+58 Drum:HH Hardcore
+59 Drum:HH Harsh Real
+60 Drum:HH Hi Head
+61 Drum:HH HiHat4PS Cl
+62 Drum:HH HiHat4PS Op
+63 Drum:HH Hihat
+64 Drum:HH Jungle Clsd
+65 Drum:HH KHO Beats
+66 Drum:HH Metal Machn
+67 Drum:HH Real Hat
+68 Bass:Hacker Bass
+69 Comp:HappyCarribean
+70 Key:Harpsiwarp
+71 Comp:Harptronic
+72 Sfx:Hatching
+73 Key:Heavy On The 5
+74 Sfx:Helicopter
+75 Sfx:Herge
+76 Comp:Hollow Machine
+77 Pad:Hollow Pad
+78 Pad:Home Forgotten
+79 Bass:Hood Bass
+80 Comp:Howlercomp m2
+81 Sfx:Howling Dogs
+82 Pad:I Comprehend
+83 Pad:I Understand
+84 Comp:Ice Tongs
+85 Comp:Inharmonics
+86 Lead:Infamous Lead
+87 Pad:Infrastructure
+88 Sfx:Insane Dentist
+89 Comp:IntoTheValley
+90 Pad:Intruder
+91 Pad:Ionian Sweep
+92 Pad:Ionic Voyage
+93 Pad:Ionizer
+94 Comp:ItsJamaicaMon!
+95 Brass:J Brass
+96 String:J strings
+97 Bass:J00p1t3r
+98 Comp:JP Journey
+99 String:JP Strings
+100 Bass:JacoInTheBox
+101 Pad:Joan d'Arc Pad
+102 Comp:Joggin'
+103 Pad:Journey West
+104 Comp:Jump
+105 Bass:Junkie Bass
+106 Pad:Jurassic
+107 Pad:JustForJustin
+108 Key:Key Clavi
+109 Pad:Kirumamoru
+110 Comp:Kitchen Sync
+111 Bass:Knock-Knock
+112 Brass:Kugel Flugel
+113 Sfx:Landing
+114 Pad:Landing Pad
+115 Comp:Laryngitis
+116 Comp:Laser Surgery
+117 Sfx:Last Breath
+118 Comp:Latenight Comp
+119 Sfx:Lava Stream
+120 Lead:LazyAnalogLead
+121 Lead:LeadOfSixSines
+122 Bass:Lectro Bass
+123 Key:LektrikEleClav
+124 Pad:Liquid Sweep
+125 Brass:Lonely Brass
+126 Comp:Looker
+127 Pad:Lost Children
+
+Bank 0 2 Program Bank 2
+
+0 Bass:Low I.Q.
+1 Lead:Lucky Porta m2
+2 Lead:Lunar Orbit
+3 Comp:Machete Beat
+4 Bass:Machinery Bass
+5 Sfx:Mad Science
+6 Lead:Mahavishnoid
+7 Pad:Maresh
+8 Comp:Marimbaphone
+9 Comp:Massiva
+10 Pad:Massiva Pad
+11 Pad:Materialize
+12 Pad:Matrox
+13 Pad:Maximus
+14 Lead:Mecha-Canary
+15 Pad:Melancholy Pad
+16 Pad:Metal Moths
+17 Comp:Metallic Body
+18 Key:Miami Vyce
+19 Lead:Micron Flute
+20 Pad:MiddleBandVoko
+21 Comp:Mind Bell
+22 Lead:Mini 5th
+23 Lead:Mini Classic
+24 Bass:Mini Twin Bass
+25 Bass:Mini-01
+26 Pad:Moartal
+27 Pad:Mod,Vangelian
+28 Sfx:Modularized
+29 Pad:Moody Sweep
+30 Pad:Moonbase Pad
+31 Pad:Morten'J
+32 Pad:Movie Pad
+33 Comp:Mustard Planet
+34 Pad:My Friends
+35 String:Nervoso Strngs
+36 Pad:New Horizons
+37 Brass:Nice Brass Pad
+38 Pad:Nitrogenius
+39 Bass:Noize Bass
+40 Comp:Norelko
+41 Pad:Not From Here
+42 Brass:OB Puff Brass
+43 Comp:OB Sensible
+44 Pad:Oberpad
+45 Sfx:Ocean->Sliders
+46 Lead:Odyssee Lead
+47 Key:Oktoberfest!
+48 Bass:Old Favorite
+49 Comp:Operator
+50 Comp:Orbital Frame
+51 Key:Organ P
+52 Key:OttowaRezoClav
+53 Comp:Out Of Style
+54 Comp:Owbercomper
+55 Bass:P-Bass D-Luxe
+56 Pad:PPGees
+57 Drum:PR Agogo
+58 Drum:PR Avedis
+59 Drum:PR BellODaCow
+60 Drum:PR Bio Rhythm
+61 Drum:PR BLastrFight
+62 Drum:PR Blitzkrieg
+63 Drum:PR Blipper 1
+64 Drum:PR Blipper 2
+65 Drum:PR CR Guiro
+66 Drum:PR CR Hi Bongo
+67 Drum:PR Clap
+68 Drum:PR Clap Happy
+69 Drum:PR Clave
+70 Drum:PR Conga
+71 Drum:PR Cowbell
+72 Drum:PR Cricket
+73 Drum:PR Electrobongo
+74 Drum:PR Finger Bell
+75 Drum:PR Full Stop
+76 Drum:PR Gene Splice
+77 Drum:PR Krafty Zap
+78 Drum:PR Noiz Chew
+79 Drum:PR Pacific Rim
+80 Drum:PR Picky, Pick
+81 Drum:PR Pit-Pat
+82 Drum:PR Plucked Can
+83 Drum:PR Popcorn
+84 Drum:PR RobotShufle
+85 Drum:PR Shake it!
+86 Drum:PR Shaker
+87 Drum:PR Shush
+88 Drum:PR Squirch
+89 Drum:PR StringedPot
+90 Drum:PR Tabla
+91 Drum:PR Tin Tapper
+92 Drum:PR TiOfDaBlip
+93 Drum:PR Tunnel Pong
+94 Drum:PR Vibra
+95 Drum:PR Watery
+96 Drum:PR Woodblock
+97 Drum:Panning Zaps
+98 Drum:PantherModerns
+99 Bass:Parabola Bass
+100 Pad:PartyBack299
+101 Comp:PawnShopAnteek
+102 Key:PhantomOfTheIon
+103 Pad:Phase Pad
+104 Pad:PhobosianSweep
+105 Bass:Pim Bass
+106 Key:Plastic Keys
+107 Comp:Pluck You
+108 Comp:Plucky Arp
+109 Comp:Plucky Duck
+110 Comp:Plucky K
+111 Pad:Pneumatic Pad
+112 Brass:PolyWannaBrass
+113 Comp:PolyWannaComp
+114 Lead:Porta Lead
+115 Pad:Pretty Panner
+116 Comp:Princely One
+117 String:Profit Strings
+118 Brass:Prog Brass
+119 Comp:Pulsar
+120 Comp:Pulse Decay
+121 Comp:Punchy Harp
+112 Bass:Purr Bass
+123 Bass:Rave Bass
+124 Brass:Regal Horns
+125 Pad:Regurgipad
+126 Pad:Remember Me
+127 Comp:RememberMyJuno
+
+Bank 0 3 Program Bank 3
+
+0 Key:Rendezvous6:02
+1 Pad:Repeater
+2 Comp:Resonant Comp
+3 Sfx:ReverbBellFX
+4 Bass:Rhythmo
+5 Comp:Ringmod Bell
+6 Comp:RingmodMyBell
+7 Pad:Ripley
+8 Key:Rock Organ
+9 Key:RockWheelOrgan
+10 Comp:Romulan Bells
+11 Comp:RoomfulOfZoik
+12 Lead:Rosemary'sBaby
+13 Comp:Rotwang
+14 Pad:Rounder
+15 Pad:Royal Pad
+16 Comp:Rubber Synth
+17 Bass:Rubber BulletBs
+18 Comp:Rustscraper
+19 String:Rusty Strings
+20 Comp:S-Bahn Jelly
+21 Drum:SD 909 Snare
+22 Drum:SD BrightSnare
+23 Drum:SD Burst Snare
+24 Drum:SD CR Snare
+25 Drum:SD CleanRhythm
+26 Drum:SD Cotton Snar
+27 Drum:SD CowboyJungl
+28 Drum:SD DumpsterSnr
+29 Drum:SD ElectroSnar
+30 Drum:SD Hardcore
+31 Drum:SD Harsh Real
+32 Drum:SD Jungle Snar
+33 Drum:SD KHO Beats
+34 Drum:SD Metal Machn
+35 Drum:SD Metallic Sn
+36 Drum:SD SimmonsySnr
+37 Drum:SD Sizzlin'Snr
+38 Drum:SD SlideySnare
+39 Drum:SD SnappySnare
+40 Drum:SD Snarez
+41 Drum:SD Synare
+42 Drum:SD Thin Snare
+43 Drum:SD Zap Snare
+44 Pad:Safe Landing
+45 Comp:Sambalby?
+46 Lead:Sandpaper Lead
+47 Pad:Sandy Sweep
+48 Pad:Scarlet Lights
+49 Pad:Scary Bouncer
+50 Lead:ScreamingWarpLd
+51 Sfx:Seafoam
+52 Comp:Seek Seque
+53 Comp:Self-Oscillate
+54 Lead:Seven Days
+55 Pad:Shader
+56 Pad:Shady Business
+57 Key:Sheriff Piano
+58 Lead:Shortwave
+59 Pad:Silkworm
+60 String:SilkyVerySilky
+61 Pad:Silver Lining
+62 Comp:Silver Sweep
+63 Comp:Simple
+64 Comp:Sine Drops
+65 Comp:Sitary
+66 Lead:Sizzler
+67 Pad:Soft Cake
+68 Pad:Soft Pad
+69 Pad:SoftSweetPad
+70 Pad:Softballs
+71 Pad:Solar Wire
+72 String:SoleenaStrings
+73 Pad:Some Trouble
+74 Pad:Soundtracker
+75 Pad:Soupy Jupiter
+76 Sfx:Space Jalopy
+77 Comp:Spank Tone
+78 Lead:SpankTone Lead
+79 Pad:Spectral Sweep
+80 Pad:Spectral Warp
+81 Bass:Spit Bass
+82 Comp:Splak
+83 Comp:SpringCleaning
+84 Pad:Star Gate
+85 Comp:Stargazing
+86 Sfx:StartTheMachin
+87 Pad:Steam Valve
+88 Brass:SteelAndBrass
+89 Key:Stereo EP m2
+90 Lead:StixMiniMogue
+91 Key:Stockbaroquer
+92 Pad:StonehengeDawn
+93 Key:Stops On m2
+94 Comp:Strawberry
+95 Key:StreetsOfParis
+96 String:String Dream
+97 Bass:Studio Bass
+98 Bass:Sub Bass
+99 Lead:Suboscillators
+100 Lead:SunsetMiniLead
+101 Bass:Super Mini
+102 Comp:Surface
+103 Sfx:Swamp Gass
+104 String:Sweet Dreams
+105 Pad:Sweet OB Sweep
+106 Comp:SwirlyToyPiano
+107 Comp:Symphonic Eh
+108 Comp:Symphonic Weh
+109 Pad:Syn Choir
+110 Brass:Syn Hornz
+111 Key:Syn Wurly
+112 Comp:Synclav
+113 Bass:Syncombass
+114 Brass:T-Bone Steak
+115 Bass:TB Or Not TB
+116 Drum:TM SimmonsyTom
+117 Drum:TM Toms
+118 Drum:TM Zimmonz
+119 Comp:Tabulate
+120 Pad:Take my Pulse
+121 Lead:Tarkus Carcass
+122 Bass:TaurusBassPdls
+123 Comp:TechnoToyTump
+124 Comp:TellMeAStory
+125 Pad:Tempopansweep
+126 Comp:The 80s
+127 Comp:The Dancer
+
+Bank 0 4 Program Bank 4
+
+0 Sfx:The FM police
+1 Sfx:The Lab
+2 String:The Yoyo-Ma's
+3 Comp:Threefinity
+4 Bass:Thumper
+5 Sfx:Thunderstorm
+6 Comp:Tiny Bell
+7 Bass:TomSawyerBass
+8 Comp:TouchPhaseComp
+9 Comp:Toy Steel Drum
+10 Sfx:Trance Tube
+11 Lead:Trantor lead
+12 Lead:Triad m2 Faze
+13 Pad:Triumphant Pad
+14 Comp:Troll Scat
+15 Key:TurboPhiliOrgn
+16 Lead:Tweakdriver
+17 Pad:Twenty Acres
+18 Brass:Twumpet
+19 Lead:U CrazyDiamond
+20 Bass:U-Bahn Jam
+21 Sfx:UFO Blastoff
+22 Comp:Unapologetic
+23 Pad:Undercity
+24 Pad:Undergrowth
+25 Pad:Unhappy
+26 Comp:Unmistakable
+27 Brass:UnpolishdBrass
+28 Pad:Uvula
+29 Pad:Vanilla Pad
+30 Pad:VelocityContrl
+31 String:Velocity Strings
+32 Pad:Venusian Sweep
+33 Pad:Vindicarum
+34 Key:Vintage Piano
+35 String:Violacoder
+36 Bass:Vlad Bass
+37 Pad:Vocoded Ents
+38 Pad:Vocojam
+39 Pad:Voices
+40 Pad:Vox Layer
+41 Pad:Voxy Synth
+42 Pad:WahWehWuhWoo
+43 Lead:Wakeman Mogue
+44 Lead:Wakemini
+45 Comp:Warped Steeple
+46 Lead:Warperheim
+47 Pad:Waterpiano
+48 Pad:Welcome Back
+49 Comp:Wet Comper
+50 Bass:What's Down?
+51 Pad:What's That?
+52 Sfx:Whazzat?
+53 Sfx:Wheely Windy
+54 Comp:Whisker Comper
+55 Pad:Whisper
+56 Lead:Whistler's Mom
+57 Lead:Wichita Falls
+58 Sfx:Wind
+59 Sfx:Windy City
+60 Comp:WontGetFooled
+61 Brass:WowThat'sBrass
+62 Lead:Wowza
+63 Sfx:X-Mod
+64 Lead:Zippy The 5th
+65 Brass:Zoik Brass
+66 Key:Zorgan
+
+Bank 1 72 Pattern Bank 200
+
+1 * Empty Pattern
+2 * Metronome
+3 Amity Bass
+4 Analog Style01
+5 Analog Style02
+6 Analog Style03
+7 Analog Style04
+8 Analog Style05
+9 Analog Style06
+10 Analog Style07
+11 Analog Style08
+12 Analog Style09
+13 Analog Style10
+14 Analog Style11
+15 Analog Style12
+16 Analog Style13
+17 Analog Style14
+18 Analog Style15
+19 Analog Style16
+20 Analog Style17
+21 Analog Style18
+22 Analog Style19
+23 Analog Style20
+24 Analog Style21
+25 Analog Style22
+26 Analog Style23
+27 Analog Style24
+28 Analog Style25
+29 Arp 2Notes
+30 Arp 2NotesPlus
+31 Arp 3NotesPlus
+32 Arp Answering
+33 Arp As Played
+34 Arp Breather
+35 Arp Compeggio
+36 Arp Down
+37 Arp DulceTones
+38 Arp M Sweep
+39 Arp Minuet
+40 Arp Octaves Up
+41 Arp Outline
+42 Arp Revel8ion
+43 Arp Sebastian
+44 Arp Syncop8ion
+45 Arp Takes Two
+46 Arp The Ritz
+47 Arp Up
+48 Arp Up&DownExc
+49 Arp Up&DownInc
+50 BadKindOfFunk
+51 Bass 1
+52 Bass 2
+53 Bass 3
+54 Bass 4
+55 Bass Gorgio
+56 Bobbety 1
+57 Bobbety 2
+58 Bretto
+59 Bretto Simpler
+60 Brood X
+61 Brood XI
+62 Brood XII
+63 Call Me
+64 Callin Me
+65 CarbonMonoxide
+66 Cheesy Lead
+67 Chord Pattern1
+68 Chord Pattern2
+69 Chord Pattern3
+70 Chromatic Fall
+71 CollegeMetalBs
+72 Comeback
+73 Continnum
+74 Control
+75 Corridor 1
+76 Corridor 2
+77 Corridor 3
+78 Corridor 4
+79 Craftywork
+80 Craftyworky
+81 Dance 1 Poly
+82 Dance 2 Poly
+83 Delay Me
+84 Deploy
+85 Detroit Pads 1
+86 Detroit Pads 2
+87 Dim Seq
+88 Dim Whole Tone
+89 Dive Bomb 1
+90 Dive Bomb 2
+91 Doppler Effekt
+92 Down N Dirty 1
+93 Down N Dirty 2
+94 Drone Bass
+95 Eastside
+96 Echo 1
+97 Echo 2
+98 Electro Bass 1
+99 Electro Bass 2
+100 Electro-Clash1
+101 Electro-Clash2
+102 Electro-Clash3
+103 Electro-Clash4
+104 ElectroFormula
+105 Epicot 1
+106 Epicot 2
+107 Faded
+108 File System
+109 Funguus North
+110 Gated arp
+111 Git Gritty 1
+112 Git Gritty 2
+113 GlowstickAlert
+114 Goa Away
+115 GroovingBass 1
+116 GroovingBass 2
+117 HuntingMicrobe
+118 Ice Cream 1
+119 Ice Cream 2
+120 It's Happy
+121 Life's Good
+122 Live
+123 Logic Zero
+124 Longing 1
+125 Longing 2
+126 Longing 3
+127 LostInThe80s
+
+Bank 1 73 Pattern Bank 201
+
+0 Major
+1 Manipulator
+2 Mask Melody
+3 Methodical 1
+4 Methodical 2
+5 Methodical 3
+6 Methodical 4
+7 Miami Tech 1
+8 Miami Tech 2
+9 Midline 1
+10 Midline 2
+11 Minor
+12 Minor 7 Seq
+13 Minor 7b5 Seq
+14 MissedAStepBas
+15 NoHugginPleas
+16 Oct Bass 1
+17 Oct Bass 2
+18 OnTheEdgeBass1
+19 OnTheEdgeBass2
+20 One Four
+21 PR Agogo 1
+22 PR Agogo 2
+23 PR Agogo 3
+24 PR Clap
+25 PR Conga 1
+26 PR Conga 2
+27 PR Conga 3
+28 PR Conga 4
+29 PR Electrokik1
+30 PR Electrokik2
+31 PR Electrokik3
+32 PR Electrokik4
+33 PR Electrokik5
+34 PR Hat 1
+35 PR Hat 1
+36 PR Hat 1
+37 PR Shaker 1
+38 PR Shaker 2
+39 PR Tabla 1
+40 PR Tabla 2
+41 PR Tabla 3
+42 PR Tom 1
+43 PR Tom 2
+44 PR Zaps 1
+45 PR Zaps 2
+46 Palette Bass
+47 Perimeter 1
+48 Perimeter 2
+49 Perimeter 3
+50 Perimeter 4
+51 Perimeter 5
+52 Played Mono 1
+53 Played Mono 2
+54 Played Mono 3
+55 Polka Party!
+56 Poly Robots
+57 Poly Trance 1
+58 Poly Trance 1a
+59 Poly Trance 2
+60 Poly Trance 3
+61 Poly Trance 3a
+62 Poppy Bass
+63 Popsicle
+64 Pringle Lead
+65 Prognostic8ion
+66 Psy Bass
+67 Psy Lead
+68 Ricardo Bass
+69 Robag Bass
+70 Robotic
+71 Rundown
+72 Science
+73 Shadow
+74 SilverBassline
+75 Skunky 1
+76 Skunky 2
+77 Slip&SlideBass
+78 Smoothbass
+79 Smoothline
+80 Solo
+81 Somewhat Easy
+82 Stinger
+83 Story
+84 SuperBasicBass
+85 Teaser
+86 Tech Bass 1
+87 Tech Bass 2
+88 Tech Bass 3
+89 Tech Bass 4
+90 Techno Dance 1
+91 Techno Dance 2
+92 Techtype 1
+93 Techtype 2
+94 Techtype 3
+95 Three Strikes
+96 Train 1
+97 Train 2
+98 TransFresnoExp
+99 Transmission 1
+100 Transmission 2
+101 Transmission 3
+102 TripletPursuit
+103 U Did It
+104 U Didn't Win
+105 VagueClassical
+106 Vardoz
+107 Walking
+108 Welcom Home
+109 * Phrase PartB
+110 * Phrase
+
+Bank 0 100 Setup Bank 100
+
+1 * Empty Setup
+2 1982
+3 Albion
+4 Alesiqqatsi
+5 Almond Ballad
+6 AnalogWorld 01
+7 AnalogWorld 02
+8 AnalogWorld 03
+9 AnalogWorld 04
+10 AnalogWorld 05
+11 AnalogWorld 06
+12 AnalogWorld 07
+13 AnalogWorld 08
+14 AnalogWorld 09
+15 AnalogWorld 10
+16 Anne Clark
+17 Anti Virus
+18 ArpeggiGroove
+19 Ausfahrt
+20 Auto Compose
+21 Bass/Lead Split
+22 Big Mountain
+23 Bloodshot
+24 BobbettySweep
+25 Bowing Strings
+26 Burnt Through
+27 Candy D. Funk
+28 Cholestorol
+29 Chubbikins
+30 Corrida
+31 Crosstalk
+32 Crusty Pastry
+33 Cup of Tea
+34 Darker
+35 Easel
+36 Easy
+37 Easy Beat
+38 Electro
+39 Epic Notions
+40 Erased
+41 ExpirationDate
+42 fancytron 3000
+43 Frankfurt
+44 FrogWorld
+45 German Danz
+46 Goomba castle
+47 Grizzlebees!
+48 Groovathon
+49 Hands On
+50 High Voltage
+51 Housepants
+52 Hunting Micros
+53 Ice
+54 Intro
+55 It's You!
+56 LargerThanLife
+57 Lighthouse
+58 Lucky's
+59 Lurge
+60 MC-834
+61 Mellow Groove
+62 Micronox
+63 Minor Distract
+64 Mission
+65 Modular Beat
+66 Morticia
+67 MosquitoProblm
+68 Neal's String
+69 One-Eyed Cat
+70 Padworld 01
+71 Padworld 02
+72 Padworld 03
+73 Padworld 04
+74 Padworld 05
+75 Padworld 06
+76 Padworld 07
+77 Padworld 08
+78 Padworld 09
+79 Particles
+80 Partner
+81 Partypeople
+82 PercUpperOctav
+83 Peter's Gun
+84 PlanksOfRegina
+85 Plus Psy Bass
+86 Powder White
+87 PurpleKool-Aid
+88 Relentless
+89 Rezo L Land 01
+90 Rezo L Land 02
+91 Rezo L Land 03
+92 Rezo L Land 04
+93 Rezo L Land 05
+94 Rezo L Land 06
+95 Rezo L Land 07
+96 Rezo L Land 08
+97 Rezo L Land 09
+98 Rezo L Land 10
+99 RhythmWorld 01
+100 RhythmWorld 02
+101 RhythmWorld 03
+102 RhythmWorld 04
+103 RhythmWorld 05
+104 RhythmWorld 06
+105 RhythmWorld 07
+106 RhythmWorld 08
+107 RhythmWorld 09
+108 RhythmWorld 10
+109 RhythmWorld 11
+110 RhythmWorld 12
+111 RhythmWorld 13
+112 RhythmWorld 14
+113 RhythmWorld 15
+114 RhythmWorld 16
+115 RhythmWorld 17
+116 RhythmWorld 18
+117 RhythmWorld 19
+118 RhythmWorld 20
+119 Robotica
+120 RollingThunder
+121 Rusty Hinges
+122 Safety Dance
+123 Sanctuary
+124 Schnudel Pad
+125 Silver Groove
+126 Slumped
+127 Smoothliner
+
+Bank 0 101 Setup Bank 101
+
+0 Sonar Swingin'
+1 Stab 1
+2 Stab 2
+3 Step Sequencer
+4 Sum of Beauty
+5 Summer Funk
+6 sweet
+7 System 47
+8 Tardis
+9 Tears
+10 Thinger
+11 This Is Micron
+12 Train
+13 Transmission
+14 Use Your Hands
+15 Vince & Andy
+16 WTF,Neighbors?
+17 Who? Me?
+18 With A Foot
+
+
+Bank 2 44 Rhythm Bank 300
+
+1 * Empty Rhythm
+2 Basic 1
+3 Basic 1a
+4 Basic 2
+5 Basic 2a
+6 Basic 3
+7 Basic 3a
+8 Basic 4
+9 Basic 4a
+10 Blork
+11 Chrafty 1
+12 Chrafty 2
+13 DnB 1
+14 DnB 1a
+15 DnB 1b
+16 DnB 2
+17 DnB 2a
+18 DnB 2b
+19 DumbGroove
+20 E Ballad 1
+21 E Ballad 2
+22 E Break 1
+23 E Break 2
+24 E Drum 01
+25 E Drum 02
+26 E Drum 03
+27 E Drum 04
+28 E Drum 05
+29 E Drum 06
+30 E Drum 07
+31 E Drum 08
+32 E Drum 09
+33 E Drum 10
+34 E Drum 11
+35 E Drum 12
+36 E Drum 13
+37 E Drum 14
+38 E Funk 1
+39 E Funk 2
+40 E Funk 3
+41 E Funk 4
+42 Electro 1
+43 Electro 1a
+44 Electro 2
+45 Electro 2a
+46 Electro 2b
+47 Electro 3
+48 Electro 3a
+49 Electro 4
+50 Electro 4a
+51 Electro 4b
+52 Electro 5
+53 Electro 5a
+54 Electro 5b
+55 Electro 6
+56 Electro 6a
+57 Electro 6b
+58 Electro 7
+59 Electro 7a
+60 Electro 7b
+61 Electro 8
+62 Electro 8a
+63 Electro 8b
+64 Electro 9
+65 Electro 9a
+66 Electro 9b
+67 Floor By Four
+68 Floor By Six
+69 Floor By Two
+70 FlourOnTheFloor
+71 Frumpy
+72 Funk 1
+73 Funk 1a
+74 Funk 1b
+75 Funk 2
+76 Funk 2a
+77 Funk 2b
+78 Hausbeat
+79 HiHat Rhythm
+80 Hip-Hop 1
+81 Hip-Hop 1a
+82 Hip-Hop 1b
+83 Hip-Hop 2
+84 Hip-Hop 2a
+85 Hip-Hop 2b
+86 House 01
+87 House 01a
+88 House 01b
+89 House 02
+90 House 02a
+91 House 02b
+92 House 03
+93 House 03a
+94 House 03b
+95 House 04
+96 House 04a
+97 House 04b
+98 House 05
+99 House 05a
+100 House 06
+101 House 06a
+102 House 06b
+103 House 07
+104 House 07a
+105 House 07b
+106 House 08
+107 House 08a
+108 House 08b
+109 House 09
+110 House 09a
+111 House 09b
+112 House 10
+113 House 10a
+114 House 10b
+115 IDM 1
+116 IDM 1a
+117 IDM 1b
+118 IDM 2
+119 IDM 2a
+120 IDM 2b
+121 IDM 3
+122 IDM 3a
+123 M Rhythm 01
+124 M Rhythm 01a
+125 M Rhythm 01b
+126 M Rhythm 02
+127 M Rhythm 02a
+
+Bank 2 45 Rhythm Bank 301
+
+0 M Rhythm 03
+1 M Rhythm 03a
+2 M Rhythm 04
+3 M Rhythm 04a
+4 M Rhythm 04b
+5 M Rhythm 05
+6 M Rhythm 05a
+7 M Rhythm 06
+8 M Rhythm 06a
+9 M Rhythm 07
+10 M Rhythm 07a
+11 M Rhythm 08
+12 M Rhythm 08a
+13 M Rhythm 08b
+14 M Rhythm 09
+15 M Rhythm 09a
+16 M Rhythm 10
+17 M Rhythm 10a
+18 M Rhythm 11
+19 M Rhythm 11a
+20 M Rhythm 11b
+21 M Rhythm 12
+22 M Rhythm 12a
+23 M Rhythm 13
+24 M Rhythm 13a
+25 M Rhythm 13b
+26 M Rhythm 14
+27 M Rhythm 14a
+28 M Rhythm 14b
+29 M Rhythm 15
+30 M Rhythm 15a
+31 M Rhythm 16
+32 M Rhythm 16a
+33 M Rhythm 17
+34 M Rhythm 17a
+35 M Rhythm 18
+36 M Rhythm 18a
+37 M Rhythm 19
+38 M Rhythm 19a
+39 M Rhythm 20
+40 M Rhythm 20a
+41 M Rhythm 21
+42 M Rhythm 21a
+43 M Rhythm 22
+44 M Rhythm 22a
+45 M Rhythm 23
+46 M Rhythm 23a
+47 M Rhythm 24
+48 M Rhythm 24a
+49 M Rhythm 25
+50 M Rhythm 25a
+51 M Rhythm 25b
+52 M Rhythm 26
+53 M Rhythm 26a
+54 M Rhythm 27
+55 M Rhythm 27a
+56 M Rhythm 28
+57 M Rhythm 28a
+58 M Rhythm 29
+59 M Rhythm 29a
+60 M Rhythm 30
+61 M Rhythm 30a
+62 M Rhythm 31
+63 M Rhythm 31a
+64 M Rhythm 31b
+65 M Rhythm 32
+66 M Rhythm 32a
+67 M Rhythm 32b
+68 M Rhythm 33
+69 M Rhythm 33a
+70 M Rhythm 33b
+71 M Rhythm 34
+72 M Rhythm 34a
+73 M Rhythm 35
+74 M Rhythm 35a
+75 M Rhythm 36
+76 M Rhythm 36a
+77 M Rhythm 37
+78 M Rhythm 37a
+79 M Rhythm 38
+80 M Rhythm 38a
+81 M Rhythm 39
+82 M Rhythm 39a
+83 M Rhythm 40
+84 M Rhythm 40a
+85 M Rhythm 41
+86 M Rhythm 41a
+87 M Rhythm 42
+88 M Rhythm 42a
+89 M Rhythm 43
+90 M Rhythm 43a
+91 M Rhythm 44
+92 M Rhythm 44a
+93 M Rhythm 45
+94 M Rhythm 45a
+95 M Rhythm 46
+96 M Rhythm 46a
+97 M Rhythm 47
+98 M Rhythm 47a
+99 M Rhythm 48
+100 M Rhythm 48a
+101 M Rhythm 48b
+102 M Rhythm 49
+103 M Rhythm 49a
+104 M Rhythm 50
+105 M Rhythm 50a
+106 March 1
+107 March 1a
+108 March 1b
+109 March 2
+110 March 2a
+111 March 2b
+112 March 3
+113 March 3a
+114 March 3b
+115 March 4
+116 March 4a
+117 Minimal 1
+118 Minimal 1a
+119 Minimal 1b
+120 New Jack
+121 OldSchool 1
+122 OldSchool 1a
+123 OldSchool 1b
+124 OldSchool 2
+125 OldSchool 2a
+126 OldSchool 2b
+127 Pit My Pat
+
+Bank 2 46 Rhythm Bank 302
+
+0 Riha
+1 Roll 01
+2 Roll 02
+3 Roll 03
+4 Roll 04
+5 Roll 05
+6 Roll 06
+7 Roll 07
+8 Roll 08
+9 Roll 09
+10 Shuffle 1
+11 Shuffle 1a
+12 Shuffle 1b
+13 Shuffle 2
+14 Slumpy
+15 Thumpy 1
+16 Thumpy 2
+17 Trance 1
+18 Trance 1a
+19 Trance 2
+20 Trance 2a
+21 Trance 3
+22 Trance 3a
+23 Trance 4
+24 Trance 4a
+25 Trance 4b
+26 Trance 5
+27 Trance 5a
+28 Trance 5b
+29 Trans Fresno 1
+30 Trans Fresno 2
+31 Tribal 1
+32 Tribal 1a
+33 Tribal 1b
+34 Tribal 2
+35 Tribal 2a
+36 Two-Step 1
+37 Two-Step 1a
+38 What Up 1
+39 What Up 2
+40 What Up 3
+41 What Up 4

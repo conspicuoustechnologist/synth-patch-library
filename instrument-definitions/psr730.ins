@@ -1,0 +1,1208 @@
+; -----------------------------------------------------------|
+; Cakewalk v8.00 Instrument Definition                       |
+; For the Yamaha PSR-730 (XG) Portatone MIDI Keyboard        |
+; Igor Chuhleb, chuhleb@exchange.nap.nikolaev.ua, 29.10.1999 |
+; -----------------------------------------------------------|
+; Right click Track in Reaper - >Midi Track Controls->Show
+; Midi Track Controls
+; Load File (in middle)
+; Reference instruments via banks in this file.
+
+
+.Patch Names
+
+[Yamaha PSR-730 Bank 0]
+0=Pian:228-GrandPno
+1=Pian:233-BritePno
+2=Pian:235-E.Grand
+3=Pian:240-HnkyTonk
+4=Pian:242-E.Piano1
+5=Pian:249-E.Piano2
+6=Pian:258-Harpsi.
+7=Pian:262-Clavi.
+8=ChPc:267-Celesta
+9=ChPc:268-Glocken
+10=ChPc:269-MusicBox
+11=ChPc:271-Vibes
+12=ChPc:274-Marimba
+13=ChPc:279-Xylophon
+14=ChPc:280-TubulBel
+15=ChPc:283-Dulcimer
+16=Orgn:287-DrawOrgn
+17=Orgn:300-PercOrgn
+18=Orgn:305-RockOrgn
+19=Orgn:309-ChrchOrg
+20=Orgn:315-ReedOrgn
+21=Orgn:317-Acordion
+22=Orgn:319-Harmnica
+23=Orgn:321-TangoAcd
+24=Guit:323-NylonGtr
+25=Guit:328-SteelGtr
+26=Guit:334-Jazz Gtr
+27=Guit:337-CleanGtr
+28=Guit:339-Mute.Gtr
+29=Guit:344-Ovrdrive
+30=Guit:346-Dist.Gtr
+31=Guit:349-GtrHarmo
+32=Bass:352-Aco.Bass
+33=Bass:355-FngrBass
+34=Bass:362-PickBass
+35=Bass:364-Fretless
+36=Bass:370-SlapBas1
+37=Bass:373-SlapBas2
+38=Bass:375-SynBass1
+39=Bass:385-SynBass2
+40=StrS:394-Violin
+41=StrS:396-Viola
+42=StrS:397-Cello
+43=StrS:398-Contrabs
+44=StrS:399-Trem.Str
+45=StrS:402-Pizz.Str
+46=StrS:403-Harp
+47=StrS:405-Timpani
+48=StrE:406-Strings1
+49=StrE:415-Strings2
+50=StrE:422-Syn.Str1
+51=StrE:426-Syn.Str2
+52=StrE:427-ChoirAah
+53=StrE:432-VoiceOoh
+54=StrE:433-SynVoice
+55=StrE:437-Orch.Hit
+56=Brss:440-Trumpet
+57=Brss:444-Trombone
+58=Brss:446-Tuba
+59=Brss:448-Mute.Trp
+60=Brss:449-Fr.Horn
+61=Brss:453-BrasSect
+62=Brss:458-SynBras1
+63=Brss:466-SynBras2
+64=Reed:472-SprnoSax
+65=Reed:473-Alto Sax
+66=Reed:476-TenorSax
+67=Reed:480-Bari.Sax
+68=Reed:481-Oboe
+69=Reed:482-Eng.Horh
+70=Reed:483-Bassoon
+71=Reed:484-Clarinet
+72=Pipe:485-Piccolo
+73=Pipe:486-Flute
+74=Pipe:487-Recorder
+75=Pipe:488-PanFlute
+76=Pipe:489-Bottle
+77=Pipe:490-Shakhchi
+78=Pipe:491-Whistle
+79=Pipe:492-Ocarina
+80=SyLd:493-SquareLd
+81=SyLd:501-Saw.Lead
+82=SyLd:513-CaliopLd
+83=SyLd:515-Chiff Ld
+84=SyLd:517-CharanLd
+85=SyLd:520-Voice Ld
+86=SyLd:523-Fifth Ld
+87=SyLd:525-Bass&Ld
+88=SPad:529-NewAgePd
+89=SPad:531-Warm Pad
+90=SPad:537-PolySyPd
+91=SPad:542-ChoirPad
+92=SPad:546-BowedPad
+93=SPad:549-MetalPad
+94=SPad:552-Halo Pad
+95=SPad:553-SweepPad
+96=SEff:558-Rain
+97=SEff:563-SoundTrk
+98=SEff:566-Crystal
+99=SEff:583-Atmosphr
+100=SEff:591-Bright
+101=SEff:594-Goblins
+102=SEff:603-Echoes
+103=SEff:612-Sci-Fi
+104=Ethn:614-Sitar
+105=Ethn:619-Banjo
+106=Ethn:624-Shamisen
+107=Ethn:625-Koto
+108=Ethn:628-Kalimba
+109=Ethn:629-Bagpipe
+110=Ethn:630-Fiddle
+111=Ethn:631-Shanai
+112=Perc:635-TnkBell
+113=Perc:642-Agogo
+114=Perc:643-SteelDrm
+115=Perc:646-WoodBlok
+116=Perc:648-TaikoDrm
+117=Perc:650-MelodTom
+118=Perc:654-Syn.Drum
+119=Perc:657-RevCymbl
+120=SndE:658-FretNoiz
+121=SndE:659-BrthNoiz
+122=SndE:660-Seashore
+123=SndE:661-Tweet
+124=SndE:662-Telphone
+125=SndE:663-Hrlicptr
+126=SndE:664-Applause
+127=SndE:665-Gunshot
+
+[Yamaha PSR-730 Bank 1]
+;BasedOn=Yamaha PSR-730 Bank 0
+0=Pian:229-GrndPnoK
+1=Pian:234-BritPnoK
+2=Pian:236-ElGrPnoK
+3=Pian:241-HnkyTnkK
+4=Pian:243-El.Pno1K
+5=Pian:250-El.Pno2K
+6=Pian:259-Harpsi.K
+7=Pian:263-Clavi.K
+11=ChPc:272-VibesK
+12=ChPc:275-MarimbaK
+
+[Yamaha PSR-730 Bank 3]
+;BasedOn=Yamaha PSR-730 Bank 0
+48=StrE:407-S.Strngs
+49=StrE:416-S.SlwStr
+52=StrE:428-S.Choir
+
+[Yamaha PSR-730 Bank 6]
+;BasedOn=Yamaha PSR-730 Bank 0
+39=Bass:386-MelloSB1
+60=Brss:450-FrHrSolo
+80=SyLd:494-Square 2
+81=SyLd:502-Saw 2
+
+[Yamaha PSR-730 Bank 8]
+;BasedOn=Yamaha PSR-730 Bank 0
+40=StrS:395-SlowVln
+44=StrS:400-SlowTrStr
+48=StrE:408-SlowStr
+49=StrE:417-LegatoSt
+80=SyLd:495-LMSquare
+81=SyLd:503-ThickSaw
+102=SEff:604-EchoPad2
+
+[Yamaha PSR-730 Bank 11]
+;BasedOn=Yamaha PSR-730 Bank 0
+28=Guit:076-MutedGuitar
+
+[Yamaha PSR-730 Bank 12]
+;BasedOn=Yamaha PSR-730 Bank 0
+39=Bass:387-Seq Bass
+62=Brss:459-QuackBr
+98=SEff:567-SynDrCmp
+
+[Yamaha PSR-730 Bank 14]
+;BasedOn=Yamaha PSR-730 Bank 0
+98=SEff:568-Popcorn
+102=SEff:605-Echo Pan
+
+[Yamaha PSR-730 Bank 16]
+;BasedOn=Yamaha PSR-730 Bank 0
+24=Guit:324-NylonGt2
+25=Guit:329-SteelGt2
+52=StrE:429-Ch.Aahs2
+56=Brss:441-Trumpet2
+58=Brss:447-Tuba 2
+87=SyLd:526-Big&Low
+89=SPad:532-ThickPad
+
+[Yamaha PSR-730 Bank 17]
+;BasedOn=Yamaha PSR-730 Bank 0
+56=Brss:442-BriteTrp
+89=SPad:533-Soft Pad
+
+[Yamaha PSR-730 Bank 18]
+;BasedOn=Yamaha PSR-730 Bank 0
+0=Pian:230-MelloGrP
+4=Pian:244-MelloEp1
+26=Guit:335-MelloGtr
+33=Bass:356-FingrDrk
+38=Bass:376-SynBa1Dk
+39=Bass:388-ClkSynBa
+57=Brss:445-Trmbone2
+63=Brss:467-Soft Brs
+80=SyLd:496-Hollow
+81=SyLd:504-DynaSaw
+89=SPad:534-SinePad
+98=SEff:569-TinyBell
+99=SEff:584-WarmAtms
+
+[Yamaha PSR-730 Bank 19]
+;BasedOn=Yamaha PSR-730 Bank 0
+39=Bass:389-SynBa2Dk
+80=SyLd:497-Shmoog
+81=SyLd:505-DigiSaw
+99=SEff:585-HollwRls
+
+[Yamaha PSR-730 Bank 20]
+;BasedOn=Yamaha PSR-730 Bank 0
+38=Bass:377-FastResB
+62=Brss:460-RezSynBr
+81=SyLd:506-Big Lead
+95=SPad:554-Shwimmer
+
+[Yamaha PSR-730 Bank 24]
+;BasedOn=Yamaha PSR-730 Bank 0
+17=Orgn:301-70sPcOr1
+38=Bass:378-AcidBass
+48=StrE:409-ArcoStr
+62=Brss:461-PolyBrss
+81=SyLd:507-HeavySyn
+85=SyLd:521-SynthAah
+
+[Yamaha PSR-730 Bank 25]
+;BasedOn=Yamaha PSR-730 Bank 0
+6=Pian:260-Harpsi.2
+24=Guit:325-NylonGt3
+81=SyLd:508-WaspySyn
+
+[Yamaha PSR-730 Bank 27]
+;BasedOn=Yamaha PSR-730 Bank 0
+7=Pian:264-ClaviWah
+33=Bass:357-FlangeBa
+36=Bass:371-ResoSlap
+50=StrE:423-ResoStr
+62=Brss:462-SynBras3
+95=SPad:555-Converge
+97=SEff:564-Prologue
+
+[Yamaha PSR-730 Bank 28]
+;BasedOn=Yamaha PSR-730 Bank 0
+34=Bass:363-MutePkBa
+105=Ethn:620-MuteBnjo
+
+[Yamaha PSR-730 Bank 32]
+;BasedOn=Yamaha PSR-730 Bank 0
+2=Pian:237-Det.CP80
+4=Pian:245-Chor.Ep1
+5=Pian:251-Chor.EP2
+16=Orgn:288-DetDrwOr
+17=Orgn:302-DetPrcOr
+19=Orgn:310-ChurOrg3
+21=Orgn:318-Accordlt
+22=Orgn:320-Harmo 2
+26=Guit:336-JazzAmp
+27=Guit:338-ChorusGt
+35=Bass:365-Fretles2
+36=Bass:372-PunchThm
+39=Bass:390-SmthBa 2
+52=StrE:430-MelChoir
+56=Brss:443-WarmTrp
+60=Brss:451-FrHorn2
+62=Brss:463-JumpBrss
+104=Ethn:615-DetSitar
+
+[Yamaha PSR-730 Bank 33]
+;BasedOn=Yamaha PSR-730 Bank 0
+5=Pian:252-DX Hard
+16=Orgn:289-60sDrOr1
+17=Orgn:303-LiteOrg
+35=Bass:366-Fretles3
+
+[Yamaha PSR-730 Bank 34]
+;BasedOn=Yamaha PSR-730 Bank 0
+5=Pian:253-DXLegend
+16=Orgn:290-60sDrOr2
+35=Bass:367-Fretles4
+
+[Yamaha PSR-730 Bank 35]
+;BasedOn=Yamaha PSR-730 Bank 0
+6=Pian:261-Harpsi.3
+15=ChPc:284-Dulcimr2
+16=Orgn:291-70sDrOr1
+19=Orgn:311-ChurOrg2
+25=Guit:330-12StrGtr
+38=Bass:379-Clv Bass
+48=StrE:410-60sStrng
+55=StrE:438-OrchHit2
+61=Brss:454-Tp&TbSec
+86=SyLd:524-Big Five
+98=SEff:570-RndGlock
+104=Ethn:616-Sitar 2
+
+[Yamaha PSR-730 Bank 36]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:292-DrawOrg2
+
+[Yamaha PSR-730 Bank 37]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:293-60sDrOr3
+17=Orgn:304-PercOrg2
+60=Brss:452-HornOrch
+
+[Yamaha PSR-730 Bank 38]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:294-EvenBar
+
+[Yamaha PSR-730 Bank 40]
+;BasedOn=Yamaha PSR-730 Bank 0
+0=Pian:231-PianoStr
+2=Pian:238-ElGrPno1
+4=Pian:246-HardEl.P
+5=Pian:254-DX Phase
+16=Orgn:295-16+2'2/3
+19=Orgn:312-NotreDam
+20=Orgn:316-Puff Org
+25=Guit:331-Nyln&Stl
+28=Guit:340-FunkGtr1
+30=Guit:347-FeedbkGt
+32=Bass:353-JazzRthm
+33=Bass:358-Ba&DstEG
+38=Bass:380-TeknoBa
+39=Bass:391-ModulrBa
+44=StrS:401-Susp Str
+46=StrS:404-YangChin
+48=StrE:411-Orchestr
+49=StrE:418-Warm Str
+52=StrE:431-ChoirStr
+54=StrE:434-SynVox2
+61=Brss:455-BrssSec2
+63=Brss:468-SynBrss4
+65=Reed:474-Sax Sect
+66=Reed:477-BrthTnSx
+81=SyLd:509-PulseSaw
+98=SEff:571-GlockChi
+99=SEff:586-NylonEP
+
+[Yamaha PSR-730 Bank 41]
+;BasedOn=Yamaha PSR-730 Bank 0
+0=Pian:232-Dream
+2=Pian:239-ElGrPno2
+5=Pian:255-DX+Analg
+25=Guit:332-Stl&Body
+28=Guit:341-MuteGtlG
+30=Guit:348-FeedbGt2
+39=Bass:392-DX Bass
+48=StrE:412-Orchstr2
+49=StrE:419-Kingdom
+54=StrE:435-Choral
+61=Brss:456-HiBrass
+63=Brss:469-ChoirBrs
+66=Reed:478-SoftTenr
+81=SyLd:510-Dr.Lead
+98=SEff:572-ClearBel
+
+[Yamaha PSR-730 Bank 42]
+;BasedOn=Yamaha PSR-730 Bank 0
+5=Pian:256-DXKotoEP
+48=StrE:413-TremOrch
+61=Brss:457-MelloBrs
+98=SEff:573-ChorBell
+
+[Yamaha PSR-730 Bank 43]
+;BasedOn=Yamaha PSR-730 Bank 0
+24=Guit:326-VelGtHrm
+28=Guit:342-FunkGtr2
+29=Guit:345-Gt.Pinch
+33=Bass:359-FngrSlap
+37=Bass:374-VeloSlap
+65=Reed:475-HyprAlto
+
+[Yamaha PSR-730 Bank 45]
+;BasedOn=Yamaha PSR-730 Bank 0
+4=Pian:247-VX El.P1
+5=Pian:257-VX El.P2
+11=ChPc:273-HardVibe
+28=Guit:343-Jazz Man
+32=Bass:354-VXUprght
+33=Bass:360-FngBass2
+48=StrE:414-VeloStr
+62=Brss:464-AnaVelBr
+63=Brss:470-VelBrss2
+81=SyLd:511-VeloLead
+96=SEff:559-ClaviPad
+
+[Yamaha PSR-730 Bank 64]
+;BasedOn=Yamaha PSR-730 Bank 0
+4=Pian:248-60sEl.P
+7=Pian:265-PulseClv
+10=ChPc:270-Orgel
+12=ChPc:276-SineMrmb
+16=Orgn:296-Organ Ba
+18=Orgn:306-RotaryOr
+19=Orgn:313-OrgFlute
+23=Orgn:322-TngoAcd2
+38=Bass:381-Oscar
+39=Bass:393-X WireBa
+49=StrE:420-70s Str
+50=StrE:424-Syn Str4
+54=StrE:436-AnaVoice
+55=StrE:439-Impact
+62=Brss:465-AnaBrss1
+63=Brss:471-AnaBrss2
+66=Reed:479-TnrSax 2
+80=SyLd:498-Mellow
+83=SyLd:516-Rubby
+84=SyLd:518-DistLead
+85=SyLd:522-VoxLead
+87=SyLd:527-Fat&Prky
+88=SPad:530-Fantasy2
+89=SPad:535-Horn Pad
+90=SPad:538-PolyPd80
+91=SPad:543-Heaven2
+92=SPad:547-Glacier
+93=SPad:550-Tine Pad
+95=SPad:556-PolarPad
+96=SEff:560-HrmoRain
+97=SEff:565-Ancestrl
+98=SEff:574-SynMalet
+99=SEff:587-NylnHarp
+100=SEff:592-FantaBel
+101=SEff:595-GobSyn
+102=SEff:606-EchoBell
+103=SEff:613-Starz
+111=Ethn:632-Shanai2
+117=Perc:651-Mel Tom2
+118=Perc:655-Ana Tom
+
+[Yamaha PSR-730 Bank 65]
+;BasedOn=Yamaha PSR-730 Bank 0
+7=Pian:266-PierceCl
+16=Orgn:297-70sDrOr2
+18=Orgn:307-SloRotar
+19=Orgn:314-TrmOrgFl
+31=Guit:350-GtFeedbk
+33=Bass:361-ModAlem
+38=Bass:382-SqrBass
+49=StrE:421-Str Ens3
+50=StrE:425-SS Str
+80=SyLd:499-SoloSine
+82=SyLd:514-Pure Pad
+84=SyLd:519-WireLead
+87=SyLd:528-SoftWurl
+89=SPad:536-RotarStr
+90=SPad:539-ClickPad
+92=SPad:548-GlassPad
+93=SPad:551-Pan Pad
+96=SEff:561-AfrcnWnd
+98=SEff:575-SftCryst
+99=SEff:588-Harp Vox
+101=SEff:596-50sSciFi
+102=SEff:607-Big Pan
+117=Perc:652-Real Tom
+118=Perc:656-ElecPerc
+
+[Yamaha PSR-730 Bank 66]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:298-CheezOrg
+18=Orgn:308-FstRotar
+31=Guit:351-GtrHrmo2
+38=Bass:383-RubberBa
+80=SyLd:500-SineLead
+90=SPad:540-Ana Pad
+91=SPad:544-Itopia
+95=SPad:557-Celstial
+96=SEff:562-Caribean
+98=SEff:576-LoudGlok
+99=SEff:589-AtmosPad
+101=SEff:597-Ring Pad
+102=SEff:608-SynPiano
+117=Perc:653-Rock Tom
+
+[Yamaha PSR-730 Bank 67]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:299-DrawOrg3
+90=SPad:541-SquarPad
+91=SPad:545-CC Pad
+98=SEff:577-XmasBell
+99=SEff:590-Planet
+101=SEff:598-Ritual
+102=SEff:609-Creation
+
+[Yamaha PSR-730 Bank 68]
+;BasedOn=Yamaha PSR-730 Bank 0
+98=SEff:578-Vibebell
+101=SEff:599-ToHeaven
+102=SEff:610-Stardust
+
+[Yamaha PSR-730 Bank 69]
+;BasedOn=Yamaha PSR-730 Bank 0
+98=SEff:579-DigiBell
+102=SEff:611-Reso Pan
+
+[Yamaha PSR-730 Bank 70]
+;BasedOn=Yamaha PSR-730 Bank 0
+98=SEff:580-AirBells
+101=SEff:600-Night
+
+[Yamaha PSR-730 Bank 71]
+;BasedOn=Yamaha PSR-730 Bank 0
+98=SEff:581-BellHarp
+101=SEff:601-Glisten
+
+[Yamaha PSR-730 Bank 72]
+;BasedOn=Yamaha PSR-730 Bank 0
+98=SEff:582-Gamelmba
+
+[Yamaha PSR-730 Bank 96]
+;BasedOn=Yamaha PSR-730 Bank 0
+14=ChPc:281-ChrchBel
+15=ChPc:285-Cimbalom
+24=Guit:327-Ukulele
+25=Guit:333-Mandolin
+35=Bass:368-SynFretl
+38=Bass:384-Hammer
+81=SyLd:512-Seq Ana
+100=SEff:593-Smokey
+101=SEff:602-BelChoir
+104=Ethn:617-Tambra
+105=Ethn:621-Rabab
+107=Ethn:626-T.Koto
+111=Ethn:633-Pungi
+112=Perc:636-Bonang
+115=Perc:647-Castanet
+116=Perc:649-Gr.Cassa
+
+[Yamaha PSR-730 Bank 97]
+;BasedOn=Yamaha PSR-730 Bank 0
+12=ChPc:277-Balafon2
+14=ChPc:282-Carillon
+15=ChPc:286-Santur
+35=Bass:369-Smooth
+104=Ethn:618-Tamboura
+105=Ethn:622-Gopichnt
+107=Ethn:627-Kanoon
+111=Ethn:634-Hichriki
+112=Perc:637-Gender
+114=Perc:644-GlasPerc
+
+[Yamaha PSR-730 Bank 98]
+;BasedOn=Yamaha PSR-730 Bank 0
+12=ChPc:278-Log Drum
+105=Ethn:623-Oud
+112=Perc:638-Gamelan
+114=Perc:645-ThaiBell
+
+[Yamaha PSR-730 Bank 99]
+;BasedOn=Yamaha PSR-730 Bank 0
+112=Perc:639-S.Gamlan
+
+[Yamaha PSR-730 Bank 100]
+;BasedOn=Yamaha PSR-730 Bank 0
+112=Perc:640-Rama Cym
+
+[Yamaha PSR-730 Bank 101]
+;BasedOn=Yamaha PSR-730 Bank 0
+112=Perc:641-AsianBel
+
+[Yamaha PSR-730 Bank 112]
+;BasedOn=Yamaha PSR-730 Bank 0
+0=Pian:001-Grand Piano
+1=Pian:002-BrightPiano
+2=Pian:004-Midi Grand
+3=Pian:003-Honky Tonk
+4=Pian:009-Funk EP
+5=Pian:008-DX Modern
+6=Pian:018-Harpsichord
+7=Pian:016-Clavi
+8=ChPc:025-Celesta
+9=ChPc:026-Glocken
+10=ChPc:027-Music Box
+11=ChPc:020-Vibraphone
+12=ChPc:022-Marimba
+13=ChPc:023-Xylophone
+14=ChPc:028-TabularBells
+15=ChPc:031-Dulcimer
+16=Orgn:032-Jazz Organ1
+17=Orgn:034-Click Organ
+18=Orgn:039-Rock Organ1
+19=Orgn:052-Pipe Organ
+20=Orgn:054-Reed Organ
+21=Orgn:055-Musette
+22=Orgn:061-Harmonica
+23=Orgn:058-Tango Accrd
+24=Guit:062-Classic Gtr
+25=Guit:064-Folk Guitar
+26=Guit:066-Jazz Guitar
+27=Guit:071-CleanGuitar
+29=Guit:078-Overdrive
+30=Guit:079-Distortion
+32=Bass:082-Aco.Bass
+33=Bass:084-FingerBass
+34=Bass:085-Pick Bass
+35=Bass:086-Fretless
+36=Bass:089-Slap Bass
+37=Bass:090-Funk Bass
+38=Bass:092-Synth Bass
+39=Bass:093-Analog Bass
+40=StrS:097-Solo Violin
+41=StrS:100-Viola
+42=StrS:101-Cello
+43=StrS:102-Contrabass
+44=StrE:118-TremoloStrs
+45=StrE:119-PizzStrings
+46=StrS:103-Harp
+47=ChPc:030-Timpani
+48=StrE:109-Strings
+49=StrE:116-ChamberStrs
+50=StrE:120-Syn Strings
+51=StrE:121-Analog Strs
+52=StrE:122-Choir
+53=StrE:125-Vox Humana
+54=StrE:123-Air Choir
+55=StrE:128-Orch.Hit
+56=Brss:130-Solo Trumpet
+57=Brss:134-Trombone
+58=Brss:137-Tuba
+59=Brss:133-Muted Trp
+60=Brss:136-French Horn
+61=Brss:138-BrasSection
+62=Brss:150-Synth Brass
+63=Brss:151-Analog Brs
+64=Reed:154-Soprano Sax
+65=Reed:155-Alto Sax
+66=Reed:157-Tenor Sax
+67=Reed:159-BaritoneSax
+68=Reed:165-Oboe
+69=Reed:166-EnglishHorn
+70=Reed:167-Bassoon
+71=Reed:161-Clarinet
+72=Pipe:171-Piccolo
+73=Pipe:169-Flute
+74=Pipe:175-Recorder
+75=Pipe:170-Pan Flute
+77=Pipe:173-Shakuhachi
+78=Pipe:174-Whistle
+79=Pipe:176-Ocarina
+80=SyLd:177-Square Lead
+81=SyLd:178-Saw.Lead
+83=SyLd:185-Aero Lead
+88=SPad:203-Fantasia
+89=SPad:206-Area 51
+90=SPad:196-Krypton
+91=SPad:205-Xenon Pad
+92=SPad:201-DX Pad
+93=SPad:202-Loch Ness
+94=SPad:199-Equinox
+95=SPad:198-Wave 2001
+98=SyLd:180-Stardust
+99=SPad:207-Atmosphere
+104=StrS:107-Sitar
+105=StrS:108-Banjo
+106=StrS:105-Shamisen
+107=StrS:106-Koto
+108=ChPc:029-Kalimba
+109=Reed:168-Bagpipe
+110=StrS:099-Fiddle
+114=ChPc:024-Steel Drums
+
+[Yamaha PSR-730 Bank 113]
+;BasedOn=Yamaha PSR-730 Bank 0
+2=Pian:005-CP 80
+4=Pian:014-Tremolo EP
+5=Pian:011-Hyper Tines
+6=Pian:019-GrandHarpsi
+7=Pian:017-Wah Clavi
+11=ChPc:021-Jazz Vibes
+16=Orgn:033-Jazz Organ2
+17=Orgn:035-Dance Organ
+18=Orgn:040-Rock Organ2
+19=Orgn:053-ChapelOrgan
+21=Orgn:057-Trad.Accrd
+23=Orgn:059-Bandoneon
+24=Guit:063-Spanish Gtr
+25=Guit:065-12StrGuitar
+26=Guit:067-Octave Gtr
+27=Guit:073-Tremolo Gtr
+28=Guit:075-Funk Guitar
+29=Guit:077-FeedbackGtr
+35=Bass:087-Jaco Bass
+36=Bass:091-Fusion Bass
+38=Bass:095-Hi Q Bass
+39=Bass:094-Dance Bass
+40=StrS:098-Soft Violin
+46=StrS:104-Hackbrett
+48=StrE:110-OrchStrings
+49=StrE:112-SlowStrings
+52=StrE:124-Vocal Ensbl
+53=StrE:126-Gothic Vox
+54=StrE:127-Voices
+56=Brss:132-Flugel Horn
+57=Brss:149-Trb.Section
+59=Brss:144-BallroomBrs
+61=Brss:139-BigBandBrs
+62=Brss:152-Jump Brass
+65=Reed:156-BreathyAlto
+66=Reed:163-WoodwindEns
+71=Reed:162-MelClarinet
+73=Pipe:172-EthnicFlute
+80=SyLd:183-Vintage Ld
+81=SyLd:179-Big Lead
+88=SPad:211-Symbiont
+89=SPad:208-Dark Moon
+93=SPad:210-Phase IV
+94=SPad:195-Insomnia
+95=SPad:215-Transform
+98=SyLd:184-Sun Bell
+99=SPad:197-Cyber Pad
+
+[Yamaha PSR-730 Bank 114]
+;BasedOn=Yamaha PSR-730 Bank 0
+2=Pian:015-Rock Piano
+4=Pian:006-Galaxy EP
+5=Pian:013-Venus EP
+16=Orgn:050-TheatreOrg1
+17=Orgn:051-TheatreOrg2
+18=Orgn:041-Purple Org
+21=Orgn:060-Soft Accrd
+25=Guit:081-Mandolin
+26=Guit:068-HawaiianGtr
+27=Guit:074-Slap Guitar
+32=Bass:083-Bass&Cymbal
+38=Bass:096-Rave Bass
+48=StrE:111-Symphon.Str
+49=StrE:113-Str.Quartet
+56=Brss:131-SoftTrumpet
+57=Brss:135-MelTrombone
+61=Brss:145-Full Horns
+62=Brss:153-TechnoBrass
+66=Reed:158-Breath Tenor
+80=SyLd:187-Mini Lead
+81=SyLd:181-Blaster
+88=SPad:200-Stargate
+94=SPad:212-Solaris
+
+[Yamaha PSR-730 Bank 115]
+;BasedOn=Yamaha PSR-730 Bank 0
+5=Pian:010-Modern EP
+16=Orgn:036-Drawbar Org
+17=Orgn:037-Mellow Draw
+21=Orgn:056-Accordion
+27=Guit:080-PedalSteel
+48=StrE:114-ConcertoStr
+49=StrE:115-MarcatoStrs
+56=Brss:129-Sweet Trp
+61=Brss:146-High Brass
+66=Reed:164-Brass Combo
+80=SyLd:188-Vinylead
+81=SyLd:182-Analogon
+88=SPad:204-Golden Age
+94=SPad:209-Ionosphere
+
+[Yamaha PSR-730 Bank 116]
+;BasedOn=Yamaha PSR-730 Bank 0
+5=Pian:012-New Tines
+16=Orgn:038-Bright Draw
+17=Orgn:042-60's Organ
+27=Guit:069-BrightClean
+48=StrE:117-Mellow Orch
+61=Brss:140-MellowBrass
+66=Reed:160-Sax Section
+80=SyLd:190-Hi Bias
+81=SyLd:186-Fire Wire
+88=SPad:213-Time Travel
+
+[Yamaha PSR-730 Bank 117]
+;BasedOn=Yamaha PSR-730 Bank 0
+5=Pian:007-Super DX
+16=Orgn:046-16+1 Organ
+17=Orgn:043-Blues Organ
+61=Brss:141-Small Brass
+80=SyLd:191-Meta Wood
+81=SyLd:189-Warp
+88=SPad:214-Millenium
+
+[Yamaha PSR-730 Bank 118]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:047-16+2 Organ
+17=Orgn:049-Elec.Organ
+27=Guit:070-SolidGuitar
+61=Brss:142-Pop Brass
+80=SyLd:192-Tiny Lead
+81=SyLd:193-Sub Aqua
+
+[Yamaha PSR-730 Bank 119]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:048-16+4 Organ
+17=Bass:088-Organ Bass
+27=Guit:072-Elec.12Str
+61=Brss:143-MellowHorns
+81=SyLd:194-Fargo
+
+[Yamaha PSR-730 Bank 120]
+;BasedOn=Yamaha PSR-730 Bank 0
+16=Orgn:044-Mellow Org
+17=Orgn:045-Perc.Organ
+61=Brss:147-BrightBrass
+
+[Yamaha PSR-730 Bank 121]
+;BasedOn=Yamaha PSR-730 Bank 0
+61=Brss:148-Big Brass
+
+[Yamaha PSR-730 SFX Bank]
+0=SFX:666-CuttngNz
+1=SFX:667-CttngNz2
+3=SFX:668-Str Slap
+16=SFX:669-Fl.KClik
+32=SFX:670-Rain
+33=SFX:671-Thunder
+34=SFX:672-Wind
+35=SFX:673-Stream
+36=SFX:674-Bubble
+37=SFX:675-Feed
+48=SFX:676-Dog
+49=SFX:677-Horse
+50=SFX:678-Bird 2
+54=SFX:679-Ghost
+55=SFX:680-Maou
+64=SFX:681-Tel.Dial
+65=SFX:682-DoorSqek
+66=SFX:683-DoorSlam
+67=SFX:684-Scratch
+68=SFX:685-Scratch2
+69=SFX:686-WindChm
+70=SFX:687-Telphon2
+80=SFX:688-CarEngin
+81=SFX:689-Car Stop
+82=SFX:690-Car Pass
+83=SFX:691-CarCrash
+84=SFX:692-Siren
+85=SFX:693-Train
+86=SFX:694-Jetplane
+87=SFX:695-Starship
+88=SFX:696-Burst
+89=SFX:697-Coaster
+90=SFX:698-SbMarine
+96=SFX:699-Laughing
+97=SFX:700-Scream
+98=SFX:701-Punch
+99=SFX:702-Heart
+100=SFX:703-FootStep
+112=SFX:704-MchinGun
+113=SFX:705-LaserGun
+114=SFX:706-Xplosion
+115=SFX:707-FireWork
+
+[Yamaha PSR-730 SFX]
+0=SFX Kit1
+1=SFX Kit2
+
+[Yamaha PSR-730 Drums]
+0=Drum:216-Std.Kit1
+1=Drum:217-Std.Kit2
+8=Drum:218-Room Kit
+16=Drum:219-Rock Kit
+24=Drum:220-Electro Kit
+25=Drum:221-Analog Kit
+27=Drum:222-Dance Kit
+32=Drum:223-Jazz Kit
+40=Drum:224-Brush Kit
+48=Drum:225-Classic Kit
+
+;--------------------------------------------------------
+.Note Names
+
+[Yamaha PSR-730 Std.Kit1]
+13=Surdo Mute
+14=Surdo Open
+15=Hi Q
+16=Whip Slap
+17=Scratch Push
+18=Scratch Pull
+19=Finger Snap
+20=Click Noise
+21=Metronome Click
+22=Metronome Bell
+23=Seq Click L
+24=Seq Click H
+25=Brush Tap
+26=Brush Swirl L
+27=Brush Slap
+28=Brush Swirl H
+29=Snare Roll
+30=Castanet
+31=Snare L
+32=Sticks
+33=Bass Drum L
+34=Open Rim Shot
+35=Bass Drum M
+36=Bass Drum H
+37=Side Stick
+38=Snare M
+39=Hand Clap
+40=Snare H
+41=Floor Tom L
+42=Hi-Hat Closed
+43=Floor Tom H
+44=Hi-Hat Pedal
+45=Low Tom
+46=Hi-Hat Open
+47=Mid Tom L
+48=Mid Tom H
+49=Crash Cymbal 1
+50=High Tom
+51=Ride Cymbal 1
+52=Chinese Cymbal
+53=Ride Cymbal Cup
+54=Tambourine
+55=Splash Cymbal
+56=Cowbell
+57=Crash Cymbal 2
+58=Vibraslap
+59=Ride Cymbal 2
+60=Bongo H
+61=Bongo L
+62=Conga H Mute
+63=Conga H Open
+64=Conga L
+65=Timbale H
+66=Timbale L
+67=Agogo H
+68=Agogo L
+69=Cabasa
+70=Maracas
+71=Samba Whistle H
+72=Samba Whistle L
+73=Guiro Short
+74=Guiro Long
+75=Claves
+76=Wood Block H
+77=Wood Block L
+78=Cuica Mute
+79=Cuica Open
+80=Triangle Mute
+81=Triangle Open
+82=Shaker
+83=Jingle Bell
+84=Bell Tree
+
+[Yamaha PSR-730 Std.Kit2]
+BasedOn=Yamaha PSR-730 Std.Kit1
+34=Open Rim Shot 2
+35=Bass Drum M 2
+36=Bass Drum H 2
+38=Snare M 2
+40=Snare H 2
+
+[Yamaha PSR-730 Room Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+36=BD Room
+41=Room Tom 1
+43=Room Tom 2
+45=Room Tom 3
+47=Room Tom 4
+48=Room Tom 5
+50=Room Tom 6
+
+[Yamaha PSR-730 Rock Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+31=SD Rock M
+33=Bass Drum M
+35=Bass Drum H
+36=BD Rock
+38=SD Rock
+40=SD Rock Rim
+41=Rock Tom 1
+43=Rock Tom 2
+45=Rock Tom 3
+47=Rock Tom 4
+48=Rock Tom 5
+50=Rock Tom 6
+
+[Yamaha PSR-730 Electro Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+28=Reverse Cymbal
+30=Hi Q
+31=Snare M
+33=Bass Drum H 4
+35=BD Rock
+36=BD Gate
+38=SD Rock L
+40=SD Rock H
+41=E Tom 1
+43=E Tom 2
+45=E Tom 3
+47=E Tom 4
+48=E Tom 5
+50=E Tom 6
+78=Scratch Push
+79=Scratch Pull
+
+[Yamaha PSR-730 Analog Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+28=Reverse Cymbal
+30=Hi Q
+31=SD Rock H
+33=Bass Drum M
+35=BD Analog L
+36=BD Analog H
+37=Analog Side Stick
+38=Analog Snare L
+40=Analog Snare H
+41=Analog Tom 1
+42=Analog HH Closed 1
+43=Analog Tom 2
+44=Analog HH Closed 2
+45=Analog Tom 3
+46=Analog HH Open
+47=Analog Tom 4
+48=Analog Tom 5
+49=Analog Cymbal
+50=Analog Tom 6
+56=Analog Cowbell
+62=Analog Conga H
+63=Analog Conga M
+64=Analog Conga L
+70=Analog Maracas
+75=Analog Claves
+78=Scratch Push
+79=Scratch Pull
+
+[Yamaha PSR-730 Dance Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+33=Dance-1
+35=Dance-2
+41=Analog Tom 1
+43=Analog Tom 2
+45=Analog Tom 3
+47=Analog Tom 4
+48=Analog Tom 5
+50=Analog Tom 6
+
+[Yamaha PSR-730 Jazz Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+36=BD Jazz
+41=Jazz Tom 1
+43=Jazz Tom 2
+45=Jazz Tom 3
+47=Jazz Tom 4
+48=Jazz Tom 5
+50=Jazz Tom 6
+
+[Yamaha PSR-730 Brush Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+31=Brush Slap L
+36=BD Soft
+38=Brush Slap
+40=Brush Tap
+41=Brush Tom 1
+43=Brush Tom 2
+45=Brush Tom 3
+47=Brush Tom 4
+48=Brush Tom 5
+50=Brush Tom 6
+
+[Yamaha PSR-730 Classic Kit]
+BasedOn=Yamaha PSR-730 Std.Kit1
+36=Gran Casa
+41=Jazz Tom 1
+43=Jazz Tom 2
+45=Jazz Tom 3
+47=Jazz Tom 4
+48=Jazz Tom 5
+49=Hand Cym. Open L
+50=Jazz Tom 6
+51=Hand Cym. Closed L
+57=Hand Cym. Open H
+59=Hand Cym. Close H
+
+.Controller Names
+
+[Yamaha PSR-730 Controllers]
+0=000-Bank Select MSB
+1=001-Modulation
+5=005-Portamento Time
+6=006-Data Entry MSB
+7=007-Master Volume
+10=010-Panpot
+11=011-Expression
+32=032-Bank Select LSB
+38=038-Data Entry LSB
+64=064-Sustain
+65=065-Portamento
+66=066-Sostenuto
+67=067-Soft Pedal
+71=071-Harmonic Content
+72=072-Release Time
+73=073-Attack Time
+74=074-Brightness
+84=084-Portamento Control
+91=091-Reverb Send Level
+93=093-Chorus Send Level
+94=094-Variation Send Level
+96=096-RPN Increment
+97=097-RPN Decrement
+98=098-NRPN LSB
+99=099-NRPN MSB
+100=100-RPN LSB
+101=101-RPN MSB
+120=120-All Sound Off
+121=121-Reset All Controllers
+123=123-All Notes Off
+124=124-OMNI Off
+125=125-OMNI On
+126=126-Mono
+127=127-Poly
+
+.Instrument Definitions
+
+[Yamaha PSR-730 (XG)]
+Control=Yamaha PSR-730 Controllers
+Patch[0]=Yamaha PSR-730 Bank 0
+Patch[1]=Yamaha PSR-730 Bank 1
+Patch[3]=Yamaha PSR-730 Bank 3
+Patch[6]=Yamaha PSR-730 Bank 6
+Patch[8]=Yamaha PSR-730 Bank 8
+Patch[11]=Yamaha PSR-730 Bank 11
+Patch[12]=Yamaha PSR-730 Bank 12
+Patch[14]=Yamaha PSR-730 Bank 14
+Patch[16]=Yamaha PSR-730 Bank 16
+Patch[17]=Yamaha PSR-730 Bank 17
+Patch[18]=Yamaha PSR-730 Bank 18
+Patch[19]=Yamaha PSR-730 Bank 19
+Patch[20]=Yamaha PSR-730 Bank 20
+Patch[24]=Yamaha PSR-730 Bank 24
+Patch[25]=Yamaha PSR-730 Bank 25
+Patch[27]=Yamaha PSR-730 Bank 27
+Patch[28]=Yamaha PSR-730 Bank 28
+Patch[32]=Yamaha PSR-730 Bank 32
+Patch[33]=Yamaha PSR-730 Bank 33
+Patch[34]=Yamaha PSR-730 Bank 34
+Patch[35]=Yamaha PSR-730 Bank 35
+Patch[36]=Yamaha PSR-730 Bank 36
+Patch[37]=Yamaha PSR-730 Bank 37
+Patch[38]=Yamaha PSR-730 Bank 38
+Patch[40]=Yamaha PSR-730 Bank 40
+Patch[41]=Yamaha PSR-730 Bank 41
+Patch[42]=Yamaha PSR-730 Bank 42
+Patch[43]=Yamaha PSR-730 Bank 43
+Patch[45]=Yamaha PSR-730 Bank 45
+Patch[64]=Yamaha PSR-730 Bank 64
+Patch[65]=Yamaha PSR-730 Bank 65
+Patch[66]=Yamaha PSR-730 Bank 66
+Patch[67]=Yamaha PSR-730 Bank 67
+Patch[68]=Yamaha PSR-730 Bank 68
+Patch[69]=Yamaha PSR-730 Bank 69
+Patch[70]=Yamaha PSR-730 Bank 70
+Patch[71]=Yamaha PSR-730 Bank 71
+Patch[72]=Yamaha PSR-730 Bank 72
+Patch[96]=Yamaha PSR-730 Bank 96
+Patch[97]=Yamaha PSR-730 Bank 97
+Patch[98]=Yamaha PSR-730 Bank 98
+Patch[99]=Yamaha PSR-730 Bank 99
+Patch[100]=Yamaha PSR-730 Bank 100
+Patch[101]=Yamaha PSR-730 Bank 101
+Patch[112]=Yamaha PSR-730 Bank 112
+Patch[113]=Yamaha PSR-730 Bank 113
+Patch[114]=Yamaha PSR-730 Bank 114
+Patch[115]=Yamaha PSR-730 Bank 115
+Patch[116]=Yamaha PSR-730 Bank 116
+Patch[117]=Yamaha PSR-730 Bank 117
+Patch[118]=Yamaha PSR-730 Bank 118
+Patch[119]=Yamaha PSR-730 Bank 119
+Patch[120]=Yamaha PSR-730 Bank 120
+Patch[121]=Yamaha PSR-730 Bank 121
+Patch[8192]=Yamaha PSR-730 SFX Bank
+Patch[16128]=Yamaha PSR-730 SFX
+Patch[16256]=Yamaha PSR-730 Drums
+Patch[*]=Yamaha PSR-730 Bank 0
+Key[16128,0]=Yamaha PSR-730 SFX Kit 1
+Key[16128,1]=Yamaha PSR-730 SFX Kit 2
+Key[16256,0]=Yamaha PSR-730 Std.Kit1
+Key[16256,1]=Yamaha PSR-730 Std.Kit2
+Key[16256,8]=Yamaha PSR-730 Room Kit
+Key[16256,16]=Yamaha PSR-730 Rock Kit
+Key[16256,24]=Yamaha PSR-730 Electro Kit
+Key[16256,25]=Yamaha PSR-730 Analog Kit
+Key[16256,27]=Yamaha PSR-730 Dance Kit
+Key[16256,32]=Yamaha PSR-730 Jazz Kit
+Key[16256,39]=Yamaha PSR-730 Brush Kit
+Key[16256,48]=Yamaha PSR-730 Classic Kit
+Drum[16256,*]=1
+
