@@ -3,6 +3,8 @@
 ## TODO
 - [ ] Full studio signal-flow diagram (audio + MIDI) once mio XM 4x4 is installed - need physical mixer channel assignments per synth. All 7 synths now have a mio XM 4x4 port assigned (see below); still need whatever USB 4 ends up used for. Same reference style as the [Aux Routing Map](https://www.conspicuoustechnologist.com/studio/aux-routing-map/).
 - [ ] Figure out which Zildjian hi-hat model is actually owned (ZBT? A? K?) so a real product photo can be sourced for it on /studio/ - not urgent
+- [ ] Get exact model number for the Insignia stereo receiver so a real product photo and specs can be sourced for it on /studio/ - not urgent (Behringer mixer confirmed as DDM4000, done)
+- [ ] Find real product photos for the Pioneer CDJ-200 and Technics SB-CR33 - couldn't source clean ones online (Reverb/eBay/Audiofanzine all block scraping), Technics SL-1200 MK2 and JBL LSR2325P photos already sourced and in place - not urgent
 
 ## Guitars
 | Instrument                   | URL | Key Specs                                            | Tuning   |
@@ -66,6 +68,16 @@
 | 11-12   | Dave Smith Poly Evolver (stereo) |
 | 13-14   | Korg Electribe ESX-1 (stereo) |
 | 15-16   | Korg microKORG (stereo)     |
+
+## DJ Booth
+- Technics SL-1200 MK2 (x2) - [Wikipedia](https://en.wikipedia.org/wiki/Technics_SL-1200) - direct-drive, quartz-locked, +/-8% pitch control, 0.7s start-up torque, 0.01% wow/flutter, 12.5kg
+- Pioneer CDJ-200 (x2) - CD/CD-R/CD-RW/MP3 playback, +/-6/10/16% tempo range, 3.9" jog dial, 3.2kg, 216x292x99.5mm
+- Behringer DDM4000 - 5-channel digital DJ mixer, 32-bit, beat-synced sampler, dual multi-FX, dual BPM counters, 3-band EQ w/ kill per channel, MIDI capable. Temporary
+
+## Monitoring
+- JBL LSR2325P (LSR2300 series) studio monitors - 5" bi-amplified two-way, ~90W, Main Out from the Onyx 1640i, primary monitoring
+- Insignia stereo receiver (Best Buy house brand, exact model and specs TBD) - Ctrl Room Out from the Onyx 1640i into Aux 2, computer into Aux 1, DJ booth mixer into Phono
+- Technics SB-CR33 - 2-way floor-standing, 140W, 8 ohms, 12.5"W x 10.5"D x 23.5"H, driven by the Insignia receiver
 
 ## MIDI Interfaces
 | Interface                    | URL | Key Specs                                            |
