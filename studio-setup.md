@@ -4,7 +4,6 @@
 - [ ] Full studio signal-flow diagram (audio + MIDI) once mio XM 4x4 is installed - need physical mixer channel assignments per synth. All 7 synths now have a mio XM 4x4 port assigned (see below); still need whatever USB 4 ends up used for. Same reference style as the [Aux Routing Map](https://www.conspicuoustechnologist.com/studio/aux-routing-map/).
 - [ ] Figure out which Zildjian hi-hat model is actually owned (ZBT? A? K?) so a real product photo can be sourced for it on /studio/ - not urgent
 - [ ] Get exact model number for the Insignia stereo receiver so a real product photo and specs can be sourced for it on /studio/ - not urgent (Behringer mixer confirmed as DDM4000, done)
-- [ ] Find real product photos for the Pioneer CDJ-200 and Technics SB-CR33 - couldn't source clean ones online (Reverb/eBay/Audiofanzine all block scraping), Technics SL-1200 MK2 and JBL LSR2325P photos already sourced and in place - not urgent
 
 ## Guitars
 | Instrument                   | URL | Key Specs                                            | Tuning   |
