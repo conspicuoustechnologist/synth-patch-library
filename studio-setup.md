@@ -113,6 +113,27 @@ The mio XM presents 16 generic MIDI ports over its single USB-DAW connection (Wi
 | 13 | Preset Selector | Not a synth - send it a message to remotely switch the mio XM's stored routing presets from the DAW without opening Auracle |
 | 14-16 | RSV 1-3 | Reserved, no default routing, fully open for custom use via Auracle X |
 
+### Known Routing Gotcha: Poly Evolver MIDI Feedback
+Every synth's Auracle routing has its own DIN input also mapped back to its own DIN output (self-loop), harmless for most of them since their MIDI Out only carries data they generate themselves. The Poly Evolver's MIDI Out merges generated data with whatever it's currently receiving on its In (no dedicated Thru jack), so with that self-loop route in place it sustains a real feedback loop, most noticeably on MIDI System Real-Time messages (Start, Stop, Continue, Timing Clock), which are designed to pass through gear transparently and, in Clock's case, stream continuously during playback.
+
+Fix: in Auracle's Filter & Remap page, select DIN2 as the Input and filter all four Real-Time types, Start, Stop, Continue, and Timing Clock. All four are required, filtering just Start/Stop/Continue leaves Clock alone sufficient to keep the loop going. With all four blocked, DIN2's self-loop route can stay in place without feeding back.
+
+### RTP-MIDI Network (Second Computer / Reaper on Windows 7)
+Lets the Windows 7 desktop running Reaper reach the same DIN-routed synths over Ethernet instead of USB, so Reaper and Ableton Live can each use them independently at the same time. Bonjour/mDNS discovery proved unreliable on that machine (Windows 7 flags a link-local connection as an Unidentified/Public network and blocks discovery), so both ends run static IPs and every connection is added manually by IP and port instead of relying on auto-discovery.
+
+- mio XM static IP: 192.168.44.4
+- Windows 7 desktop static IP: 192.168.44.44
+- One rtpMIDI local session plus one matching mio XM peer per synth chain, each pair named for the synth, not "mioxm." A session and its peer can't share a name or the connection won't populate.
+- Peer port and session port, session is always peer port minus 2:
+  - Electribe ESX-1 + microKORG chain: peer 5004, session 5002
+  - Dave Smith Poly Evolver: peer 5006, session 5004
+  - Alesis Micron: peer 5008, session 5006
+  - Yamaha PSR-730: peer 5010, session 5008
+  - Modal Argon8: peer 5012, session 5010
+  - Moog Little Phatty: peer 5014, session 5012
+- Each virtual RTP port is routed in Auracle X's MIDI Routing page to the same DIN output listed in the port table above.
+- In Reaper's MIDI Devices preferences, each of the six shows up as its own device: output enabled, "send clock" left unchecked. A leftover clock-enabled device produced a MIDI activity LED that never stopped blinking regardless of whether a note was actually sent, which masked whether real data was getting through during setup.
+
 ## Effects
 **Visual reference:** [Aux Routing Map](https://www.conspicuoustechnologist.com/studio/aux-routing-map/) - signal-flow diagram of all four aux sends/returns below, including the Aux 4 / Aux 2 return-jack reuse. Captured 2026-09-04, before the mio XM 4x4 rebuild.
 
