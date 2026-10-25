@@ -2,7 +2,7 @@
 
 ## TODO
 - [ ] Full studio signal-flow diagram (audio + MIDI) once mio XM 4x4 is installed - need physical mixer channel assignments per synth. All 7 synths now have a mio XM 4x4 port assigned (see below); still need whatever USB 4 ends up used for. Same reference style as the [Aux Routing Map](https://www.conspicuoustechnologist.com/studio/aux-routing-map/).
-- [ ] Figure out which Zildjian hi-hat model is actually owned (ZBT? A? K?) so a real product photo can be sourced for it on /studio/ - not urgent
+- [ ] Source a product photo for the Zildjian ZBT 13" hi-hats on /studio/ (model confirmed 2026-10-20)
 - [ ] Get exact model number for the Insignia stereo receiver so a real product photo and specs can be sourced for it on /studio/ - not urgent (Behringer mixer confirmed as DDM4000, done)
 
 ## Guitars
@@ -38,7 +38,7 @@
 |------------------------------|-----|------------------------------------------------------|
 | Starion Drum Kit             | [zZounds](https://www.zzounds.com/item--STRSTR5) | Remo upgraded heads, cowbell, snare, toms, bass, cymbals |
 | Cowbell                      | N/A | Mounted on drum kit, accents                         |
-| Zildjian Hi-Hat              | [Zildjian](https://zildjian.com/products/cymbals/) | Hi-hat cymbal (alloy)                                |
+| Zildjian ZBT 13" Hi-Hats      | [Zildjian](https://reverb.com/p/zildjian-13-zbt-hi-hat-cymbals-pair-2004-2019) | Hi-hat pair (B8 bronze)                              |
 | Meinl HCS 10" Splash         | [Meinl](https://meinlcymbals.com/product/hcs-10-splash/) | Brass splash cymbal                                  |
 | Meinl HCS 14" Crash          | [Meinl](https://meinlcymbals.com/product/hcs-14-crash/) | Brass crash cymbal                                   |
 | Meinl HCS 18" Crash          | [Meinl](https://meinlcymbals.com/product/hcs-18-crash/) | Brass crash cymbal                                   |
@@ -104,8 +104,8 @@ The mio XM presents 16 generic MIDI ports over its single USB-DAW connection (Wi
 | 1 | DIN 1 | Electribe ESX-1 → microKORG chain | Electribe: 13, microKORG: 15 |
 | 2 | DIN 2 | Dave Smith Poly Evolver | 16 |
 | 3 | DIN 3 | Alesis Micron | 1 |
-| 4 | DIN 4 | Yamaha PSR-730 | 1 (probably) |
-| 5 | HST 1 | Modal Argon8 | 1 (probably) |
+| 4 | DIN 4 | Yamaha PSR-730 | 1-16 (multi-timbral) |
+| 5 | HST 1 | Modal Argon8 | 1 |
 | 6 | HST 2 | Moog Little Phatty Stage II | 11 |
 | 7 | HST 3 | M-Audio Radium 49 | TBD |
 | 8 | HST 4 | Unassigned (mio USB 4 open) | - |
