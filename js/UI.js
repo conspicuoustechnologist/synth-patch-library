@@ -24,12 +24,11 @@ class UI {
 
       item.layers.forEach((p, li) => {
         h += '<div class="stack-layer">';
-        if (item.layers.length > 1) {
-          h += '<div class="layer-controls">' +
-               '<button class="edit-btn" onclick="app.editLayer(' + ci + ',' + li + ')">✏️ EDIT</button>' +
-               '<button class="delete-btn" onclick="app.deleteLayer(' + ci + ',' + li + ')">🗑️ DELETE</button>' +
-               '</div>';
-        }
+        // edit on every layer; delete only on stacked slots, so a slot is never left empty
+        h += '<div class="layer-controls">' +
+             '<button class="edit-btn" onclick="app.editLayer(' + ci + ',' + li + ')">✏️ EDIT</button>' +
+             (item.layers.length > 1 ? '<button class="delete-btn" onclick="app.deleteLayer(' + ci + ',' + li + ')">🗑️ DELETE</button>' : '') +
+             '</div>';
         h += '<div class="patch-synth">' + p.synth + '</div>' +
              '<div class="patch-name">' + p.name + '</div>' + this.previews(p) +
              '<div class="patch-description">' + p.description + '</div>' +
@@ -83,8 +82,10 @@ class UI {
 
     const sel = document.createElement('select');
     sel.className = 'patch-dropdown';
-    sel.innerHTML = opts;
+    // a placeholder first, so picking the first real patch is a change too (a select starts on its first option)
+    sel.innerHTML = '<option value="" disabled selected>choose a patch...</option>' + opts;
     sel.onchange = () => {
+      if (sel.value === '') return;
       this.gen.replaceLayer(slotIndex, layerIndex, valid[sel.value]);
       this.display();
     };
