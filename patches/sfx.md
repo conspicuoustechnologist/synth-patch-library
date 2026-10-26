@@ -133,19 +133,10 @@
 | SFX:706-Xplosion | Xplosion |
 | SFX:707-FireWork | FireWork |
 
-## Alesis Micron (48 patches)
+## Alesis Micron (40 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| Sfx:* 101 Vocoder | Sound effect |
-| Sfx:* Deep Vocoder | Sound effect |
-| Sfx:* ExtIn-Dly+FM | Sound effect |
-| Sfx:* ExtIn-Filter | Sound effect |
-| Sfx:* ExtIn-Flt+Pn | Sound effect |
-| Sfx:* ExtIn-Gate | Sound effect |
-| Sfx:* Goblin Talk | Sound effect |
-| Sfx:* Hobbitronix | Sound effect |
-| Sfx:* Sing 'Coder | Sound effect |
 | Sfx:Airlock Door | Sound effect |
 | Sfx:AsteroidsD-Lux | Sound effect |
 | Sfx:Bombs Away | Sound effect |
@@ -185,6 +176,7 @@
 | Sfx:Wind | Sound effect |
 | Sfx:Windy City | Sound effect |
 | Sfx:X-Mod | Sound effect |
+| Sfx:Seafoam | Sound effect |
 
 ## Dave Smith Poly Evolver (38 patches)
 
@@ -239,4 +231,4 @@
 
 ---
 
-**Total: 204 SFX/effects patches across all synths**
+**Total: 196 SFX/effects patches across all synths**

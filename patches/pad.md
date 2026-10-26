@@ -130,7 +130,7 @@
 | SPad:556-PolarPad | PolarPad |
 | SPad:557-Celstial | Celstial |
 
-## Alesis Micron (128 patches)
+## Alesis Micron (127 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -252,7 +252,6 @@
 | Pad:VelocityContrl | Velocity control pad |
 | Pad:Venusian Sweep | Venusian sweep pad |
 | Pad:Vindicarum | Vindicarum pad |
-| Pad:Vocoded Ents | Vocoded ents pad |
 | Pad:Vocojam | Vocojam pad |
 | Pad:Voices | Voices pad |
 | Pad:Vox Layer | Vox layer pad |
@@ -406,4 +405,4 @@
 
 ---
 
-**Total: 376 pad patches across all synths**
+**Total: 375 pad patches across all synths**

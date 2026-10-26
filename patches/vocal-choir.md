@@ -43,22 +43,6 @@
 | SyLd:520-Voice Ld | Vocal/choir sound |
 | SyLd:521-SynthAah | Aah vocal |
 
-## Alesis Micron (11 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| Voice:116-Ooh | Ooh vocal |
-| Voice:117-Aah | Aah vocal |
-| Voice:383-AahVoice | Aah vocal |
-| Voice:384-OohVoice | Ooh vocal |
-| Voice:385-SynVoice | Synth voice |
-| Voice:386-OrcheHit | Orchestra hit |
-| Voice:387-SynVoice2 | Synth voice |
-| Voice:388-Choir | Choir voice |
-| Voice:389-MelChoir | Choir voice |
-| Voice:390-VoiceHmm | Vocal/choir sound |
-| Voice:391-VoxHumnz | Vocal/choir sound |
-
 ## Dave Smith Poly Evolver (2 patches)
 
 | Patch Name | Description |
@@ -74,4 +58,4 @@
 
 ---
 
-**Total: 39 vocal/choir patches across all synths**
+**Total: 28 vocal/choir patches across all synths**

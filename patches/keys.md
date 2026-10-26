@@ -175,7 +175,7 @@
 | Pian:263-Clavi.K | Clavi.K |
 | Pian:264-ClaviWah | ClaviWah |
 
-## Alesis Micron (34 patches)
+## Alesis Micron (36 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -213,6 +213,8 @@
 | Key:TurboPhiliOrgn | Turbo Phili organ |
 | Key:Vintage Piano | Vintage piano |
 | Key:Zorgan | Z organ |
+| Key:EP? OK! | Keys |
+| Key:Funky 70's Clav | Keys |
 
 ## Dave Smith Poly Evolver (16 patches)
 
@@ -243,4 +245,4 @@
 
 ---
 
-**Total: 208 keys/piano patches across all synths**
+**Total: 210 keys/piano patches across all synths**

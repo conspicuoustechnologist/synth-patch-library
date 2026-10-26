@@ -201,14 +201,13 @@
 | SyLd:519-WireLead | WireLead |
 | SyLd:522-VoxLead | VoxLead |
 
-## Alesis Micron (135 patches)
+## Alesis Micron (141 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | Lead:Adrastea | Jupiter moon-inspired lead |
 | Lead:AquamarineLead | Aquamarine-colored tonal lead |
 | Lead:Bambam Lead | Bambam-style aggressive lead |
-| Lead:Canada Lead | Canadian synth lead |
 | Lead:Cars Sync | Gary Numan Cars sync lead |
 | Lead:CoolMellowLead | Cool, mellow lead tone |
 | Lead:Executioner | Sharp, cutting executioner lead |
@@ -340,6 +339,13 @@
 | Comp:Wet Comper | Comp/stab sound |
 | Comp:Whisker Comper | Comp/stab sound |
 | Comp:WontGetFooled | Comp/stab sound |
+| Comp:Amsterdam DJ | Lead |
+| Comp:Beefy Sync | Lead |
+| Comp:Bioinformatics | Lead |
+| Comp:Boss Battle | Lead |
+| Comp:FM Slider 2 | Lead |
+| Comp:Tiny Bell | Lead |
+| Lead:Micron Flute | Lead |
 
 ## Dave Smith Poly Evolver (118 patches)
 
@@ -539,4 +545,4 @@
 
 ---
 
-**Total: 504 lead patches across all synths**
+**Total: 510 lead patches across all synths**

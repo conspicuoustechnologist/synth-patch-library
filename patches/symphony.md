@@ -217,7 +217,7 @@
 | StrS:108-Banjo | Banjo |
 | StrS:403-Harp | Harp |
 
-## Alesis Micron (44 patches)
+## Alesis Micron (43 patches)
 
 ### Brass (26 patches)
 
@@ -250,7 +250,7 @@
 | Brass:WowThat'sBrass | Wow that's brass |
 | Brass:Zoik Brass | Zoik brass |
 
-### Strings (18 patches)
+### Strings (17 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -271,7 +271,6 @@
 | String:Sweet Dreams | Sweet dreams strings |
 | String:The Yoyo-Ma's | Yo-Yo Ma strings |
 | String:Velocity Strings | Velocity strings |
-| String:Violacoder | Viola vocoder |
 
 ## Dave Smith Poly Evolver (29 patches)
 
@@ -331,4 +330,4 @@
 
 ---
 
-**Total: 89 brass patches, 87 string patches, 73 other (249 symphony patches total)**
+**Total: 89 brass patches, 86 string patches, 73 other (248 symphony patches total)**

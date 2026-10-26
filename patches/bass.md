@@ -176,7 +176,7 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | StrS:102-Contrabass | Contrabass/double bass orchestral |
 | SyLd:525-Bass&Ld | Bass and lead hybrid |
 
-## Alesis Micron (44 patches)
+## Alesis Micron (46 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -224,6 +224,8 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | Bass:U-Bahn Jam | Subway/underground jam bass |
 | Bass:Vlad Bass | Vampire/dark bass |
 | Bass:What's Down? | Low-end focused bass |
+| Bass:Analogue Seq | Bass |
+| Bass:Super Mini | Bass |
 
 ## Dave Smith Poly Evolver (54 patches)
 
@@ -309,4 +311,4 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 
 ---
 
-**Total: 241 bass patches across all synths**
+**Total: 243 bass patches across all synths**
