@@ -16,8 +16,10 @@ body{font:400 1.15rem/1.6 var(--serif);background:var(--bg);color:var(--text);pa
 .logo .base{filter:grayscale(1) brightness(.9)}
 /* the blue copy of each character cell fades in left to right; when the last one is lit the logo glitches */
 .logo .lit{position:absolute;inset:0;opacity:0;transition:opacity .4s ease}
-.logo:hover .lit{opacity:1;transition:opacity .5s ease calc(var(--i) * 140ms)}
+.logo:hover .lit,.logo.is-lit .lit{opacity:1;transition:opacity .5s ease calc(var(--i) * 140ms)}
 .logo:hover{animation:glitch .3s 2.3s infinite}
+/* phones: lit on load (index.html), the glitch runs about 3 seconds then stops with the letters still lit */
+.logo.is-lit{animation:glitch .3s 2.3s 10}
 @keyframes glitch{0%{transform:translate(0)}20%{transform:translate(-3px,3px)}40%{transform:translate(-3px,-3px)}60%{transform:translate(3px,3px)}80%{transform:translate(3px,-3px)}100%{transform:translate(0)}}
 .subtitle{text-align:center;color:var(--dim);font:italic 400 1.05rem/1.4 var(--serif);margin-bottom:2rem}
 .section-tabs{display:flex;gap:.5rem 2.5rem;justify-content:center;margin-bottom:2rem;flex-wrap:wrap}

@@ -175,5 +175,10 @@
 <script src="js/Generator.js"></script>
 <script src="js/UI.js"></script>
 <script src="js/app.js"></script>
+<script>
+/* phones have no hover: light the logo on its own shortly after load, the same steps as hovering (as on voodoosystem.com) */
+if (window.matchMedia && window.matchMedia('(hover: none)').matches)
+  setTimeout(function () { document.querySelector('.logo-container .logo').classList.add('is-lit'); }, 800);
+</script>
 </body>
 </html>
