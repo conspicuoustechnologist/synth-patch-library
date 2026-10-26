@@ -7,7 +7,7 @@ Complete patch reference for all synthesizers in the studio setup.
 ## 📋 Quick Links
 
 ### 🎲 Tools
-- [**Patch Generator**](tools/patch-generator.html) - Random patch combo generator for song inspiration
+- [**Patch Generator**](index.html) - Random patch combo generator for song inspiration
 
 ### Studio Setup
 - [**Music Setup & Gear**](studio-setup.md) - Complete studio equipment list and configuration

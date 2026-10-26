@@ -1,6 +1,6 @@
-const { PATCHES }       = require('../tools/data/patches');
-const { PatchLibrary }  = require('../tools/js/PatchLibrary');
-const { Generator }     = require('../tools/js/Generator');
+const { PATCHES }       = require('../data/patches');
+const { PatchLibrary }  = require('../js/PatchLibrary');
+const { Generator }     = require('../js/Generator');
 
 const KNOWN_SYNTHS = [
   'Modal Argon8',

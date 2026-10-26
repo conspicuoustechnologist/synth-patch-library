@@ -1,1 +1,4 @@
 node_modules/
+# audio previews and their list, made by patchprint (prototype/previews.py); deployed, never checked in
+previews/
+data/previews.js

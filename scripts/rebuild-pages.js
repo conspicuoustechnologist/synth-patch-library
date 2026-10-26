@@ -1,11 +1,11 @@
-// Rebuild the category pages (patches/*.md) from tools/data/patches.js, which is the source of truth.
+// Rebuild the category pages (patches/*.md) from data/patches.js, which is the source of truth.
 // Run: npm run pages. Each page keeps its title and back link, gets one table per synth in a fixed order and a
 // recomputed total. Read back from the old page: symphony's Brass/Strings split (new patches land in "Other"
 // until moved on the page) and the TB-303 recipe under the Phatty bass table.
 const fs = require('fs');
 const path = require('path');
 process.chdir(path.join(__dirname, '..'));
-const { PATCHES } = require('./data/patches.js');
+const { PATCHES } = require('../data/patches.js');
 const PAGES = { bass: 'bass', lead: 'lead', pad: 'pad', percussion: 'percussion', keys: 'keys', arpeggio: 'arpeggio',
                 sfx: 'sfx', symphony: 'symphony', guitar: 'guitar', vocal: 'vocal-choir', unknown: 'unknown', soundtrack: 'soundtrack' };
 const ORDER = ['Modal Argon8', 'Moog Little Phatty', 'Yamaha PSR-730', 'Alesis Micron', 'Dave Smith Poly Evolver', 'Korg microKORG'];
