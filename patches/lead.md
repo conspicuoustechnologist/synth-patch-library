@@ -3,7 +3,7 @@
 # Lead Patches by Synthesizer
 
 
-## Modal Argon8 (86 patches)
+## Modal Argon8 (89 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -93,8 +93,11 @@
 | 262-2012 Lead | Lead |
 | 286-Kowada Lead | Lead |
 | 296-Kitchen Lead | Lead |
+| 066-Octave Donk | From sound (patchprint), both methods agree |
+| 303-Pro Basic | Best guess from sound (patchprint), not auditioned |
+| 304-Th0ghBlock | From sound (patchprint), both methods agree |
 
-## Moog Little Phatty (46 patches)
+## Moog Little Phatty (51 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -144,6 +147,11 @@
 | 068-ADAMLEAD1 | Lead |
 | 070-SOFT LEAD | Lead |
 | 071-QUASAR LEAD | Lead |
+| 014-CALIBRATION | Best guess from sound (patchprint), not auditioned |
+| 043-HENRY THE 3RD | From sound (patchprint), both methods agree |
+| 044-FORERUNNER | From sound (patchprint), both methods agree |
+| 049-POT SYNC | From sound (patchprint), both methods agree |
+| 079-FM PLUCK | Best guess from sound (patchprint), not auditioned |
 
 ## Yamaha PSR-730 (51 patches)
 
@@ -347,7 +355,7 @@
 | Comp:Tiny Bell | Lead |
 | Lead:Micron Flute | Lead |
 
-## Dave Smith Poly Evolver (118 patches)
+## Dave Smith Poly Evolver (119 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -469,6 +477,7 @@
 | C101 PictSolo | Lead sound |
 | C112 Sync to Me | Lead sound |
 | C125 PictSolo | Lead sound |
+| B093 Whistlehoot | Best guess from sound (patchprint), not auditioned |
 
 ## Korg microKORG (68 patches)
 
@@ -545,4 +554,4 @@
 
 ---
 
-**Total: 510 lead patches across all synths**
+**Total: 519 lead patches across all synths**

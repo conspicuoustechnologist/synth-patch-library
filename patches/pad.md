@@ -3,7 +3,7 @@
 # Pad Patches by Synthesizer
 
 
-## Modal Argon8 (63 patches)
+## Modal Argon8 (65 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -70,6 +70,8 @@
 | 276-Just a Phase | Phase pad |
 | 278-Quantum | Soft pad with long release |
 | 193-Wide Open Pad | Pad |
+| 121-Warp | Best guess from sound (patchprint), not auditioned |
+| 182-Pulse Mode | Best guess from sound (patchprint), not auditioned |
 
 ## Yamaha PSR-730 (54 patches)
 
@@ -405,4 +407,4 @@
 
 ---
 
-**Total: 375 pad patches across all synths**
+**Total: 377 pad patches across all synths**

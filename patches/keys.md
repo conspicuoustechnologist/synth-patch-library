@@ -3,7 +3,7 @@
 # Keys/Piano Patches by Synthesizer
 
 
-## Modal Argon8 (29 patches)
+## Modal Argon8 (31 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -36,6 +36,8 @@
 | 166-Space Organ | Keys |
 | 192-Japorgan | Keys |
 | 218-EP Chord | Keys |
+| 035-Warm Dist Stab | Best guess from sound (patchprint), not auditioned |
+| 263-Organism | From sound (patchprint), both methods agree |
 
 ## Moog Little Phatty (4 patches)
 
@@ -245,4 +247,4 @@
 
 ---
 
-**Total: 210 keys/piano patches across all synths**
+**Total: 212 keys/piano patches across all synths**

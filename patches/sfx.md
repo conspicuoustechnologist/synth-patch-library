@@ -3,7 +3,7 @@
 # SFX/Effects Patches by Synthesizer
 
 
-## Modal Argon8 (8 patches)
+## Modal Argon8 (9 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -15,6 +15,7 @@
 | 297-Crypt Dweller | Sound effect |
 | 199-Rise FX | Sound effect |
 | 268-Mousetalk FX | Sound effect |
+| 045-2049 Stab | Best guess from sound (patchprint), not auditioned |
 
 ## Moog Little Phatty (8 patches)
 
@@ -231,4 +232,4 @@
 
 ---
 
-**Total: 196 SFX/effects patches across all synths**
+**Total: 197 SFX/effects patches across all synths**

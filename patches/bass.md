@@ -3,7 +3,7 @@
 # Bass Patches by Synthesizer
 
 
-## Modal Argon8 (37 patches)
+## Modal Argon8 (40 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -44,8 +44,11 @@
 | 122-Sub Drone | Bass sound |
 | 034-Pro Basic | Powerful bass |
 | 300-jd - Bwah Bass | Custom bwah bass sound |
+| 093-Digi Stab | Best guess from sound (patchprint), not auditioned |
+| 204-Tarp | Best guess from sound (patchprint), not auditioned |
+| 499-Test Patch | Best guess from sound (patchprint), not auditioned |
 
-## Moog Little Phatty (27 patches)
+## Moog Little Phatty (28 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -76,6 +79,7 @@
 | 090-2 NASTY | Probably best as bass, could be lead too |
 | 093-2WAW FUNK | Funk bass, could also be funk lead |
 | 029-ELLEOTICBION | Bass sound |
+| 056-FREQ MOD | From sound (patchprint), both methods agree |
 
 ### Sound Design Recipe: TB-303 Acid Bass (not a factory preset)
 
@@ -311,4 +315,4 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 
 ---
 
-**Total: 243 bass patches across all synths**
+**Total: 247 bass patches across all synths**

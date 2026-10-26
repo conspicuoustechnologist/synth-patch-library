@@ -3,7 +3,7 @@
 # Arpeggio Patches by Synthesizer
 
 
-## Modal Argon8 (45 patches)
+## Modal Argon8 (46 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -52,6 +52,7 @@
 | 291-Arpy Bass | Arpy bass |
 | 295-Twang Arp | Twangy arp |
 | 290-(X_X) | Echoy lead with arp |
+| 120-Velocity PWM | Best guess from sound (patchprint), not auditioned |
 
 ## Moog Little Phatty (1 patches)
 
@@ -151,4 +152,4 @@
 
 ---
 
-**Total: 121 arpeggio patches across all synths**
+**Total: 122 arpeggio patches across all synths**

@@ -3,6 +3,12 @@
 # Guitar Patches by Synthesizer
 
 
+## Modal Argon8 (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 000-Time To Drift | Best guess from sound (patchprint), not auditioned |
+
 ## Yamaha PSR-730 (69 patches)
 
 | Patch Name | Description |
@@ -79,4 +85,4 @@
 
 ---
 
-**Total: 69 guitar patches across all synths**
+**Total: 70 guitar patches across all synths**

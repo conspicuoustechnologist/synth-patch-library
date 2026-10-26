@@ -3,7 +3,7 @@
 # Percussion/Drum Patches by Synthesizer
 
 
-## Modal Argon8 (20 patches)
+## Modal Argon8 (21 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -27,6 +27,7 @@
 | 025-Sweet Bells | Bells |
 | 141-Glass Bells | Bells |
 | 203-Digiharp | Bells |
+| 128-Pure Plucks | From sound (patchprint), both methods agree |
 
 ## Moog Little Phatty (5 patches)
 
@@ -316,4 +317,4 @@
 
 ---
 
-**Total: 281 percussion/drum patches across all synths**
+**Total: 282 percussion/drum patches across all synths**
