@@ -48,9 +48,9 @@
 | Instrument                   | URL | Key Specs                                            |
 |------------------------------|-----|------------------------------------------------------|
 | Boss Katana 100 MkIII        | [Boss](https://www.boss.info/us/products/katana_100_mkiii/) | 100W combo, built-in models/FX                       |
-| Mackie Onyx 1640i            | [Mackie](https://mackie.com/products/onyx-1604i-16-channel-analog-mixer) | 16-channel analog mixer                              |
+| Mackie Onyx 1620i            | [Reverb](https://reverb.com/p/mackie-onyx-1620i-16-channel-firewire-mixer) | 16-channel analog mixer                              |
 
-### Mackie Onyx 1640i Channel Assignments
+### Mackie Onyx 1620i Channel Assignments
 **Visual reference:** [Onyx Channel Map](https://www.conspicuoustechnologist.com/studio/onyx-channel-map/) - all 16 channels, stereo pairs bracketed by instrument.
 
 | Channel | Source                     |
@@ -74,8 +74,8 @@
 - Behringer DDM4000 - 5-channel digital DJ mixer, 32-bit, beat-synced sampler, dual multi-FX, dual BPM counters, 3-band EQ w/ kill per channel, MIDI capable. Temporary
 
 ## Monitoring
-- JBL LSR2325P (LSR2300 series) studio monitors - 5" bi-amplified two-way, ~90W, Main Out from the Onyx 1640i, primary monitoring
-- Insignia stereo receiver (Best Buy house brand, exact model and specs TBD) - Ctrl Room Out from the Onyx 1640i into Aux 2, computer into Aux 1, DJ booth mixer into Phono
+- JBL LSR2325P (LSR2300 series) studio monitors - 5" bi-amplified two-way, ~90W, Main Out from the Onyx 1620i, primary monitoring
+- Insignia stereo receiver (Best Buy house brand, exact model and specs TBD) - Ctrl Room Out from the Onyx 1620i into Aux 2, computer into Aux 1, DJ booth mixer into Phono
 - Technics SB-CR33 - 2-way floor-standing, 140W, 8 ohms, 12.5"W x 10.5"D x 23.5"H, driven by the Insignia receiver
 
 ## MIDI Interfaces
