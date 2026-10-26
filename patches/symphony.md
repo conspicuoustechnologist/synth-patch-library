@@ -273,7 +273,7 @@
 | String:Velocity Strings | Velocity strings |
 | String:Violacoder | Viola vocoder |
 
-## Dave Smith Poly Evolver (27 patches)
+## Dave Smith Poly Evolver (29 patches)
 
 ### Brass (13 patches)
 
@@ -312,6 +312,13 @@
 | B091 PowerChord | String instrument |
 | B092 PictSolo2 | String instrument |
 
+### Other (2 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| B094 Mellotron Flute | Flute |
+| B095 Flutish | Flute |
+
 ## Korg microKORG (3 patches)
 
 ### Other (3 patches)
@@ -324,4 +331,4 @@
 
 ---
 
-**Total: 89 brass patches, 87 string patches, 71 other (247 symphony patches total)**
+**Total: 89 brass patches, 87 string patches, 73 other (249 symphony patches total)**

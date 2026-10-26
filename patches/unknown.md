@@ -35,6 +35,12 @@ Patches in a .ins file that have no category yet.
 | 056-FREQ MOD | Not categorized yet |
 | 079-FM PLUCK | Not categorized yet |
 
+## Dave Smith Poly Evolver (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| B093 Whistlehoot | Not categorized yet |
+
 ---
 
-**Total: 20 unknown patches across all synths**
+**Total: 21 unknown patches across all synths**

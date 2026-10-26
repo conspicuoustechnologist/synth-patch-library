@@ -4,6 +4,7 @@
 
 *(Atmospheric, cinematic, and textural patches for soundtracks and film scoring)*
 
+
 ## Yamaha PSR-730 (30 patches)
 
 | Patch Name | Description |
@@ -41,7 +42,6 @@
 
 ## Dave Smith Poly Evolver (24 patches)
 
-
 | Patch Name | Description |
 |------------|-------------|
 | D001 Swish Swirl | Soundtrack/cinematic sound |
@@ -68,4 +68,7 @@
 | D022 Slo Phase Stuf | Soundtrack/cinematic sound |
 | D023 Suint Chord | Soundtrack/cinematic sound |
 | D024 MidfPM | Soundtrack/cinematic sound |
+
+---
+
 **Total: 54 soundtrack patches across all synths**
