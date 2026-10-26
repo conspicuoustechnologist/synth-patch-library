@@ -229,6 +229,12 @@
 | A128 LazyRectangles | Keyboard sound |
 | C110 Keyboard | Keyboard sound |
 
+## Korg microKORG (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| A.47-Joe SAMPLE JS | Joe SAMPLE JS (DnB) |
+
 ---
 
-**Total: 201 keys/piano patches across all synths**
+**Total: 202 keys/piano patches across all synths**

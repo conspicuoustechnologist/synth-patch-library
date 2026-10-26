@@ -387,6 +387,22 @@
 | C121 PolishedSteps 2 | Pad/atmospheric sound |
 | C123 Promenade | Pad/atmospheric sound |
 
+## Korg microKORG (11 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| A.16-SloopyPad | SloopyPad (Trance) |
+| A.17-SweepPolyPad | SweepPolyPad (Trance) |
+| A.37-FlangeSPad | FlangeSPad (Electronica) |
+| A.63-ModernWh-Pad | ModernWh-Pad |
+| A.64-JDstrngPad | JDstrngPad |
+| A.65-WarmWhitePad | WarmWhitePad |
+| B.17-PulsrePad | PulsrePad |
+| B.18-StreamPad | StreamPad |
+| B.21-Soft Sqr Pad | Soft Sqr Pad |
+| B.36-T4EP8Pad | T4EP8Pad |
+| B.65-MoscDrPad | MoscDrPad |
+
 ---
 
-**Total: 364 pad patches across all synths**
+**Total: 375 pad patches across all synths**

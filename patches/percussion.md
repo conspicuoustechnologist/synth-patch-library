@@ -304,6 +304,16 @@
 | C126 PictPerc | Percussion/drum sound |
 | C127 Organic Beat Se | Percussion/drum sound |
 
+## Korg microKORG (5 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| A.23-DelUne Stab | DelUne Stab (House) |
+| A.31-AnalogBell | AnalogBell (Electronica) |
+| A.32-DeepPerc | DeepPerc (Electronica) |
+| B.53-Square Comp | Square Comp |
+| B.61-FilterCompo | FilterCompo |
+
 ---
 
-**Total: 276 percussion/drum patches across all synths**
+**Total: 281 percussion/drum patches across all synths**

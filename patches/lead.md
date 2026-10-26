@@ -443,6 +443,79 @@
 | C112 Sync to Me | Lead sound |
 | C125 PictSolo | Lead sound |
 
+## Korg microKORG (68 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| A.12-Saw Trax | Saw Trax (Trance) |
+| A.13-HipHopSaw1D | HipHopSaw1D (House) |
+| A.14-UnisoPh+LP | UnisoPh+LP (Trance) |
+| A.15-WaxyLead | WaxyLead (Trance) |
+| A.25-DistortedBas | DistortedBas (House) |
+| A.26-GoingTUP>1g | GoingTUP>1g (House) |
+| A.28-HardHouseLd | HardHouseLd (House) |
+| A.33-GatedSyncBas | GatedSyncBas (Electronica) |
+| A.34-PhataSweep | PhataSweep (Electronica) |
+| A.35-ServerBloLed | ServerBloLed (Electronica) |
+| A.36-SolladElond | SolladElond (Electronica) |
+| A.38-ModernU | ModernU (Electronica) |
+| A.45-SweepSyncLD | SweepSyncLD (DnB) |
+| A.46-ELEcticLead | ELEcticLead (DnB) |
+| A.51-MechaTrux | MechaTrux (Breaks) |
+| A.52-HeadNes | HeadNes (Breaks) |
+| A.54-Naughty Trem | Naughty Trem (Breaks) |
+| A.56-ResnoLead2 | ResnoLead2 (Breaks) |
+| A.58-DnB Synth EvuD | DnB Synth EvuD (Breaks) |
+| A.61-x64SC%v07 | x64SC%v07 |
+| A.62-VU-SyncLead | VU-SyncLead |
+| A.66-OldAnalogSng | OldAnalogSng |
+| A.67-xPulseFleer-Jg | xPulseFleer-Jg |
+| A.68-Degrade | Degrade |
+| A.71-Prowidez | Prowidez |
+| A.72-Oldway 3Ft | Oldway 3Ft |
+| A.73-Providers | Providers |
+| A.74-oldway 3Ft | oldway 3Ft |
+| A.75-Simply7m | Simply7m |
+| A.76-Mismreg | Mismreg |
+| A.77-Simple?inst? | Simple?inst? |
+| A.78-Mismreg | Mismreg |
+| B.12-Psycho Synth | Psycho Synth |
+| B.13-PhaserLead | PhaserLead |
+| B.14-PhaserLead | PhaserLead |
+| B.15-Sync Phz | Sync Phz |
+| B.16-EuphoriaSync | EuphoriaSync |
+| B.22-DirtyMoodn | DirtyMoodn |
+| B.23-FilterMania | FilterMania |
+| B.25-UnrsonSuBas | UnrsonSuBas |
+| B.26-Auto Lead | Auto Lead |
+| B.27-Relax | Relax |
+| B.32-FruturePrnc | FruturePrnc |
+| B.33-Logres | Logres |
+| B.34-GrewyStorm | GrewyStorm |
+| B.35-DFGrPitch | DFGrPitch |
+| B.37-Punishmen | Punishmen |
+| B.38-Wast8ass | Wast8ass |
+| B.43-NovelPatch | NovelPatch |
+| B.46-EuroFalls | EuroFalls |
+| B.48-NaviEPdstg | NaviEPdstg |
+| B.51-Sawstacker | Sawstacker |
+| B.52-Hardcore | Hardcore |
+| B.54-Sync Spel | Sync Spel |
+| B.55-Trance Trak | Trance Trak |
+| B.56-Busph | Busph |
+| B.57-Golden Synth | Golden Synth |
+| B.58-BrokenSynth | BrokenSynth |
+| B.64-HiPhunChord | HiPhunChord |
+| B.67-FeedBlanc | FeedBlanc |
+| B.68-TransPhorr | TransPhorr |
+| B.71-SwichMt | SwichMt |
+| B.72-Destinator | Destinator |
+| B.73-BackhousE | BackhousE |
+| B.75-EvilBlues | EvilBlues |
+| B.76-Sweepy Circle | Sweepy Circle |
+| B.78-TeekPhonkc | TeekPhonkc |
+| B.81-Classic Rip | Classic Rip |
+
 ---
 
-**Total: 415 lead patches across all synths**
+**Total: 483 lead patches across all synths**

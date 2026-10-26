@@ -131,6 +131,18 @@
 | D090 U Make Me Nervs | Pattern lead/arpeggio |
 | D091 Moody Shuffle | Pattern lead/arpeggio |
 
+## Korg microKORG (7 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| A.11-TranceyArpeg | TranceyArpeg (Trance) |
+| A.55-Science Arp | Science Arp (Breaks) |
+| A.82-Tranceyarpeg | Tranceyarpeg |
+| A.83-TrancyArpeg | TrancyArpeg |
+| B.11-SynthHarp | SynthHarp |
+| B.28-SequencePad | SequencePad |
+| B.63-T.F.Sequence | T.F.Sequence |
+
 ---
 
-**Total: 113 arpeggio patches across all synths**
+**Total: 120 arpeggio patches across all synths**

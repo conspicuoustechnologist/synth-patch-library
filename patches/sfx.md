@@ -226,6 +226,14 @@
 | D128 Fade Outta Here | Sound effect |
 | C128 FFB3 | Sound effect |
 
+## Korg microKORG (3 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| B.24-Ringme | Ringme |
+| B.62-StargaTE | StargaTE |
+| B.74-HOUSE GateJS | HOUSE GateJS |
+
 ---
 
-**Total: 198 SFX/effects patches across all synths**
+**Total: 201 SFX/effects patches across all synths**

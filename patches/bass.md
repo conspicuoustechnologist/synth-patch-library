@@ -283,6 +283,29 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | B053 D&Bass | Bass sound |
 | C115 Low Anthem Bass | Bass sound |
 
+## Korg microKORG (18 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| A.21-Acid Bass | Acid Bass (House) |
+| A.22-AcdSawBass | AcdSawBass (House) |
+| A.24-HouseBass | HouseBass (House) |
+| A.27-SyncBass | SyncBass (House) |
+| A.41-AcdSqngBass | AcdSqngBass (DnB) |
+| A.42-TalkingBass | TalkingBass (DnB) |
+| A.43-DriveBass | DriveBass (DnB) |
+| A.44-E.Bot Bass | E.Bot Bass (DnB) |
+| A.48-Bass Machine | Bass Machine (DnB) |
+| A.53-M-BASS | M-BASS (Breaks) |
+| B.31-NoodelBass | NoodelBass |
+| B.41-5thBass | 5thBass |
+| B.42-UnisonBass | UnisonBass |
+| B.44-HmgSyncBass | HmgSyncBass |
+| B.45-LooseModBass | LooseModBass |
+| B.47-C800 Bass JS | C800 Bass JS |
+| B.77-Sync+Bass | Sync+Bass |
+| B.82-GldOsscBass | GldOsscBass |
+
 ---
 
-**Total: 222 bass patches across all synths**
+**Total: 240 bass patches across all synths**
