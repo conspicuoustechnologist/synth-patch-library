@@ -5,7 +5,7 @@
 
 ## Modal Argon8 (12 patches)
 
-### Brass (5 patches)
+### Brass (7 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -14,6 +14,8 @@
 | 161-VHS Brass | VHS tape brass |
 | 173-Brassy | Brassy tone |
 | 207-Space Brass | Brass |
+| 258-Sync Lead | Lead |
+| 206-Tooke's Chord | Comp/stab sound |
 
 ### Strings (5 patches)
 
@@ -25,20 +27,16 @@
 | 280-Shimmer Strings | Shimmering strings |
 | 178-Sci-Fi Orch | Orchestra hit |
 
-### Other (2 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| 258-Sync Lead | Lead |
-| 206-Tooke's Chord | Comp/stab sound |
-
 ## Moog Little Phatty (5 patches)
 
-### Brass (1 patches)
+### Brass (4 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | 089-BRASS REZ | Brass |
+| 047-TRANSPHATTY | Mostly a lead |
+| 057-MARY ALICE | Lead, almost soft Kraftwerk like |
+| 071-QUASAR LEAD | Lead |
 
 ### Strings (1 patches)
 
@@ -46,17 +44,9 @@
 |------------|-------------|
 | 036-1975 STRINGS | Strings |
 
-### Other (3 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| 047-TRANSPHATTY | Mostly a lead |
-| 057-MARY ALICE | Lead, almost soft Kraftwerk like |
-| 071-QUASAR LEAD | Lead |
-
 ## Yamaha PSR-730 (168 patches)
 
-### Brass (42 patches)
+### Brass (63 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -102,8 +92,29 @@
 | Brss:468-SynBrss4 | Brass instrument |
 | Brss:470-VelBrss2 | Brass instrument |
 | Brss:471-AnaBrss2 | Brass instrument |
+| Brss:138-BrasSection | BrasSection |
+| Brss:140-MellowBrass | MellowBrass |
+| Brss:141-Small Brass | Small Brass |
+| Brss:142-Pop Brass | Pop Brass |
+| Brss:146-High Brass | High Brass |
+| Brss:147-BrightBrass | BrightBrass |
+| Brss:148-Big Brass | Big Brass |
+| Brss:150-Synth Brass | Synth Brass |
+| Brss:153-TechnoBrass | TechnoBrass |
+| Brss:453-BrasSect | BrasSect |
+| Brss:456-HiBrass | HiBrass |
+| Reed:164-Brass Combo | Brass Combo |
+| Orgn:316-Puff Org | Organ |
+| Orgn:057-Trad.Accrd | Organ |
+| Orgn:320-Harmo 2 | Organ |
+| Ethn:634-Hichriki | Hichriki |
+| SyLd:506-Big Lead | Big Lead |
+| Ethn:633-Pungi | Pungi |
+| SyLd:522-VoxLead | VoxLead |
+| Orgn:317-Acordion | Organ |
+| SEff:604-EchoPad2 | EchoPad2 |
 
-### Strings (49 patches)
+### Strings (62 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -156,22 +167,24 @@
 | StrS:402-Pizz.Str | String instrument |
 | StrS:404-YangChin | String instrument |
 | StrS:405-Timpani | String instrument |
+| StrE:109-Strings | Strings |
+| StrE:110-OrchStrings | OrchStrings |
+| StrE:112-SlowStrings | SlowStrings |
+| StrE:119-PizzStrings | PizzStrings |
+| StrE:120-Syn Strings | Syn Strings |
+| StrE:406-Strings1 | Strings1 |
+| StrE:415-Strings2 | Strings2 |
+| StrE:417-LegatoSt | LegatoSt |
+| StrS:105-Shamisen | Shamisen |
+| StrS:106-Koto | Koto |
+| StrS:107-Sitar | Sitar |
+| SPad:213-Time Travel | Time Travel |
+| SPad:540-Ana Pad | Ana Pad |
 
-### Other (77 patches)
+### Other (43 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| Brss:138-BrasSection | BrasSection |
-| Brss:140-MellowBrass | MellowBrass |
-| Brss:141-Small Brass | Small Brass |
-| Brss:142-Pop Brass | Pop Brass |
-| Brss:146-High Brass | High Brass |
-| Brss:147-BrightBrass | BrightBrass |
-| Brss:148-Big Brass | Big Brass |
-| Brss:150-Synth Brass | Synth Brass |
-| Brss:153-TechnoBrass | TechnoBrass |
-| Brss:453-BrasSect | BrasSect |
-| Brss:456-HiBrass | HiBrass |
 | Pipe:169-Flute | Flute |
 | Pipe:170-Pan Flute | Pan Flute |
 | Pipe:171-Piccolo | Piccolo |
@@ -197,7 +210,6 @@
 | Reed:161-Clarinet | Clarinet |
 | Reed:162-MelClarinet | MelClarinet |
 | Reed:163-WoodwindEns | WoodwindEns |
-| Reed:164-Brass Combo | Brass Combo |
 | Reed:165-Oboe | Oboe |
 | Reed:166-EnglishHorn | EnglishHorn |
 | Reed:168-Bagpipe | Bagpipe |
@@ -213,35 +225,13 @@
 | Reed:481-Oboe | Oboe |
 | Reed:482-Eng.Horh | Eng.Horh |
 | Reed:484-Clarinet | Clarinet |
-| StrE:109-Strings | Strings |
-| StrE:110-OrchStrings | OrchStrings |
-| StrE:112-SlowStrings | SlowStrings |
-| StrE:119-PizzStrings | PizzStrings |
-| StrE:120-Syn Strings | Syn Strings |
-| StrE:406-Strings1 | Strings1 |
-| StrE:415-Strings2 | Strings2 |
-| StrE:417-LegatoSt | LegatoSt |
 | StrS:103-Harp | Harp |
-| StrS:105-Shamisen | Shamisen |
-| StrS:106-Koto | Koto |
-| StrS:107-Sitar | Sitar |
 | StrS:403-Harp | Harp |
-| Orgn:316-Puff Org | Organ |
-| Orgn:057-Trad.Accrd | Organ |
-| Orgn:320-Harmo 2 | Organ |
-| Ethn:634-Hichriki | Hichriki |
-| SyLd:506-Big Lead | Big Lead |
-| Ethn:633-Pungi | Pungi |
-| SyLd:522-VoxLead | VoxLead |
-| Orgn:317-Acordion | Organ |
-| SPad:213-Time Travel | Time Travel |
-| SPad:540-Ana Pad | Ana Pad |
-| SEff:604-EchoPad2 | EchoPad2 |
 | Reed:167-Bassoon | Bassoon orchestral instrument |
 
 ## Alesis Micron (43 patches)
 
-### Brass (26 patches)
+### Brass (29 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -271,6 +261,9 @@
 | Brass:UnpolishdBrass | Unpolished brass |
 | Brass:WowThat'sBrass | Wow that's brass |
 | Brass:Zoik Brass | Zoik brass |
+| Lead:Sandpaper Lead | Rough sandpaper lead |
+| Lead:Mecha-Canary | Mechanical canary lead |
+| Comp:Latenight Comp | Comp/stab sound |
 
 ### Strings (14 patches)
 
@@ -290,14 +283,6 @@
 | String:Sweet Dreams | Sweet dreams strings |
 | String:The Yoyo-Ma's | Yo-Yo Ma strings |
 | String:Velocity Strings | Velocity strings |
-
-### Other (3 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| Lead:Sandpaper Lead | Rough sandpaper lead |
-| Lead:Mecha-Canary | Mechanical canary lead |
-| Comp:Latenight Comp | Comp/stab sound |
 
 ## Dave Smith Poly Evolver (32 patches)
 
@@ -319,7 +304,7 @@
 | B078 Low Mixed Brass | Brass instrument |
 | C107 Symphonic | Brass instrument |
 
-### Strings (13 patches)
+### Strings (18 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -336,29 +321,39 @@
 | B089 SuperPunchyClAv | String instrument |
 | B090 Harpy | String instrument |
 | B091 PowerChord | String instrument |
-
-### Other (6 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| B094 Mellotron Flute | Flute |
 | A058 Pro77 | Lead sound |
 | A038 Cliff Pad | Lead sound |
 | A057 Rave Drone | Lead sound |
 | A033 Magneto | Lead sound |
 | B055 Cembali | Percussion/drum sound |
 
+### Other (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| B094 Mellotron Flute | Flute |
+
 ## Korg microKORG (4 patches)
 
-### Other (4 patches)
+### Brass (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| B.66-Synth Brass | Synth Brass |
+
+### Strings (2 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | A.18-FMxStr3ng | FMxStr3ng (Trance) |
-| B.66-Synth Brass | Synth Brass |
-| B.83-SK-WS-Wood | SK-WS-Wood |
 | B.22-DirtyMoodn | DirtyMoodn |
+
+### Other (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| B.83-SK-WS-Wood | SK-WS-Wood |
 
 ---
 
-**Total: 87 brass patches, 82 string patches, 95 other (264 symphony patches total)**
+**Total: 117 brass patches, 102 string patches, 45 other (264 symphony patches total)**
