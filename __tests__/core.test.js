@@ -75,9 +75,10 @@ describe('PATCHES data integrity', () => {
     expect(dupes.length).toBeLessThan(300);
   });
 
-  test('total patch count is at least 2000', () => {
+  // 1,854 after the 2026-10-26 cleanup (duplicates, vocoders and junk rows removed, PP-64)
+  test('total patch count is at least 1800', () => {
     const total = KNOWN_CATEGORIES.reduce((sum, cat) => sum + PATCHES[cat].length, 0);
-    expect(total).toBeGreaterThanOrEqual(2000);
+    expect(total).toBeGreaterThanOrEqual(1800);
   });
 });
 

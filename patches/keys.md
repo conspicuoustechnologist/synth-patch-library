@@ -5,8 +5,6 @@
 
 ## Modal Argon8 (23 patches)
 
-
-
 | Patch Name | Description |
 |------------|-------------|
 | 015-Rave Piano | Rave piano sound |
@@ -26,21 +24,21 @@
 | 226-Harpsi | Harpsichord |
 | 287-Metallic Keys | Metallic keys |
 | 294-Cheap Keys | Cheap keys |
-
 | 028-Church | Organ |
 | 150-Melodica | Piano/keyboard |
 | 134-Who's Leslie! | Keyboard sound |
 | 220-Xylo Echo | Keyboard sound |
 | 284-Rough Tines | Keyboard sound |
 | 020-Another Organ | Organ |
+
 ## Moog Little Phatty (4 patches)
 
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-| 035 | PHONY HOHNER | Keyboard sound |
-| 074 | LESLIE PAUL | Keyboard sound |
-| 081 | RUBBER KOTO | Keyboard sound |
-| 087 | SPECIAL TINE | Keyboard sound |
+| Patch Name | Description |
+|------------|-------------|
+| 035-PHONY HOHNER | Keyboard sound |
+| 074-LESLIE PAUL | Keyboard sound |
+| 081-RUBBER KOTO | Keyboard sound |
+| 087-SPECIAL TINE | Keyboard sound |
 
 ## Yamaha PSR-730 (75 patches)
 
@@ -121,6 +119,7 @@
 | Pian:257-VX El.P2 | Piano |
 | Pian:265-PulseClv | Piano |
 | Pian:266-PierceCl | Piano |
+
 ## Alesis Micron (34 patches)
 
 | Patch Name | Description |
@@ -162,7 +161,6 @@
 
 ## Dave Smith Poly Evolver (16 patches)
 
-
 | Patch Name | Description |
 |------------|-------------|
 | A114 FatSyncSeq | Keyboard sound |
@@ -181,17 +179,7 @@
 | A127 Cornflap | Keyboard sound |
 | A128 LazyRectangles | Keyboard sound |
 | C110 Keyboard | Keyboard sound |
-## Modal Argon8 (1 patches)
 
-| Patch Name | Description |
-|------------|-------------|
-| 020-Another Organ | Organ |
+---
 
-**Total: 132 keys/piano patches across all synths**
-
-## Korg microKORG (1 patches)
-
-| Patch | Description |
-|-------|-------------|
-| A.47-Joe SAMPLE JS | Joe SAMPLE JS (DnB) |
-
+**Total: 152 keys/piano patches across all synths**

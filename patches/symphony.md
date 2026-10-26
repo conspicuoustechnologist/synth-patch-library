@@ -3,7 +3,7 @@
 # Symphony Patches (Brass & Strings) by Synthesizer
 
 
-## Modal Argon8
+## Modal Argon8 (9 patches)
 
 ### Brass (4 patches)
 
@@ -14,7 +14,7 @@
 | 161-VHS Brass | VHS tape brass |
 | 173-Brassy | Brassy tone |
 
-### Strings (4 patches)
+### Strings (5 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -22,46 +22,23 @@
 | 097-Horrorstring | Horror movie strings |
 | 292-Hi String | High strings |
 | 280-Shimmer Strings | Shimmering strings |
-
-
 | 178-Sci-Fi Orch | Orchestra hit |
-## Yamaha PSR-730
 
-### Brass (13 patches)
+## Yamaha PSR-730 (107 patches)
+
+### Brass (53 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| Brss:440-Trumpet | Trumpet |
 | Brass:062-Trombone | Trombone |
 | Brass:063-Tuba | Tuba |
 | Brass:064-MuteTrmpt | Muted trumpet |
-| Brss:449-Fr.Horn | French horn |
 | Brass:066-BrassSect | Brass section |
 | Brass:067-SynBrass | Synth brass |
 | Brass:330-Trombone | Trombone variant |
 | Brass:331-Tuba | Tuba variant |
 | Brass:332-MuteTrmpt | Muted trumpet variant |
 | Brass:334-BrssSect | Brass section variant |
-
-### Strings (24 patches)
-
-
-| Patch Name | Description |
-|------------|-------------|
-| StrS:394-Violin | Violin |
-| StrS:050-Viola | Viola |
-| StrS:051-Cello | Cello |
-| StrS:102-Contrabass | Contrabass |
-| StrS:053-TremoloStr | Tremolo strings |
-| StrS:054-PizzicatoStr | Pizzicato strings |
-| StrS:055-Harp | Harp |
-
-
-
-### Brass (44 patches)
-
-| Patch Name | Description |
-|------------|-------------|
 | Brss:129-Sweet Trp | Brass instrument |
 | Brss:130-Solo Trumpet | Brass instrument |
 | Brss:131-SoftTrumpet | Brass instrument |
@@ -107,11 +84,16 @@
 | Brss:470-VelBrss2 | Brass instrument |
 | Brss:471-AnaBrss2 | Brass instrument |
 
-### Strings (48 patches)
-
+### Strings (54 patches)
 
 | Patch Name | Description |
 |------------|-------------|
+| StrS:050-Viola | Viola |
+| StrS:051-Cello | Cello |
+| StrS:102-Contrabass | Contrabass |
+| StrS:053-TremoloStr | Tremolo strings |
+| StrS:054-PizzicatoStr | Pizzicato strings |
+| StrS:055-Harp | Harp |
 | StrE:111-Symphon.Str | String instrument |
 | StrE:113-Str.Quartet | String instrument |
 | StrE:114-ConcertoStr | String instrument |
@@ -160,7 +142,8 @@
 | StrS:402-Pizz.Str | String instrument |
 | StrS:404-YangChin | String instrument |
 | StrS:405-Timpani | String instrument |
-## Alesis Micron
+
+## Alesis Micron (44 patches)
 
 ### Brass (26 patches)
 
@@ -216,10 +199,9 @@
 | String:Velocity Strings | Velocity strings |
 | String:Violacoder | Viola vocoder |
 
-
 ## Dave Smith Poly Evolver (27 patches)
 
-### Brass
+### Brass (13 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -237,7 +219,7 @@
 | B078 Low Mixed Brass | Brass instrument |
 | C107 Symphonic | Brass instrument |
 
-### Strings
+### Strings (14 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -256,16 +238,16 @@
 | B091 PowerChord | String instrument |
 | B092 PictSolo2 | String instrument |
 
-**Total: 52 brass patches, 33 string patches (85 symphony patches total)**
+## Korg microKORG (3 patches)
 
-## Korg microKORG (6 patches)
+### Other (3 patches)
 
-| Patch | Description |
-|-------|-------------|
+| Patch Name | Description |
+|------------|-------------|
 | A.18-FMxStr3ng | FMxStr3ng (Trance) |
-| A.87-WoodeSavlN | WoodeSavlN |
 | B.66-Synth Brass | Synth Brass |
 | B.83-SK-WS-Wood | SK-WS-Wood |
-| B.85-CordStryngs | CordStryngs |
-| B.86-WoodeWavlv | WoodeWavlv |
 
+---
+
+**Total: 96 brass patches, 91 string patches, 3 other (190 symphony patches total)**

@@ -3,7 +3,7 @@
 # Arpeggio Patches by Synthesizer
 
 
-## Modal Argon8 (44 patches)
+## Modal Argon8 (45 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -51,8 +51,8 @@
 | 267-Retro Arp | Retro arpeggio |
 | 291-Arpy Bass | Arpy bass |
 | 295-Twang Arp | Twangy arp |
-
 | 290-(X_X) | Echoy lead with arp |
+
 ## Alesis Micron (1 patches)
 
 | Patch Name | Description |
@@ -131,18 +131,6 @@
 | D090 U Make Me Nervs | Pattern lead/arpeggio |
 | D091 Moody Shuffle | Pattern lead/arpeggio |
 
-**Total: 59 arpeggio patches across all synths**
+---
 
-## Korg microKORG (8 patches)
-
-| Patch | Description |
-|-------|-------------|
-| A.11-TranceyArpeg | TranceyArpeg (Trance) |
-| A.55-Science Arp | Science Arp (Breaks) |
-| A.82-Tranceyarpeg | Tranceyarpeg |
-| A.83-TrancyArpeg | TrancyArpeg |
-| A.84-TrancyArpeg(1) | TrancyArpeg(1) |
-| B.11-SynthHarp | SynthHarp |
-| B.28-SequencePad | SequencePad |
-| B.63-T.F.Sequence | T.F.Sequence |
-
+**Total: 113 arpeggio patches across all synths**

@@ -3,12 +3,21 @@
 # Vocal/Choir Patches by Synthesizer
 
 
+## Modal Argon8 (4 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 053-Analogue Scream | Vocal sound |
+| 180-LoFi Yey | Vocal sound |
+| 259-Robotalk | Vocal sound |
+| 269-Woeugh | Voice, says "woeugh" |
+
 ## Moog Little Phatty (2 patches)
 
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-| 051 | VAGUELY VOCAL | Vocal/choir sound |
-| 091 | COUNT HUCULA | Voice sort of, says "wow" kind of |
+| Patch Name | Description |
+|------------|-------------|
+| 091-COUNT HUCULA | Voice sort of, says "wow" kind of |
+| 051-VAGUELY VOCAL | Vocal/choir sound |
 
 ## Yamaha PSR-730 (19 patches)
 
@@ -42,40 +51,27 @@
 | Voice:117-Aah | Aah vocal |
 | Voice:383-AahVoice | Aah vocal |
 | Voice:384-OohVoice | Ooh vocal |
-| StrE:433-SynVoice | Synth voice |
+| Voice:385-SynVoice | Synth voice |
 | Voice:386-OrcheHit | Orchestra hit |
 | Voice:387-SynVoice2 | Synth voice |
-| StrE:122-Choir | Choir voice |
-| StrE:430-MelChoir | Choir voice |
+| Voice:388-Choir | Choir voice |
+| Voice:389-MelChoir | Choir voice |
 | Voice:390-VoiceHmm | Vocal/choir sound |
 | Voice:391-VoxHumnz | Vocal/choir sound |
 
-## Modal Argon8 (3 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| 053-Analogue Scream | Vocal sound |
-| 180-LoFi Yey | Vocal sound |
-| 259-Robotalk | Vocal sound |
-
-| 269-Woeugh | Voice, says "woeugh" |
 ## Dave Smith Poly Evolver (2 patches)
-
 
 | Patch Name | Description |
 |------------|-------------|
 | C095 VoxPad | Vocal sound |
 | C111 PolyVox | Vocal sound |
-**Total: 34 vocal/choir patches across all synths**
 
-## Korg microKORG (6 patches)
+## Korg microKORG (1 patches)
 
-| Patch | Description |
-|-------|-------------|
+| Patch Name | Description |
+|------------|-------------|
 | A.57-VocoderEDGE | VocoderEDGE (Breaks) |
-| A.86-VooderFite | VooderFite |
-| A.88-VooderEvoX | VooderEvoX |
-| B.84-VoodooMLpdas | VoodooMLpdas |
-| B.87-VooderMute | VooderMute |
-| B.88-VooderDaVoS | VooderDaVoS |
 
+---
+
+**Total: 39 vocal/choir patches across all synths**

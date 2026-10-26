@@ -5,8 +5,6 @@
 
 ## Yamaha PSR-730 (22 patches)
 
-
-
 | Patch Name | Description |
 |------------|-------------|
 | Guit:069-BrightClean | Guitar sound |
@@ -31,3 +29,7 @@
 | Guit:347-FeedbkGt | Guitar sound |
 | Guit:348-FeedbGt2 | Guitar sound |
 | Guit:350-GtFeedbk | Guitar sound |
+
+---
+
+**Total: 22 guitar patches across all synths**

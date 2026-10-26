@@ -3,8 +3,7 @@
 # Pad Patches by Synthesizer
 
 
-## Modal Argon8 (50 patches)
-
+## Modal Argon8 (62 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -52,7 +51,6 @@
 | 285-Bedside Pad | Bedside gentle pad |
 | 298-Money Pad | Rich money pad |
 | 299-Frontier Pad | Frontier pad |
-
 | 067-Shimmer | Pad/atmospheric sound |
 | 157-Cavern Growl | Pad/atmospheric sound |
 | 172-Unsafe Drone | Pad/atmospheric sound |
@@ -71,7 +69,8 @@
 | 241-Summer Breeze | Calm pad |
 | 276-Just a Phase | Phase pad |
 | 278-Quantum | Soft pad with long release |
-## Yamaha PSR-730 (52 patches)
+
+## Yamaha PSR-730 (48 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -259,7 +258,6 @@
 
 ## Dave Smith Poly Evolver (120 patches)
 
-
 | Patch Name | Description |
 |------------|-------------|
 | B120 Wooden Plates | Pad/atmospheric sound |
@@ -382,21 +380,7 @@
 | C120 microQ | Pad/atmospheric sound |
 | C121 PolishedSteps 2 | Pad/atmospheric sound |
 | C123 Promenade | Pad/atmospheric sound |
-**Total: 249 pad patches across all synths**
 
-## Korg microKORG (11 patches)
+---
 
-| Patch | Description |
-|-------|-------------|
-| A.16-SloopyPad | SloopyPad (Trance) |
-| A.17-SweepPolyPad | SweepPolyPad (Trance) |
-| A.37-FlangeSPad | FlangeSPad (Electronica) |
-| A.63-ModernWh-Pad | ModernWh-Pad |
-| A.64-JDstrngPad | JDstrngPad |
-| A.65-WarmWhitePad | WarmWhitePad |
-| B.17-PulsrePad | PulsrePad |
-| B.18-StreamPad | StreamPad |
-| B.21-Soft Sqr Pad | Soft Sqr Pad |
-| B.36-T4EP8Pad | T4EP8Pad |
-| B.65-MoscDrPad | MoscDrPad |
-
+**Total: 358 pad patches across all synths**

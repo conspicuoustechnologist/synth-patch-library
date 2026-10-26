@@ -3,17 +3,41 @@
 # SFX/Effects Patches by Synthesizer
 
 
+## Modal Argon8 (6 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 187-Game Over | Sound effect |
+| 209-Squeal (push) | Sound effect |
+| 224-Wibble | Sound effect |
+| 225-Donk | Sound effect |
+| 232-Hellectro | Sound effect |
+| 297-Crypt Dweller | Sound effect |
+
 ## Moog Little Phatty (7 patches)
 
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-| 038 | FILTERMADNESS | Almost an SFX, its all over with filter |
-| 039 | COSMONAUT | Sound effect |
-| 040 | ALIENS MDWHL | Sound effect |
-| 046 | TRIPPY MOD | Sound effect |
-| 050 | DARKNESS2 | Sound effect |
-| 092 | DARKNESS | Sound effect |
-| 100 | CA CALIBRATION | SFX - calibration patch |
+| Patch Name | Description |
+|------------|-------------|
+| 038-FILTERMADNESS | Almost an SFX, its all over with filter |
+| 039-COSMONAUT | Sound effect |
+| 040-ALIENS MDWHL | Sound effect |
+| 046-TRIPPY MOD | Sound effect |
+| 050-DARKNESS2 | Sound effect |
+| 092-DARKNESS | Sound effect |
+| 100-CA CALIBRATION | SFX - calibration patch |
+
+## Yamaha PSR-730 (8 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| SndE:658-FretNoiz | Sound effect |
+| SndE:659-BrthNoiz | Sound effect |
+| SndE:660-Seashore | Sound effect |
+| SndE:661-Tweet | Sound effect |
+| SndE:662-Telphone | Sound effect |
+| SndE:663-Hrlicptr | Sound effect |
+| SndE:664-Applause | Sound effect |
+| SndE:665-Gunshot | Sound effect |
 
 ## Alesis Micron (48 patches)
 
@@ -68,32 +92,7 @@
 | Sfx:Windy City | Sound effect |
 | Sfx:X-Mod | Sound effect |
 
-## Yamaha PSR-730 (8 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| SndE:658-FretNoiz | Sound effect |
-| SndE:659-BrthNoiz | Sound effect |
-| SndE:660-Seashore | Sound effect |
-| SndE:661-Tweet | Sound effect |
-| SndE:662-Telphone | Sound effect |
-| SndE:663-Hrlicptr | Sound effect |
-| SndE:664-Applause | Sound effect |
-| SndE:665-Gunshot | Sound effect |
-
-## Modal Argon8 (6 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| 187-Game Over | Sound effect |
-| 209-Squeal (push) | Sound effect |
-| 224-Wibble | Sound effect |
-| 225-Donk | Sound effect |
-| 232-Hellectro | Sound effect |
-| 297-Crypt Dweller | Sound effect |
-
 ## Dave Smith Poly Evolver (38 patches)
-
 
 | Patch Name | Description |
 |------------|-------------|
@@ -135,13 +134,7 @@
 | D127 Twisted | Sound effect |
 | D128 Fade Outta Here | Sound effect |
 | C128 FFB3 | Sound effect |
-**Total: 60 SFX/effects patches across all synths**
 
-## Korg microKORG (3 patches)
+---
 
-| Patch | Description |
-|-------|-------------|
-| B.24-Ringme | Ringme |
-| B.62-StargaTE | StargaTE |
-| B.74-HOUSE GateJS | HOUSE GateJS |
-
+**Total: 107 SFX/effects patches across all synths**

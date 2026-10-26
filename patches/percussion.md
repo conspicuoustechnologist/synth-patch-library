@@ -5,11 +5,9 @@
 
 ## Modal Argon8 (20 patches)
 
-
 | Patch Name | Description |
 |------------|-------------|
 | 041-Lo Drum | Low drum sound |
-
 | 063-Real Snare | Drum/percussion |
 | 064-Live Kick | Drum/percussion |
 | 092-Clap | Drum/percussion |
@@ -29,7 +27,18 @@
 | 025-Sweet Bells | Bells |
 | 141-Glass Bells | Bells |
 | 203-Digiharp | Bells |
-## Yamaha PSR-730 (56 patches)
+
+## Moog Little Phatty (5 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 007-BREAKING TOYS | Percussion |
+| 075-KICK IT QUICK | Percussion |
+| 076-AGOGO A GO GO | Percussion |
+| 077-SIZZLEMOD HIT | Percussion |
+| 085-HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
+
+## Yamaha PSR-730 (52 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -42,7 +51,6 @@
 | ChPc:023-Xylophone | Xylophone |
 | Perc:123-TubulrBel | Tubular bells |
 | Perc:124-Dulcimer | Dulcimer |
-| ChPc:286-Santur | Santur |
 | Perc:391-Timpani | Timpani variant |
 | Perc:392-Glock | Glockenspiel variant |
 | Perc:393-Bell | Bell variant |
@@ -51,7 +59,6 @@
 | Perc:397-TubulrBel | Tubular bells variant |
 | Perc:398-Dulcimer | Dulcimer variant |
 | Perc:400-Celesta | Celesta |
-
 | ChPc:020-Vibraphone | Chromatic percussion |
 | ChPc:025-Celesta | Chromatic percussion |
 | ChPc:026-Glocken | Chromatic percussion |
@@ -87,6 +94,7 @@
 | ChPc:271-Vibes | Chromatic percussion |
 | Chrm:013-Marimba | Chromatic percussion |
 | Chrm:015-TubulrBel | Chromatic percussion |
+
 ## Alesis Micron (134 patches)
 
 | Patch Name | Description |
@@ -211,7 +219,6 @@
 | Drum:TM SimmonsyTom | Simmons-y tom |
 | Drum:TM Toms | Toms |
 | Drum:TM Zimmonz | Zimmonz toms |
-
 | Comp:Bellsichord | Bell/mallet sound |
 | Comp:Bone Kalimba | Bell/mallet sound |
 | Comp:Carillion | Bell/mallet sound |
@@ -226,18 +233,8 @@
 | Comp:Romulan Bells | Bell/mallet sound |
 | Comp:Sitary | Bell/mallet sound |
 | Comp:Toy Steel Drum | Bell/mallet sound |
-## Moog Little Phatty (5 patches)
-
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-| 007 | BREAKING TOYS | Percussion |
-| 075 | KICK IT QUICK | Percussion |
-| 076 | AGOGO A GO GO | Percussion |
-| 077 | SIZZLEMOD HIT | Percussion |
-| 085 | HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
 
 ## Dave Smith Poly Evolver (43 patches)
-
 
 | Patch Name | Description |
 |------------|-------------|
@@ -284,53 +281,7 @@
 | C122 SatnPerc | Percussion/drum sound |
 | C126 PictPerc | Percussion/drum sound |
 | C127 Organic Beat Se | Percussion/drum sound |
-## Modal Argon8 (3 patches)
 
-| Patch Name | Description |
-|------------|-------------|
-| 092-Clap | Percussion |
-| 176-Kick | Percussion |
-| 225-Donk | Percussion |
+---
 
-## Yamaha PSR-730 (6 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| Chrm:009-Celesta | Chromatic percussion |
-| Chrm:010-Glock | Chromatic percussion |
-| ChPc:271-Vibes | Chromatic percussion |
-| Chrm:013-Marimba | Chromatic percussion |
-| ChPc:023-Xylophone | Chromatic percussion |
-| Chrm:015-TubulrBel | Chromatic percussion |
-
-## Alesis Micron (14 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| Comp:Bellsichord | Bell/mallet sound |
-| Comp:Bone Kalimba | Bell/mallet sound |
-| Comp:Carillion | Bell/mallet sound |
-| Comp:DynaEthno Bell | Bell/mallet sound |
-| Comp:E-Sitar Layer | Plucked instrument |
-| Comp:Harptronic | Bell/mallet sound |
-| Comp:Marimbaphone | Bell/mallet sound |
-| Comp:Mind Bell | Bell/mallet sound |
-| Comp:Punchy Harp | Bell/mallet sound |
-| Comp:Ringmod Bell | Bell/mallet sound |
-| Comp:RingmodMyBell | Bell/mallet sound |
-| Comp:Romulan Bells | Bell/mallet sound |
-| Comp:Sitary | Bell/mallet sound |
-| Comp:Toy Steel Drum | Bell/mallet sound |
-
-**Total: 145 percussion/drum patches across all synths**
-
-## Korg microKORG (5 patches)
-
-| Patch | Description |
-|-------|-------------|
-| A.23-DelUne Stab | DelUne Stab (House) |
-| A.31-AnalogBell | AnalogBell (Electronica) |
-| A.32-DeepPerc | DeepPerc (Electronica) |
-| B.53-Square Comp | Square Comp |
-| B.61-FilterCompo | FilterCompo |
-
+**Total: 254 percussion/drum patches across all synths**

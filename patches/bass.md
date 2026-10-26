@@ -2,8 +2,8 @@
 
 # Bass Patches by Synthesizer
 
-## Modal Argon8 (35 patches)
 
+## Modal Argon8 (37 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -41,40 +41,40 @@
 | 281-Rider Bass | Smooth, riding bass line character |
 | 283-Tiger Bass | Fierce, aggressive bass tone |
 | 291-Arpy Bass | Arpeggiated bass pattern |
-
 | 122-Sub Drone | Bass sound |
 | 034-Pro Basic | Powerful bass |
 | 300-jd - Bwah bass | Custom bwah bass sound |
+
 ## Moog Little Phatty (26 patches)
 
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-| 001 | *CBass | Custom bass sound |
-| 002 | TAURUS BASS3 | Third variation of Taurus pedal bass |
-| 004 | ThrilledBass | Custom bass sound |
-| 005 | LAMBSBREAD | Deep bass |
-| 010 | UPFRONT BASS | Forward, present bass in the mix |
-| 012 | BASS MAN | Straightforward, solid Moog bass |
-| 013 | SOLID1 BASS | Solid, reliable bass foundation |
-| 017 | BITCRUSHER | Bass |
-| 018 | SLOW SNH BASS | Sample & hold modulated bass with slow rate |
-| 020 | FOUNDATION | Bass sound |
-| 021 | SEEKER BASS | Filter-sweeping bass with movement |
-| 022 | PULSAR BASS | Pulsing, rhythmic bass |
-| 023 | ATOM BOM BASS | Explosive, powerful bass tone |
-| 024 | ALKALINE BASS | Bright, cutting bass with resonance |
-| 025 | BLOWOUT BASS | Bass |
-| 026 | ADAM BASS 1 | Classic Moog bass with analog warmth |
-| 027 | LITTLE TAURUS | Bass sound |
-| 028 | LITTLETAURUS2 | Bass sound |
-| 030 | TAURUS BASS | Taurus pedal-inspired deep bass |
-| 032 | TAURUS TUBA | Bass sound |
-| 033 | MINIBASS | Minimoog-style bass patch |
-| 034 | CLASS BASS | Classic Moog ladder filter bass |
-| 065 | OVERTONIC | Works best as bass, legato |
-| 078 | SUPER SUB HIT | Bass sound |
-| 090 | 2 NASTY | Probably best as bass, could be lead too |
-| 093 | 2WAW FUNK | Funk bass, could also be funk lead |
+| Patch Name | Description |
+|------------|-------------|
+| 001-*CBass | Custom bass sound |
+| 002-TAURUS BASS3 | Third variation of Taurus pedal bass |
+| 004-ThrilledBass | Custom bass sound |
+| 005-LAMBSBREAD | Deep bass |
+| 010-UPFRONT BASS | Forward, present bass in the mix |
+| 012-BASS MAN | Straightforward, solid Moog bass |
+| 013-SOLID1 BASS | Solid, reliable bass foundation |
+| 017-BITCRUSHER | Bass |
+| 018-SLOW SNH BASS | Sample & hold modulated bass with slow rate |
+| 020-FOUNDATION | Bass sound |
+| 021-SEEKER BASS | Filter-sweeping bass with movement |
+| 022-PULSAR BASS | Pulsing, rhythmic bass |
+| 023-ATOM BOM BASS | Explosive, powerful bass tone |
+| 024-ALKALINE BASS | Bright, cutting bass with resonance |
+| 025-BLOWOUT BASS | Bass |
+| 026-ADAM BASS 1 | Classic Moog bass with analog warmth |
+| 027-LITTLE TAURUS | Bass sound |
+| 028-LITTLETAURUS2 | Bass sound |
+| 030-TAURUS BASS | Taurus pedal-inspired deep bass |
+| 032-TAURUS TUBA | Bass sound |
+| 033-MINIBASS | Minimoog-style bass patch |
+| 034-CLASS BASS | Classic Moog ladder filter bass |
+| 065-OVERTONIC | Works best as bass, legato |
+| 078-SUPER SUB HIT | Bass sound |
+| 090-2 NASTY | Probably best as bass, could be lead too |
+| 093-2WAW FUNK | Funk bass, could also be funk lead |
 
 ### Sound Design Recipe: TB-303 Acid Bass (not a factory preset)
 
@@ -109,8 +109,7 @@ Optional: Multidrive/overload control for extra grit beyond what a real 303 has.
 
 Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatty), [Moog Forum: Aftertouch and velocity modification](https://forum.moogmusic.com/t/aftertouch-and-velocity-modification/15860)
 
-
-## Yamaha PSR-730 (67 patches)
+## Yamaha PSR-730 (61 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -227,7 +226,6 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 
 ## Dave Smith Poly Evolver (54 patches)
 
-
 | Patch Name | Description |
 |------------|-------------|
 | B001 Numan Cars Bass | Bass sound |
@@ -284,28 +282,7 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | B052 C-Bass | Bass sound |
 | B053 D&Bass | Bass sound |
 | C115 Low Anthem Bass | Bass sound |
-**Total: 198 bass patches across all synths**
 
-## Korg microKORG (18 patches)
+---
 
-| Patch | Description |
-|-------|-------------|
-| A.21-Acid Bass | Acid Bass (House) |
-| A.22-AcdSawBass | AcdSawBass (House) |
-| A.24-HouseBass | HouseBass (House) |
-| A.27-SyncBass | SyncBass (House) |
-| A.41-AcdSqngBass | AcdSqngBass (DnB) |
-| A.42-TalkingBass | TalkingBass (DnB) |
-| A.43-DriveBass | DriveBass (DnB) |
-| A.44-E.Bot Bass | E.Bot Bass (DnB) |
-| A.48-Bass Machine | Bass Machine (DnB) |
-| A.53-M-BASS | M-BASS (Breaks) |
-| B.31-NoodelBass | NoodelBass |
-| B.41-5thBass | 5thBass |
-| B.42-UnisonBass | UnisonBass |
-| B.44-HmgSyncBass | HmgSyncBass |
-| B.45-LooseModBass | LooseModBass |
-| B.47-C800 Bass JS | C800 Bass JS |
-| B.77-Sync+Bass | Sync+Bass |
-| B.82-GldOsscBass | GldOsscBass |
-
+**Total: 222 bass patches across all synths**
