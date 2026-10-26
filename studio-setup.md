@@ -70,10 +70,19 @@
 
 ### Vocal Chain (channel 3)
 - Shure SM58 into the TC-Helicon Harmony M's XLR mic input
-- Harmony M Mono output (1/4", line level, voice plus effect) into channel 3's 1/4" line input, not the XLR. The Harmony M's Dry output is unused
+- Harmony M Mono output (1/4", line level, voice plus effect) into channel 3's 1/4" line input, not the XLR. The Harmony M's Dry output (voice only) feeds channel 2 when recording dry and wet in one take, see below
 - Antares AVP-1 on channel 3's insert, with a TRS Y insert cable: grey (tip, send) into the AVP-1's line input, orange (ring, return) from the AVP-1's output
 - The AVP-1 must be powered on whenever the insert cable is in, or channel 3 goes silent
 - Gain staging: Harmony M input gain set so the loudest shouts just flicker its level light, then channel 3 gain so they read around 0 on solo, AVP-1 input on line and output matched so the level doesn't change
+
+### Recording Vocals Dry and Wet in One Take
+- The 1620i connects to the computer by FireWire: each channel goes to REAPER on its own input, and REAPER's playback comes back on FW 1-2
+- Dry: Harmony M Dry output into channel 2's 1/4" line input (borrowing the guitar channel), recorded on REAPER input 2
+- Harmony M plus AVP-1: channel 3, recorded on REAPER input 3 (check once that the FireWire send carries the AVP-1 insert; if it doesn't, the send is pre-insert)
+- Everything, including the Aux 1 reverb and Aux 3 distortion returns: press ASSIGN TO FW 15-16 above the Main Mix fader, which sends the main mix to REAPER inputs 15-16 in place of channels 15-16 (the microKORG can't be recorded while it's on). Record 15-16 as one stereo track
+- Hearing playback: in CTRL ROOM/PHONES SOURCE, press both MAIN MIX and FW 1-2. REAPER's playback goes to the headphones without entering the main mix, so it stays out of the 15-16 recording
+- Track in headphones: the JBLs run off the Main Out, so they don't carry REAPER's playback, and the mic would pick them up anyway
+- Each channel's MUTE button doubles as ALT 3/4: a muted channel goes to the ALT 3-4 bus instead of the main mix. Not needed for this setup
 
 ## DJ Booth
 - Technics SL-1200 MK2 (x2) - [Wikipedia](https://en.wikipedia.org/wiki/Technics_SL-1200) - direct-drive, quartz-locked, +/-8% pitch control, 0.7s start-up torque, 0.01% wow/flutter, 12.5kg
