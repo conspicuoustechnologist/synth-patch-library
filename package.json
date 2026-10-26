@@ -4,7 +4,8 @@
   "description": "Complete patch reference for all synthesizers in the studio setup.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "pages": "node tools/rebuild-pages.js"
   },
   "repository": {
     "type": "git",
