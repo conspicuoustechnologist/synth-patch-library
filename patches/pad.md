@@ -3,7 +3,7 @@
 # Pad Patches by Synthesizer
 
 
-## Modal Argon8 (65 patches)
+## Modal Argon8 (70 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -72,8 +72,13 @@
 | 193-Wide Open Pad | Pad |
 | 121-Warp | Best guess from sound (patchprint), not auditioned |
 | 182-Pulse Mode | Best guess from sound (patchprint), not auditioned |
+| 000-Time To Drift | Best guess from sound (patchprint), not auditioned |
+| 051-Zimmer Organ | Keys |
+| 060-Late Keys | Late night keys |
+| 303-Pro Basic | Best guess from sound (patchprint), not auditioned |
+| 096-Sky Keys | Sky keys |
 
-## Yamaha PSR-730 (54 patches)
+## Yamaha PSR-730 (56 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -105,7 +110,6 @@
 | SPad:210-Phase IV | Phase IV |
 | SPad:211-Symbiont | Symbiont |
 | SPad:212-Solaris | Solaris |
-| SPad:213-Time Travel | Time Travel |
 | SPad:214-Millenium | Millenium |
 | SPad:215-Transform | Transform |
 | SPad:529-NewAgePd | NewAgePd |
@@ -117,7 +121,6 @@
 | SPad:537-PolySyPd | PolySyPd |
 | SPad:538-PolyPd80 | PolyPd80 |
 | SPad:539-ClickPad | ClickPad |
-| SPad:540-Ana Pad | Ana Pad |
 | SPad:541-SquarPad | SquarPad |
 | SPad:542-ChoirPad | ChoirPad |
 | SPad:543-Heaven2 | Heaven2 |
@@ -131,8 +134,12 @@
 | SPad:555-Converge | Converge |
 | SPad:556-PolarPad | PolarPad |
 | SPad:557-Celstial | Celstial |
+| SEff:613-Starz | Starz |
+| SEff:595-GobSyn | GobSyn |
+| SEff:602-BelChoir | Choir voice |
+| ChPc:286-Santur | Chromatic percussion |
 
-## Alesis Micron (127 patches)
+## Alesis Micron (131 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -195,7 +202,6 @@
 | Pad:Maximus | Maximus pad |
 | Pad:Melancholy Pad | Melancholy pad |
 | Pad:Metal Moths | Metal moths pad |
-| Pad:MiddleBandVoko | Middle band voko pad |
 | Pad:Moartal | Moartal pad |
 | Pad:Mod,Vangelian | Mod Vangelis pad |
 | Pad:Moody Sweep | Moody sweep pad |
@@ -259,12 +265,17 @@
 | Pad:Vox Layer | Vox layer pad |
 | Pad:Voxy Synth | Voxy synth pad |
 | Pad:WahWehWuhWoo | Wah weh wuh woo pad |
-| Pad:Waterpiano | Water piano pad |
 | Pad:Welcome Back | Welcome back pad |
 | Pad:What's That? | What's that pad |
 | Pad:Whisper | Whisper pad |
+| Key:ArEmEye Piano | R-M-I piano |
+| String:Dark Oberstngs | Dark Oberheim strings |
+| String:JP Strings | Jupiter strings |
+| Comp:Crystallizer | Comp/stab sound |
+| String:String Dream | String dream |
+| Lead:Sizzler | Sizzling lead tone |
 
-## Dave Smith Poly Evolver (120 patches)
+## Dave Smith Poly Evolver (124 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -307,7 +318,6 @@
 | C028 Phase Rift | Pad/atmospheric sound |
 | C029 Breath Of Evo | Pad/atmospheric sound |
 | C030 Gurgle Sweep | Pad/atmospheric sound |
-| C031 *A Bit Subtle | Pad/atmospheric sound |
 | C032 TrancePad | Pad/atmospheric sound |
 | C033 Ski Poles | Pad/atmospheric sound |
 | C034 LFO Swell Pad | Pad/atmospheric sound |
@@ -319,7 +329,6 @@
 | C040 Relaxing Drone | Pad/atmospheric sound |
 | C041 Heavyweight | Pad/atmospheric sound |
 | C042 Wait a While... | Pad/atmospheric sound |
-| C043 Duster | Pad/atmospheric sound |
 | C044 ICMC | Pad/atmospheric sound |
 | C045 Heavenly Drift | Pad/atmospheric sound |
 | C046 Jabba | Pad/atmospheric sound |
@@ -347,7 +356,6 @@
 | C068 Borg Flange | Pad/atmospheric sound |
 | C069 Swirly NoiseyH | Pad/atmospheric sound |
 | C070 Vectoring 2 | Pad/atmospheric sound |
-| C071 Upward Swirls | Pad/atmospheric sound |
 | C072 Multiple Sweeps | Pad/atmospheric sound |
 | C073 Thin Mint | Pad/atmospheric sound |
 | C074 YetBasic2PolePa | Pad/atmospheric sound |
@@ -371,7 +379,6 @@
 | C094 DistantGlow | Pad/atmospheric sound |
 | C100 PictPad | Pad/atmospheric sound |
 | C119 VoxPad | Pad/atmospheric sound |
-| C124 PictPad | Pad/atmospheric sound |
 | C105 Morph Phun | Pad/atmospheric sound |
 | C113 SchizoBase | Pad/atmospheric sound |
 | C096 microQ | Pad/atmospheric sound |
@@ -388,15 +395,22 @@
 | C120 microQ | Pad/atmospheric sound |
 | C121 PolishedSteps 2 | Pad/atmospheric sound |
 | C123 Promenade | Pad/atmospheric sound |
+| A114 FatSyncSeq | Keyboard sound |
+| A012 Ring On Sync | Lead sound |
+| A016 Spoink | Lead sound |
+| B092 PictSolo2 | String instrument |
+| A028 Popcorgan | Lead sound |
+| B065 Sustaining Bell | Percussion/drum sound |
+| A100 PaddySeq | Lead sound |
+| B059 Bells | Percussion/drum sound |
 
-## Korg microKORG (11 patches)
+## Korg microKORG (14 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | A.16-SloopyPad | SloopyPad (Trance) |
 | A.17-SweepPolyPad | SweepPolyPad (Trance) |
 | A.37-FlangeSPad | FlangeSPad (Electronica) |
-| A.63-ModernWh-Pad | ModernWh-Pad |
 | A.64-JDstrngPad | JDstrngPad |
 | A.65-WarmWhitePad | WarmWhitePad |
 | B.17-PulsrePad | PulsrePad |
@@ -404,7 +418,11 @@
 | B.21-Soft Sqr Pad | Soft Sqr Pad |
 | B.36-T4EP8Pad | T4EP8Pad |
 | B.65-MoscDrPad | MoscDrPad |
+| B.14-PhaserLead | PhaserLead |
+| B.16-EuphoriaSync | EuphoriaSync |
+| B.26-Auto Lead | Auto Lead |
+| B.12-Psycho Synth | Psycho Synth |
 
 ---
 
-**Total: 377 pad patches across all synths**
+**Total: 395 pad patches across all synths**

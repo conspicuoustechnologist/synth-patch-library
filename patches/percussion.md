@@ -3,7 +3,7 @@
 # Percussion/Drum Patches by Synthesizer
 
 
-## Modal Argon8 (21 patches)
+## Modal Argon8 (22 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -28,6 +28,7 @@
 | 141-Glass Bells | Bells |
 | 203-Digiharp | Bells |
 | 128-Pure Plucks | From sound (patchprint), both methods agree |
+| 231-Proto Joy Bass | Uplifting, melodic bass tone |
 
 ## Moog Little Phatty (5 patches)
 
@@ -39,7 +40,7 @@
 | 077-SIZZLEMOD HIT | Percussion |
 | 085-HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
 
-## Yamaha PSR-730 (74 patches)
+## Yamaha PSR-730 (72 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -62,9 +63,7 @@
 | ChPc:281-ChrchBel | Chromatic percussion |
 | ChPc:282-Carillon | Chromatic percussion |
 | ChPc:283-Dulcimer | Chromatic percussion |
-| ChPc:284-Dulcimr2 | Chromatic percussion |
 | ChPc:285-Cimbalom | Chromatic percussion |
-| ChPc:286-Santur | Chromatic percussion |
 | SEff:570-RndGlock | Bell/mallet sound |
 | SEff:571-GlockChi | Bell/mallet sound |
 | SEff:572-ClearBel | Bell/mallet sound |
@@ -118,7 +117,7 @@
 | Drum:224-Brush Kit | Brush Kit |
 | Drum:225-Classic Kit | Classic Kit |
 
-## Alesis Micron (134 patches)
+## Alesis Micron (135 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -256,23 +255,21 @@
 | Comp:Romulan Bells | Bell/mallet sound |
 | Comp:Sitary | Bell/mallet sound |
 | Comp:Toy Steel Drum | Bell/mallet sound |
+| Pad:Waterpiano | Water piano pad |
 
-## Dave Smith Poly Evolver (43 patches)
+## Dave Smith Poly Evolver (40 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | B054 Panning Digswell | Percussion/drum sound |
-| B055 Cembali | Percussion/drum sound |
 | B056 Marim Bah | Percussion/drum sound |
 | B057 Eastern Evo | Percussion/drum sound |
 | B058 Warble Bell | Percussion/drum sound |
-| B059 Bells | Percussion/drum sound |
 | B060 Wind Bells | Percussion/drum sound |
 | B061 FlangeBells | Percussion/drum sound |
 | B062 PitchGlass | Percussion/drum sound |
 | B063 Many Bells | Percussion/drum sound |
 | B064 Bellorgon | Percussion/drum sound |
-| B065 Sustaining Bell | Percussion/drum sound |
 | B066 PannedBell | Percussion/drum sound |
 | B096 Wooden Plates | Percussion/drum sound |
 | B097 Disto BD | Percussion/drum sound |
@@ -293,7 +290,6 @@
 | B112 Super Fast | Percussion/drum sound |
 | B113 SuperPunchyClav | Percussion/drum sound |
 | B114 Harpy | Percussion/drum sound |
-| B115 PowerChord | Percussion/drum sound |
 | B116 PictSolo2 | Percussion/drum sound |
 | B117 Whistlehoot | Percussion/drum sound |
 | B118 Mellotron Flute | Percussion/drum sound |
@@ -304,6 +300,7 @@
 | C122 SatnPerc | Percussion/drum sound |
 | C126 PictPerc | Percussion/drum sound |
 | C127 Organic Beat Se | Percussion/drum sound |
+| B048 CornBassHH | Bass sound |
 
 ## Korg microKORG (5 patches)
 
@@ -317,4 +314,4 @@
 
 ---
 
-**Total: 282 percussion/drum patches across all synths**
+**Total: 279 percussion/drum patches across all synths**

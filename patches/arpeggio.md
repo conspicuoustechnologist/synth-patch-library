@@ -138,7 +138,7 @@
 | D090 U Make Me Nervs | Pattern lead/arpeggio |
 | D091 Moody Shuffle | Pattern lead/arpeggio |
 
-## Korg microKORG (7 patches)
+## Korg microKORG (8 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -149,7 +149,8 @@
 | B.11-SynthHarp | SynthHarp |
 | B.28-SequencePad | SequencePad |
 | B.63-T.F.Sequence | T.F.Sequence |
+| B.74-HOUSE GateJS | HOUSE GateJS |
 
 ---
 
-**Total: 122 arpeggio patches across all synths**
+**Total: 123 arpeggio patches across all synths**

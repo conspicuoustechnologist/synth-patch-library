@@ -30,7 +30,6 @@
 | 197-Sync Squ Bass | Oscillator sync square wave bass with harmonics |
 | 201-Raah Bass | Aggressive, roaring bass sound |
 | 219-PWM Bass | Pulse width modulated bass with movement |
-| 231-Proto Joy Bass | Uplifting, melodic bass tone |
 | 248-JS Bass | Joystick-controlled bass with performance features |
 | 249-Esqi Bass | Vintage digital synth-inspired bass |
 | 250-Chewy Bass | Thick, resonant bass with bite |
@@ -47,15 +46,15 @@
 | 093-Digi Stab | Best guess from sound (patchprint), not auditioned |
 | 204-Tarp | Best guess from sound (patchprint), not auditioned |
 | 499-Test Patch | Best guess from sound (patchprint), not auditioned |
+| 235-Funkroom Lead | Funky room lead sound |
 
-## Moog Little Phatty (28 patches)
+## Moog Little Phatty (29 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | 001-*CBass | Custom bass sound |
 | 002-TAURUS BASS3 | Third variation of Taurus pedal bass |
 | 004-ThrilledBass | Custom bass sound |
-| 005-LAMBSBREAD | Deep bass |
 | 010-UPFRONT BASS | Forward, present bass in the mix |
 | 012-BASS MAN | Straightforward, solid Moog bass |
 | 013-SOLID1 BASS | Solid, reliable bass foundation |
@@ -79,7 +78,9 @@
 | 090-2 NASTY | Probably best as bass, could be lead too |
 | 093-2WAW FUNK | Funk bass, could also be funk lead |
 | 029-ELLEOTICBION | Bass sound |
-| 056-FREQ MOD | From sound (patchprint), both methods agree |
+| 095-DARQUE N HARD | Lead or bass |
+| 062-KINDERMOOG | Lead, but has a bass with it |
+| 053-MISHIEVOUS | Mostly lead, warm analog as a bass |
 
 ### Sound Design Recipe: TB-303 Acid Bass (not a factory preset)
 
@@ -114,7 +115,7 @@ Optional: Multidrive/overload control for extra grit beyond what a real 303 has.
 
 Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatty), [Moog Forum: Aftertouch and velocity modification](https://forum.moogmusic.com/t/aftertouch-and-velocity-modification/15860)
 
-## Yamaha PSR-730 (61 patches)
+## Yamaha PSR-730 (60 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -134,7 +135,6 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | Bass:095-Hi Q Bass | High-quality sampled bass |
 | Bass:096-Rave Bass | Rave/techno bass sound |
 | Bass:352-Aco.Bass | Acoustic bass variant |
-| Bass:353-JazzRthm | Jazz rhythm bass |
 | Bass:354-VXUprght | Vintage upright bass |
 | Bass:355-FngrBass | Finger bass variant |
 | Bass:356-FingrDrk | Dark finger bass |
@@ -147,9 +147,7 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | Bass:363-MutePkBa | Muted picked bass |
 | Bass:364-Fretless | Fretless bass variant |
 | Bass:365-Fretles2 | Fretless bass variant 2 |
-| Bass:366-Fretles3 | Fretless bass variant 3 |
 | Bass:367-Fretles4 | Fretless bass variant 4 |
-| Bass:368-SynFretl | Synth fretless bass |
 | Bass:369-Smooth | Smooth bass tone |
 | Bass:370-SlapBas1 | Slap bass variant 1 |
 | Bass:371-ResoSlap | Resonant slap bass |
@@ -175,10 +173,12 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | Bass:391-ModulrBa | Modular bass |
 | Bass:392-DX Bass | DX7-style FM bass |
 | Bass:393-X WireBa | Crosswired bass |
-| Reed:167-Bassoon | Bassoon orchestral instrument |
 | Reed:483-Bassoon | Bassoon variant |
 | StrS:102-Contrabass | Contrabass/double bass orchestral |
 | SyLd:525-Bass&Ld | Bass and lead hybrid |
+| SEff:559-ClaviPad | ClaviPad |
+| SyLd:188-Vinylead | Vinylead |
+| SyLd:505-DigiSaw | Synth lead |
 
 ## Alesis Micron (46 patches)
 
@@ -207,7 +207,6 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | Bass:Low I.Q. | Simple, straightforward bass |
 | Bass:Machinery Bass | Industrial, mechanical bass |
 | Bass:Mini Twin Bass | Minimoog twin oscillator bass |
-| Bass:Mini-01 | Minimoog-style bass |
 | Bass:Noize Bass | Noisy, distorted bass |
 | Bass:Old Favorite | Classic, reliable bass |
 | Bass:P-Bass D-Luxe | Precision bass deluxe |
@@ -230,8 +229,9 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | Bass:What's Down? | Low-end focused bass |
 | Bass:Analogue Seq | Bass |
 | Bass:Super Mini | Bass |
+| Comp:Ice Tongs | Comp/stab sound |
 
-## Dave Smith Poly Evolver (54 patches)
+## Dave Smith Poly Evolver (57 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -282,15 +282,18 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | B045 BelewBassEnding | Bass sound |
 | B046 BruceBass | Bass sound |
 | B047 Massive | Bass sound |
-| B048 CornBassHH | Bass sound |
-| B049 LazyBass | Bass sound |
 | B050 LazyBassHacked | Bass sound |
 | B051 Square Jump Seq | Bass sound |
 | B052 C-Bass | Bass sound |
 | B053 D&Bass | Bass sound |
 | C115 Low Anthem Bass | Bass sound |
+| A080 OB-XA-Seq | Lead sound |
+| A005 MW Morph Comp | Lead sound |
+| C031 *A Bit Subtle | Pad/atmospheric sound |
+| A050 Short and Tight | Lead sound |
+| B115 PowerChord | Percussion/drum sound |
 
-## Korg microKORG (18 patches)
+## Korg microKORG (20 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -299,7 +302,6 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | A.24-HouseBass | HouseBass (House) |
 | A.27-SyncBass | SyncBass (House) |
 | A.41-AcdSqngBass | AcdSqngBass (DnB) |
-| A.42-TalkingBass | TalkingBass (DnB) |
 | A.43-DriveBass | DriveBass (DnB) |
 | A.44-E.Bot Bass | E.Bot Bass (DnB) |
 | A.48-Bass Machine | Bass Machine (DnB) |
@@ -312,7 +314,10 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 | B.47-C800 Bass JS | C800 Bass JS |
 | B.77-Sync+Bass | Sync+Bass |
 | B.82-GldOsscBass | GldOsscBass |
+| B.46-EuroFalls | EuroFalls |
+| A.75-Simply7m | Simply7m |
+| A.45-SweepSyncLD | SweepSyncLD (DnB) |
 
 ---
 
-**Total: 247 bass patches across all synths**
+**Total: 252 bass patches across all synths**

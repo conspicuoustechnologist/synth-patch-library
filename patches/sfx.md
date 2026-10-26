@@ -30,7 +30,7 @@
 | 100-CA CALIBRATION | SFX - calibration patch |
 | 000-CALIBRATION | Calibration patch |
 
-## Yamaha PSR-730 (99 patches)
+## Yamaha PSR-730 (93 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -43,7 +43,6 @@
 | SndE:664-Applause | Sound effect |
 | SndE:665-Gunshot | Sound effect |
 | SEff:558-Rain | Rain |
-| SEff:559-ClaviPad | ClaviPad |
 | SEff:560-HrmoRain | HrmoRain |
 | SEff:561-AfrcnWnd | AfrcnWnd |
 | SEff:562-Caribean | Caribean |
@@ -51,7 +50,6 @@
 | SEff:564-Prologue | Prologue |
 | SEff:565-Ancestrl | Ancestrl |
 | SEff:566-Crystal | Crystal |
-| SEff:568-Popcorn | Popcorn |
 | SEff:569-TinyBell | TinyBell |
 | SEff:573-ChorBell | ChorBell |
 | SEff:577-XmasBell | XmasBell |
@@ -62,7 +60,6 @@
 | SEff:583-Atmosphr | Atmosphr |
 | SEff:584-WarmAtms | WarmAtms |
 | SEff:585-HollwRls | HollwRls |
-| SEff:586-NylonEP | NylonEP |
 | SEff:587-NylnHarp | NylnHarp |
 | SEff:588-Harp Vox | Harp Vox |
 | SEff:589-AtmosPad | AtmosPad |
@@ -71,7 +68,6 @@
 | SEff:592-FantaBel | FantaBel |
 | SEff:593-Smokey | Smokey |
 | SEff:594-Goblins | Goblins |
-| SEff:595-GobSyn | GobSyn |
 | SEff:596-50sSciFi | 50sSciFi |
 | SEff:597-Ring Pad | Ring Pad |
 | SEff:598-Ritual | Ritual |
@@ -79,7 +75,6 @@
 | SEff:600-Night | Night |
 | SEff:601-Glisten | Glisten |
 | SEff:603-Echoes | Echoes |
-| SEff:604-EchoPad2 | EchoPad2 |
 | SEff:605-Echo Pan | Echo Pan |
 | SEff:606-EchoBell | EchoBell |
 | SEff:607-Big Pan | Big Pan |
@@ -88,7 +83,6 @@
 | SEff:610-Stardust | Stardust |
 | SEff:611-Reso Pan | Reso Pan |
 | SEff:612-Sci-Fi | Sci-Fi |
-| SEff:613-Starz | Starz |
 | SFX Kit1 | SFX Kit1 |
 | SFX Kit2 | SFX Kit2 |
 | SFX:666-CuttngNz | CuttngNz |
@@ -134,7 +128,7 @@
 | SFX:706-Xplosion | Xplosion |
 | SFX:707-FireWork | FireWork |
 
-## Alesis Micron (40 patches)
+## Alesis Micron (41 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -178,6 +172,7 @@
 | Sfx:Windy City | Sound effect |
 | Sfx:X-Mod | Sound effect |
 | Sfx:Seafoam | Sound effect |
+| Comp:Splak | Comp/stab sound |
 
 ## Dave Smith Poly Evolver (38 patches)
 
@@ -222,14 +217,15 @@
 | D128 Fade Outta Here | Sound effect |
 | C128 FFB3 | Sound effect |
 
-## Korg microKORG (3 patches)
+## Korg microKORG (4 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | B.24-Ringme | Ringme |
 | B.62-StargaTE | StargaTE |
-| B.74-HOUSE GateJS | HOUSE GateJS |
+| B.75-EvilBlues | EvilBlues |
+| A.62-VU-SyncLead | VU-SyncLead |
 
 ---
 
-**Total: 197 SFX/effects patches across all synths**
+**Total: 193 SFX/effects patches across all synths**

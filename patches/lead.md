@@ -3,7 +3,7 @@
 # Lead Patches by Synthesizer
 
 
-## Modal Argon8 (89 patches)
+## Modal Argon8 (85 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -27,7 +27,6 @@
 | 164-Lambs Lead | Lamb-inspired gentle lead |
 | 165-Saga Lead | Progressive rock saga lead |
 | 194-Mono AftT Lead | Monophonic aftertouch lead |
-| 235-Funkroom Lead | Funky room lead sound |
 | 245-Ghostly Flute | Ghostly flute-like lead |
 | 247-Daft 20 Lead | Daft Punk 2020 style lead |
 | 255-Highwire Lead | High-wire tension lead |
@@ -43,7 +42,6 @@
 | 115-Chicago Chord | Comp/stab sound |
 | 137-Almond Chord | Comp/stab sound |
 | 175-Miyaki Chord | Comp/stab sound |
-| 206-Tooke's Chord | Comp/stab sound |
 | 254-Big Chord Stabs | Comp/stab sound |
 | 272-Sunday Chord | Comp/stab sound |
 | 274-Soft Echo Pluck | Comp/stab sound |
@@ -89,15 +87,13 @@
 | 143-Cable Chord | Lead |
 | 149-Sampled Chord | Lead |
 | 230-Purring Lead | Lead |
-| 258-Sync Lead | Lead |
 | 262-2012 Lead | Lead |
 | 286-Kowada Lead | Lead |
 | 296-Kitchen Lead | Lead |
 | 066-Octave Donk | From sound (patchprint), both methods agree |
-| 303-Pro Basic | Best guess from sound (patchprint), not auditioned |
 | 304-Th0ghBlock | From sound (patchprint), both methods agree |
 
-## Moog Little Phatty (51 patches)
+## Moog Little Phatty (47 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -113,14 +109,10 @@
 | 041-SESAME ST | Lead |
 | 042-THIRD EYE | Pad, but almost a lead |
 | 045-REZZY FOURTH | Lead |
-| 047-TRANSPHATTY | Mostly a lead |
 | 048-REZZIN WORM | Lead or bass |
-| 053-MISHIEVOUS | Mostly lead, warm analog as a bass |
 | 054-PUNK PANTHER | Mostly lead, low end is powerful bass |
-| 057-MARY ALICE | Lead, almost soft Kraftwerk like |
 | 058-MISTINGUETT | Lead, slurring, legato |
 | 059-CUTTING ZINC | Mostly lead, bass can be punchy electro |
-| 062-KINDERMOOG | Lead, but has a bass with it |
 | 063-POSH MOOG | High pitched lead |
 | 064-EDGY VIBRATO | Lead |
 | 067-HAPPY MOOG | Lead, a bit high pitched |
@@ -133,7 +125,6 @@
 | 084-FUSIONANOMALY | Lead, electronic saw, low end has electro bass |
 | 086-BOUNCY SEQ | Clean lead mostly, also clean bass |
 | 094-SOFT FUR | Droning lead, could be bass at low end |
-| 095-DARQUE N HARD | Lead or bass |
 | 096-CLEARMYTHROAT | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
 | 097-HARD RINGER | Lead |
 | 098-TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
@@ -146,14 +137,15 @@
 | 066-SUMMER LEAD | Lead |
 | 068-ADAMLEAD1 | Lead |
 | 070-SOFT LEAD | Lead |
-| 071-QUASAR LEAD | Lead |
 | 014-CALIBRATION | Best guess from sound (patchprint), not auditioned |
 | 043-HENRY THE 3RD | From sound (patchprint), both methods agree |
 | 044-FORERUNNER | From sound (patchprint), both methods agree |
 | 049-POT SYNC | From sound (patchprint), both methods agree |
 | 079-FM PLUCK | Best guess from sound (patchprint), not auditioned |
+| 091-COUNT HUCULA | Voice sort of, says "wow" kind of |
+| 081-RUBBER KOTO | Keyboard sound |
 
-## Yamaha PSR-730 (51 patches)
+## Yamaha PSR-730 (53 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -176,7 +168,6 @@
 | SyLd:502-Saw 2 | Synth lead |
 | SyLd:503-ThickSaw | Synth lead |
 | SyLd:504-DynaSaw | Synth lead |
-| SyLd:505-DigiSaw | Synth lead |
 | SyLd:507-HeavySyn | Synth lead |
 | SyLd:508-WaspySyn | Synth lead |
 | SyLd:509-PulseSaw | Synth lead |
@@ -196,20 +187,23 @@
 | SyLd:184-Sun Bell | Sun Bell |
 | SyLd:185-Aero Lead | Aero Lead |
 | SyLd:187-Mini Lead | Mini Lead |
-| SyLd:188-Vinylead | Vinylead |
 | SyLd:189-Warp | Warp |
 | SyLd:192-Tiny Lead | Tiny Lead |
 | SyLd:500-SineLead | SineLead |
 | SyLd:501-Saw.Lead | Saw.Lead |
-| SyLd:506-Big Lead | Big Lead |
 | SyLd:510-Dr.Lead | Dr.Lead |
 | SyLd:511-VeloLead | VeloLead |
 | SyLd:514-Pure Pad | Pure Pad |
 | SyLd:518-DistLead | DistLead |
 | SyLd:519-WireLead | WireLead |
-| SyLd:522-VoxLead | VoxLead |
+| Brss:152-Jump Brass | Jump Brass |
+| Pipe:176-Ocarina | Ocarina |
+| Brss:464-AnaVelBr | Brass instrument |
+| Brss:144-BallroomBrs | Brass instrument |
+| Bass:368-SynFretl | Synth fretless bass |
+| SEff:568-Popcorn | Popcorn |
 
-## Alesis Micron (141 patches)
+## Alesis Micron (137 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -228,17 +222,14 @@
 | Lead:Lucky Porta m2 | Lucky portamento lead |
 | Lead:Lunar Orbit | Lunar orbiting lead |
 | Lead:Mahavishnoid | Mahavishnu Orchestra lead |
-| Lead:Mecha-Canary | Mechanical canary lead |
 | Lead:Mini 5th | Minimoog fifth lead |
 | Lead:Mini Classic | Classic Minimoog lead |
 | Lead:Odyssee Lead | Odyssey-style lead |
 | Lead:Porta Lead | Portamento lead |
 | Lead:Rosemary'sBaby | Rosemary's Baby horror lead |
-| Lead:Sandpaper Lead | Rough sandpaper lead |
 | Lead:ScreamingWarpLd | Screaming warp lead |
 | Lead:Seven Days | Seven days lead |
 | Lead:Shortwave | Shortwave radio lead |
-| Lead:Sizzler | Sizzling lead tone |
 | Lead:SpankTone Lead | Spanky lead tone |
 | Lead:StixMiniMogue | Styx Minimoog lead |
 | Lead:Suboscillators | Sub-oscillator lead |
@@ -262,9 +253,7 @@
 | Comp:Boing Bongs | Comp/stab sound |
 | Comp:Breathy Tone | Comp/stab sound |
 | Comp:Chords2Rock | Comp/stab sound |
-| Comp:Classic Decay | Comp/stab sound |
 | Comp:CompJazzGuitar | Comp/stab sound |
-| Comp:Crystallizer | Comp/stab sound |
 | Comp:Deutsche Bahn | Comp/stab sound |
 | Comp:Dude! | Comp/stab sound |
 | Comp:Electric Jello | Comp/stab sound |
@@ -279,7 +268,6 @@
 | Comp:HappyCarribean | Comp/stab sound |
 | Comp:Hollow Machine | Comp/stab sound |
 | Comp:Howlercomp m2 | Comp/stab sound |
-| Comp:Ice Tongs | Comp/stab sound |
 | Comp:Inharmonics | Comp/stab sound |
 | Comp:IntoTheValley | Comp/stab sound |
 | Comp:ItsJamaicaMon! | Comp/stab sound |
@@ -289,7 +277,6 @@
 | Comp:Kitchen Sync | Comp/stab sound |
 | Comp:Laryngitis | Comp/stab sound |
 | Comp:Laser Surgery | Comp/stab sound |
-| Comp:Latenight Comp | Comp/stab sound |
 | Comp:Looker | Comp/stab sound |
 | Comp:Machete Beat | Comp/stab sound |
 | Comp:Massiva | Comp/stab sound |
@@ -324,7 +311,6 @@
 | Comp:Simple | Comp/stab sound |
 | Comp:Sine Drops | Comp/stab sound |
 | Comp:Spank Tone | Comp/stab sound |
-| Comp:Splak | Comp/stab sound |
 | Comp:SpringCleaning | Comp/stab sound |
 | Comp:Stargazing | Comp/stab sound |
 | Comp:Strawberry | Comp/stab sound |
@@ -354,8 +340,12 @@
 | Comp:FM Slider 2 | Lead |
 | Comp:Tiny Bell | Lead |
 | Lead:Micron Flute | Lead |
+| Key:Oktoberfest! | Oktoberfest |
+| Key:RockWheelOrgan | Rock wheel organ |
+| Pad:MiddleBandVoko | Middle band voko pad |
+| Bass:Mini-01 | Minimoog-style bass |
 
-## Dave Smith Poly Evolver (119 patches)
+## Dave Smith Poly Evolver (113 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -363,18 +353,15 @@
 | A002 ShineOnUCrayDmn | Lead sound |
 | A003 Old Analog Rez | Lead sound |
 | A004 Switched On | Lead sound |
-| A005 MW Morph Comp | Lead sound |
 | A006 Poly Tubulator | Lead sound |
 | A007 Africa | Lead sound |
 | A008 Classic Sawtoot | Lead sound |
 | A009 Low String Idea | Lead sound |
 | A010 Semi-Tuned | Lead sound |
 | A011 Inside the Tank | Lead sound |
-| A012 Ring On Sync | Lead sound |
 | A013 Fast Rez | Lead sound |
 | A014 Cosmic Shift | Lead sound |
 | A015 Blue Tube | Lead sound |
-| A016 Spoink | Lead sound |
 | A017 Cheese | Lead sound |
 | A018 Lucky Man Lead | Lead sound |
 | A019 Germanic | Lead sound |
@@ -386,17 +373,14 @@
 | A025 Growly Box | Lead sound |
 | A026 Tri Sync | Lead sound |
 | A027 Incredibly Thin | Lead sound |
-| A028 Popcorgan | Lead sound |
 | A029 Tweezer | Lead sound |
 | A030 Spark Coil | Lead sound |
 | A031 Wide Soft Lead | Lead sound |
 | A032 Another Synth | Lead sound |
-| A033 Magneto | Lead sound |
 | A034 Simple Virus | Lead sound |
 | A035 Rough Edges | Lead sound |
 | A036 Mechatronic | Lead sound |
 | A037 Glassy Repeat | Lead sound |
-| A038 Cliff Pad | Lead sound |
 | A039 Ghost Ship | Lead sound |
 | A040 Daft Octaves | Lead sound |
 | A041 Z-Compy | Lead sound |
@@ -408,15 +392,12 @@
 | A047 Seoul | Lead sound |
 | A048 SunsetProph4Les | Lead sound |
 | A049 Buzz Saw (MWRes) | Lead sound |
-| A050 Short and Tight | Lead sound |
 | A051 4 Voice | Lead sound |
 | A052 Squelchy Lead | Lead sound |
 | A053 Fearless Sweep | Lead sound |
 | A054 Light Distorto | Lead sound |
 | A055 Wired Bass | Lead sound |
 | A056 Thick & Complex | Lead sound |
-| A057 Rave Drone | Lead sound |
-| A058 Pro77 | Lead sound |
 | A059 Nord Rave | Lead sound |
 | A060 1/8 bass | Lead sound |
 | A061 Mo lead | Lead sound |
@@ -438,7 +419,6 @@
 | A077 PolyLeastic | Lead sound |
 | A078 InfinitiArp | Lead sound |
 | A079 BG-Triangels | Lead sound |
-| A080 OB-XA-Seq | Lead sound |
 | A081 Stakkato | Lead sound |
 | A082 FastSyncSeq | Lead sound |
 | A083 Dem Bones Seq | Lead sound |
@@ -458,7 +438,6 @@
 | A097 Primates | Lead sound |
 | A098 Lupo | Lead sound |
 | A099 Synergy | Lead sound |
-| A100 PaddySeq | Lead sound |
 | A101 Steamroller | Lead sound |
 | A102 Mechatronic 2 | Lead sound |
 | A103 TubeIntro | Lead sound |
@@ -478,8 +457,13 @@
 | C112 Sync to Me | Lead sound |
 | C125 PictSolo | Lead sound |
 | B093 Whistlehoot | Best guess from sound (patchprint), not auditioned |
+| C043 Duster | Pad/atmospheric sound |
+| B095 Flutish | Flute |
+| C071 Upward Swirls | Pad/atmospheric sound |
+| C124 PictPad | Pad/atmospheric sound |
+| A124 SquareLead | Keyboard sound |
 
-## Korg microKORG (68 patches)
+## Korg microKORG (59 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -495,15 +479,12 @@
 | A.35-ServerBloLed | ServerBloLed (Electronica) |
 | A.36-SolladElond | SolladElond (Electronica) |
 | A.38-ModernU | ModernU (Electronica) |
-| A.45-SweepSyncLD | SweepSyncLD (DnB) |
 | A.46-ELEcticLead | ELEcticLead (DnB) |
 | A.51-MechaTrux | MechaTrux (Breaks) |
 | A.52-HeadNes | HeadNes (Breaks) |
 | A.54-Naughty Trem | Naughty Trem (Breaks) |
-| A.56-ResnoLead2 | ResnoLead2 (Breaks) |
 | A.58-DnB Synth EvuD | DnB Synth EvuD (Breaks) |
 | A.61-x64SC%v07 | x64SC%v07 |
-| A.62-VU-SyncLead | VU-SyncLead |
 | A.66-OldAnalogSng | OldAnalogSng |
 | A.67-xPulseFleer-Jg | xPulseFleer-Jg |
 | A.68-Degrade | Degrade |
@@ -511,19 +492,13 @@
 | A.72-Oldway 3Ft | Oldway 3Ft |
 | A.73-Providers | Providers |
 | A.74-oldway 3Ft | oldway 3Ft |
-| A.75-Simply7m | Simply7m |
 | A.76-Mismreg | Mismreg |
 | A.77-Simple?inst? | Simple?inst? |
 | A.78-Mismreg | Mismreg |
-| B.12-Psycho Synth | Psycho Synth |
 | B.13-PhaserLead | PhaserLead |
-| B.14-PhaserLead | PhaserLead |
 | B.15-Sync Phz | Sync Phz |
-| B.16-EuphoriaSync | EuphoriaSync |
-| B.22-DirtyMoodn | DirtyMoodn |
 | B.23-FilterMania | FilterMania |
 | B.25-UnrsonSuBas | UnrsonSuBas |
-| B.26-Auto Lead | Auto Lead |
 | B.27-Relax | Relax |
 | B.32-FruturePrnc | FruturePrnc |
 | B.33-Logres | Logres |
@@ -532,7 +507,6 @@
 | B.37-Punishmen | Punishmen |
 | B.38-Wast8ass | Wast8ass |
 | B.43-NovelPatch | NovelPatch |
-| B.46-EuroFalls | EuroFalls |
 | B.48-NaviEPdstg | NaviEPdstg |
 | B.51-Sawstacker | Sawstacker |
 | B.52-Hardcore | Hardcore |
@@ -547,11 +521,12 @@
 | B.71-SwichMt | SwichMt |
 | B.72-Destinator | Destinator |
 | B.73-BackhousE | BackhousE |
-| B.75-EvilBlues | EvilBlues |
 | B.76-Sweepy Circle | Sweepy Circle |
 | B.78-TeekPhonkc | TeekPhonkc |
 | B.81-Classic Rip | Classic Rip |
+| A.63-ModernWh-Pad | ModernWh-Pad |
+| A.42-TalkingBass | TalkingBass (DnB) |
 
 ---
 
-**Total: 519 lead patches across all synths**
+**Total: 494 lead patches across all synths**

@@ -3,7 +3,7 @@
 # Keys/Piano Patches by Synthesizer
 
 
-## Modal Argon8 (31 patches)
+## Modal Argon8 (28 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -12,8 +12,6 @@
 | 052-Sampled Key | Sampled keyboard |
 | 056-Shimmer Keys | Shimmering keys |
 | 057-Rave Piano 3 | Rave piano variant 3 |
-| 060-Late Keys | Late night keys |
-| 096-Sky Keys | Sky keys |
 | 102-Bubbletine | Bubbletine keys |
 | 126-Sawing Keys | Sawing keys |
 | 133-Space Keys | Space keys |
@@ -30,7 +28,6 @@
 | 220-Xylo Echo | Keyboard sound |
 | 284-Rough Tines | Keyboard sound |
 | 020-Another Organ | Organ |
-| 051-Zimmer Organ | Keys |
 | 090-Organ Roads | Keys |
 | 142-Perc Organ | Keys |
 | 166-Space Organ | Keys |
@@ -39,16 +36,17 @@
 | 035-Warm Dist Stab | Best guess from sound (patchprint), not auditioned |
 | 263-Organism | From sound (patchprint), both methods agree |
 
-## Moog Little Phatty (4 patches)
+## Moog Little Phatty (5 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | 035-PHONY HOHNER | Keyboard sound |
 | 074-LESLIE PAUL | Keyboard sound |
-| 081-RUBBER KOTO | Keyboard sound |
 | 087-SPECIAL TINE | Keyboard sound |
+| 005-LAMBSBREAD | Deep bass |
+| 056-FREQ MOD | From sound (patchprint), both methods agree |
 
-## Yamaha PSR-730 (124 patches)
+## Yamaha PSR-730 (121 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -61,7 +59,6 @@
 | Orgn:051-TheatreOrg2 | Organ |
 | Orgn:055-Musette | Organ |
 | Orgn:056-Accordion | Organ |
-| Orgn:057-Trad.Accrd | Organ |
 | Orgn:058-Tango Accrd | Organ |
 | Orgn:059-Bandoneon | Organ |
 | Orgn:060-Soft Accrd | Organ |
@@ -90,11 +87,8 @@
 | Orgn:311-ChurOrg2 | Organ |
 | Orgn:312-NotreDam | Organ |
 | Orgn:314-TrmOrgFl | Organ |
-| Orgn:316-Puff Org | Organ |
-| Orgn:317-Acordion | Organ |
 | Orgn:318-Accordlt | Organ |
 | Orgn:319-Harmnica | Organ |
-| Orgn:320-Harmo 2 | Organ |
 | Orgn:321-TangoAcd | Organ |
 | Orgn:322-TngoAcd2 | Organ |
 | Pian:003-Honky Tonk | Piano |
@@ -176,14 +170,14 @@
 | Pian:262-Clavi. | Clavi. |
 | Pian:263-Clavi.K | Clavi.K |
 | Pian:264-ClaviWah | ClaviWah |
+| SEff:586-NylonEP | NylonEP |
 
-## Alesis Micron (36 patches)
+## Alesis Micron (34 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | Key:60's Organ | 60s organ |
 | Key:6WivesOfRickW. | 6 wives of Rick Wakeman |
-| Key:ArEmEye Piano | R-M-I piano |
 | Key:Bach Overdrive | Bach overdrive |
 | Key:Circus | Circus organ |
 | Key:Clavitude | Clavitude |
@@ -198,14 +192,12 @@
 | Key:Key Clavi | Key clavinet |
 | Key:LektrikEleClav | Electric clavinet |
 | Key:Miami Vyce | Miami Vice |
-| Key:Oktoberfest! | Oktoberfest |
 | Key:Organ P | Organ P |
 | Key:OttowaRezoClav | Ottawa resonant clavinet |
 | Key:PhantomOfTheIon | Phantom of the Ion |
 | Key:Plastic Keys | Plastic keys |
 | Key:Rendezvous6:02 | Rendezvous 6:02 |
 | Key:Rock Organ | Rock organ |
-| Key:RockWheelOrgan | Rock wheel organ |
 | Key:Sheriff Piano | Sheriff piano |
 | Key:Stereo EP m2 | Stereo EP M2 |
 | Key:Stockbaroquer | Stock baroquer |
@@ -217,12 +209,12 @@
 | Key:Zorgan | Z organ |
 | Key:EP? OK! | Keys |
 | Key:Funky 70's Clav | Keys |
+| Comp:Classic Decay | Comp/stab sound |
 
-## Dave Smith Poly Evolver (16 patches)
+## Dave Smith Poly Evolver (15 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| A114 FatSyncSeq | Keyboard sound |
 | A115 Dem Bones Seq | Keyboard sound |
 | A116 VaryRhythm | Keyboard sound |
 | A117 Frumpy | Keyboard sound |
@@ -232,19 +224,20 @@
 | A121 BakerDrums | Keyboard sound |
 | A122 Cream | Keyboard sound |
 | A123 OldStyle | Keyboard sound |
-| A124 SquareLead | Keyboard sound |
 | A125 HP-Sync2 | Keyboard sound |
 | A126 Nice Day Seq | Keyboard sound |
 | A127 Cornflap | Keyboard sound |
 | A128 LazyRectangles | Keyboard sound |
 | C110 Keyboard | Keyboard sound |
+| B049 LazyBass | Bass sound |
 
-## Korg microKORG (1 patches)
+## Korg microKORG (2 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | A.47-Joe SAMPLE JS | Joe SAMPLE JS (DnB) |
+| A.56-ResnoLead2 | ResnoLead2 (Breaks) |
 
 ---
 
-**Total: 212 keys/piano patches across all synths**
+**Total: 205 keys/piano patches across all synths**

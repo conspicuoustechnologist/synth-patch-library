@@ -12,19 +12,17 @@
 | 259-Robotalk | Vocal sound |
 | 269-Woeugh | Voice, says "woeugh" |
 
-## Moog Little Phatty (2 patches)
+## Moog Little Phatty (1 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| 091-COUNT HUCULA | Voice sort of, says "wow" kind of |
 | 051-VAGUELY VOCAL | Vocal/choir sound |
 
-## Yamaha PSR-730 (19 patches)
+## Yamaha PSR-730 (18 patches)
 
 | Patch Name | Description |
 |------------|-------------|
 | Brss:469-ChoirBrs | Choir voice |
-| SEff:602-BelChoir | Choir voice |
 | StrE:122-Choir | Choir voice |
 | StrE:123-Air Choir | Choir voice |
 | StrE:124-Vocal Ensbl | Vocal/choir sound |
@@ -58,4 +56,4 @@
 
 ---
 
-**Total: 28 vocal/choir patches across all synths**
+**Total: 26 vocal/choir patches across all synths**

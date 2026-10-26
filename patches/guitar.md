@@ -3,13 +3,7 @@
 # Guitar Patches by Synthesizer
 
 
-## Modal Argon8 (1 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| 000-Time To Drift | Best guess from sound (patchprint), not auditioned |
-
-## Yamaha PSR-730 (69 patches)
+## Yamaha PSR-730 (71 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -53,8 +47,6 @@
 | Ethn:630-Fiddle | Fiddle |
 | Ethn:631-Shanai | Shanai |
 | Ethn:632-Shanai2 | Shanai2 |
-| Ethn:633-Pungi | Pungi |
-| Ethn:634-Hichriki | Hichriki |
 | Guit:062-Classic Gtr | Classic Gtr |
 | Guit:063-Spanish Gtr | Spanish Gtr |
 | Guit:064-Folk Guitar | Folk Guitar |
@@ -82,7 +74,11 @@
 | Guit:346-Dist.Gtr | Dist.Gtr |
 | Guit:349-GtrHarmo | GtrHarmo |
 | Guit:351-GtrHrmo2 | GtrHrmo2 |
+| ChPc:284-Dulcimr2 | Chromatic percussion |
+| Bass:353-JazzRthm | Jazz rhythm bass |
+| Bass:366-Fretles3 | Fretless bass variant 3 |
+| StrS:108-Banjo | Banjo |
 
 ---
 
-**Total: 70 guitar patches across all synths**
+**Total: 71 guitar patches across all synths**
