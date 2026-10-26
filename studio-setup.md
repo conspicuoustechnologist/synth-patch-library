@@ -57,7 +57,7 @@
 |---------|----------------------------|
 | 1       | Sampler / computer         |
 | 2       | Guitar                     |
-| 3       | Vox - Shure SM52            |
+| 3       | Vox - Shure SM58 via Harmony M (line in), AVP-1 on insert |
 | 4       | Modal Argon8 L              |
 | 5       | Modal Argon8 R              |
 | 6       | Moog Little Phatty          |
@@ -67,6 +67,13 @@
 | 11-12   | Dave Smith Poly Evolver (stereo) |
 | 13-14   | Korg Electribe ESX-1 (stereo) |
 | 15-16   | Korg microKORG (stereo)     |
+
+### Vocal Chain (channel 3)
+- Shure SM58 into the TC-Helicon Harmony M's XLR mic input
+- Harmony M Mono output (1/4", line level, voice plus effect) into channel 3's 1/4" line input, not the XLR. The Harmony M's Dry output is unused
+- Antares AVP-1 on channel 3's insert, with a TRS Y insert cable: grey (tip, send) into the AVP-1's line input, orange (ring, return) from the AVP-1's output
+- The AVP-1 must be powered on whenever the insert cable is in, or channel 3 goes silent
+- Gain staging: Harmony M input gain set so the loudest shouts just flicker its level light, then channel 3 gain so they read around 0 on solo, AVP-1 input on line and output matched so the level doesn't change
 
 ## DJ Booth
 - Technics SL-1200 MK2 (x2) - [Wikipedia](https://en.wikipedia.org/wiki/Technics_SL-1200) - direct-drive, quartz-locked, +/-8% pitch control, 0.7s start-up torque, 0.01% wow/flutter, 12.5kg
