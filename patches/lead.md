@@ -16,21 +16,19 @@
 | 036-Basic Lead | Simple, fundamental lead patch |
 | 038-Bias Lead | Biased filter lead with color |
 | 044-SH Glidey | SH-101 style glide lead |
-| 046-Odyssee Lead | Odyssey-inspired lead |
 | 068-Note Lead | Note-focused melodic lead |
 | 071-Tunnel Lead | Tunneling, resonant lead |
 | 077-Tense Payoff | Building tension lead sound |
 | 099-MS Punk Lead | MS-20 punk-style lead |
 | 105-Oscar's Lead | Oscar Peterson-inspired lead |
 | 107-Canada Lead | Canadian synth-inspired lead |
-| 114-Poker Lead | Gambling-themed lead sound |
+| 174-Poker Lead | Gambling-themed lead sound |
 | 152-Trentwood Lead | Trentwood-style lead |
 | 155-Redbrick Lead | Warm, brick-walled lead |
 | 162-Deep Chord Lead | Deep chord-based lead |
 | 164-Lambs Lead | Lamb-inspired gentle lead |
 | 165-Saga Lead | Progressive rock saga lead |
 | 194-Mono AftT Lead | Monophonic aftertouch lead |
-| 202-Mono AftT Lead | Mono aftertouch lead variant |
 | 235-Funkroom Lead | Funky room lead sound |
 | 245-Ghostly Flute | Ghostly flute-like lead |
 | 247-Daft 20 Lead | Daft Punk 2020 style lead |
@@ -85,7 +83,7 @@
 | 264-Mauser | Lead, a bit of a 4th? not sure the harmonic |
 | 266-Open Me | Lead, kinda noisy |
 | 293-Massive GGP | Pretty standard sawlike lead |
-| 301-jd - blip bells (lead) | Custom blip bells lead sound |
+| 301-jd - blip bells | Custom blip bells lead sound |
 | 302-jd - buzzy lead | Custom buzzy lead sound |
 ## Moog Little Phatty (37 patches)
 
@@ -476,7 +474,6 @@
 | 264-Mauser | Lead, a bit of a 4th? not sure the harmonic |
 | 266-Open Me | Lead, kinda noisy |
 | 293-Massive GGP | Pretty standard sawlike lead |
-| 301-jd - blip bells (lead) | Custom blip bells lead sound |
 | 302-jd - buzzy lead | Custom buzzy lead sound |
 ## Alesis Micron (92 patches)
 

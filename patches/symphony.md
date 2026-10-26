@@ -19,8 +19,8 @@
 | Patch Name | Description |
 |------------|-------------|
 | 085-Frontier String | Frontier strings |
-| 092-Horrorstring | Horror movie strings |
-| 093-Hi String | High strings |
+| 097-Horrorstring | Horror movie strings |
+| 292-Hi String | High strings |
 | 280-Shimmer Strings | Shimmering strings |
 
 

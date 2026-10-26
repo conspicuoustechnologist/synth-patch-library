@@ -36,7 +36,7 @@
 | 160-H2O Arp | H2O water arp |
 | 168-Arp 80s | 80s style arp |
 | 184-High Score Arp | High score arp |
-| 210-Organ Arp | Organ arpeggio |
+| 200-Organ Arp | Organ arpeggio |
 | 216-FM Arp | FM arpeggio |
 | 217-Arp Hats | Arp with hats |
 | 221-Bouncing Arp | Bouncing arp |

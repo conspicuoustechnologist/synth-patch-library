@@ -35,7 +35,7 @@
 | 249-Esqi Bass | Vintage digital synth-inspired bass |
 | 250-Chewy Bass | Thick, resonant bass with bite |
 | 251-Perc Bass | Percussive, short decay bass |
-| 253-Womp Bass | Wobble/dubstep-style bass with LFO modulation |
+| 253-Womp Bass Arp | Wobble/dubstep-style bass with LFO modulation |
 | 271-Big Bass | Large, powerful foundational bass |
 | 277-Bass Lead | Bass register lead line hybrid |
 | 281-Rider Bass | Smooth, riding bass line character |
