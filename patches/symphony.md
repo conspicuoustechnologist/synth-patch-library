@@ -3,9 +3,9 @@
 # Symphony Patches (Brass & Strings) by Synthesizer
 
 
-## Modal Argon8 (9 patches)
+## Modal Argon8 (10 patches)
 
-### Brass (4 patches)
+### Brass (5 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -13,6 +13,7 @@
 | 132-Retro Brass | Retro brass section |
 | 161-VHS Brass | VHS tape brass |
 | 173-Brassy | Brassy tone |
+| 207-Space Brass | Brass |
 
 ### Strings (5 patches)
 
@@ -323,4 +324,4 @@
 
 ---
 
-**Total: 88 brass patches, 87 string patches, 71 other (246 symphony patches total)**
+**Total: 89 brass patches, 87 string patches, 71 other (247 symphony patches total)**

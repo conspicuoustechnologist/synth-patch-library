@@ -3,7 +3,7 @@
 # Lead Patches by Synthesizer
 
 
-## Modal Argon8 (74 patches)
+## Modal Argon8 (86 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -81,6 +81,18 @@
 | 293-Massive GGP | Pretty standard sawlike lead |
 | 301-jd - blip bells | Custom blip bells lead sound |
 | 302-jd - buzzy lead | Custom buzzy lead sound |
+| 019-5th Chord | Lead |
+| 046-Trio Chords | Lead |
+| 073-Mid Chord | Lead |
+| 086-Reel Chord | Lead |
+| 098-Greasy Chord | Lead |
+| 143-Cable Chord | Lead |
+| 149-Sampled Chord | Lead |
+| 230-Purring Lead | Lead |
+| 258-Sync Lead | Lead |
+| 262-2012 Lead | Lead |
+| 286-Kowada Lead | Lead |
+| 296-Kitchen Lead | Lead |
 
 ## Moog Little Phatty (46 patches)
 
@@ -527,4 +539,4 @@
 
 ---
 
-**Total: 492 lead patches across all synths**
+**Total: 504 lead patches across all synths**

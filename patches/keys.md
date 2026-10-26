@@ -3,7 +3,7 @@
 # Keys/Piano Patches by Synthesizer
 
 
-## Modal Argon8 (23 patches)
+## Modal Argon8 (29 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -30,6 +30,12 @@
 | 220-Xylo Echo | Keyboard sound |
 | 284-Rough Tines | Keyboard sound |
 | 020-Another Organ | Organ |
+| 051-Zimmer Organ | Keys |
+| 090-Organ Roads | Keys |
+| 142-Perc Organ | Keys |
+| 166-Space Organ | Keys |
+| 192-Japorgan | Keys |
+| 218-EP Chord | Keys |
 
 ## Moog Little Phatty (4 patches)
 
@@ -237,4 +243,4 @@
 
 ---
 
-**Total: 202 keys/piano patches across all synths**
+**Total: 208 keys/piano patches across all synths**

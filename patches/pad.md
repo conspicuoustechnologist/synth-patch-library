@@ -3,7 +3,7 @@
 # Pad Patches by Synthesizer
 
 
-## Modal Argon8 (62 patches)
+## Modal Argon8 (63 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -69,6 +69,7 @@
 | 241-Summer Breeze | Calm pad |
 | 276-Just a Phase | Phase pad |
 | 278-Quantum | Soft pad with long release |
+| 193-Wide Open Pad | Pad |
 
 ## Yamaha PSR-730 (54 patches)
 
@@ -405,4 +406,4 @@
 
 ---
 
-**Total: 375 pad patches across all synths**
+**Total: 376 pad patches across all synths**

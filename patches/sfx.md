@@ -3,7 +3,7 @@
 # SFX/Effects Patches by Synthesizer
 
 
-## Modal Argon8 (6 patches)
+## Modal Argon8 (8 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -13,6 +13,8 @@
 | 225-Donk | Sound effect |
 | 232-Hellectro | Sound effect |
 | 297-Crypt Dweller | Sound effect |
+| 199-Rise FX | Sound effect |
+| 268-Mousetalk FX | Sound effect |
 
 ## Moog Little Phatty (8 patches)
 
@@ -237,4 +239,4 @@
 
 ---
 
-**Total: 202 SFX/effects patches across all synths**
+**Total: 204 SFX/effects patches across all synths**

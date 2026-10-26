@@ -43,7 +43,7 @@
 | 291-Arpy Bass | Arpeggiated bass pattern |
 | 122-Sub Drone | Bass sound |
 | 034-Pro Basic | Powerful bass |
-| 300-jd - Bwah bass | Custom bwah bass sound |
+| 300-jd - Bwah Bass | Custom bwah bass sound |
 
 ## Moog Little Phatty (27 patches)
 
