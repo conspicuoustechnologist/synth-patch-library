@@ -15,6 +15,7 @@ const SYNTH_TRACK = {
 const library   = new PatchLibrary(PATCHES);
 const generator = new Generator(library);
 const ui        = new UI(generator);
+document.addEventListener('click', e => { const b = e.target.closest('.preview-btn'); if (b) ui.play(b); });
 
 // Exposed globally so HTML onclick attributes can reach these
 const app = {

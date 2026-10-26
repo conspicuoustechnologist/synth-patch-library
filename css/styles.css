@@ -63,3 +63,6 @@ select:hover,select:focus{border-color:var(--cyan)}
 .regenerate-btn{position:absolute;top:0;right:0;padding:.4rem .8rem;font-size:.75rem}
 .patch-dropdown{width:100%;max-width:400px;margin-top:.6rem;padding:.4rem;background:var(--bg);color:var(--text);border:1px solid var(--rule);font:400 .8rem/1.3 var(--mono)}
 @media (max-width:600px){.patch-synth,.patch-name,.patch-description{padding-right:0}.layer-controls,.regenerate-btn{position:static;margin-top:.5rem}}
+.previews{display:flex;gap:.4rem;margin:.1rem 0 .4rem}
+.preview-btn{padding:.3rem .6rem;font:400 .75rem/1 var(--mono);letter-spacing:.05em;text-transform:none}
+.preview-btn.playing{color:var(--cyan);border-color:var(--cyan)}

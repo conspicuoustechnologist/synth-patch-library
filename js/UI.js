@@ -31,7 +31,7 @@ class UI {
                '</div>';
         }
         h += '<div class="patch-synth">' + p.synth + '</div>' +
-             '<div class="patch-name">' + p.name + '</div>' +
+             '<div class="patch-name">' + p.name + '</div>' + this.previews(p) +
              '<div class="patch-description">' + p.description + '</div>' +
              '</div>';
       });
@@ -40,6 +40,28 @@ class UI {
     });
 
     r.innerHTML = h;
+  }
+
+  // play buttons for the patch's preview clips (data/previews.js, made by patchprint; absent until it runs)
+  previews(p) {
+    const clips = (typeof PREVIEWS !== 'undefined' && PREVIEWS[p.synth + '::' + p.name]) || {};
+    const notes = ['C1', 'C3', 'C6'].filter(n => clips[n]);
+    if (!notes.length) return '';
+    return '<div class="previews">' + notes.map(n =>
+      '<button class="preview-btn" data-src="' + clips[n] + '">&#9654; ' + n + '</button>').join('') + '</div>';
+  }
+
+  // one player for the whole page: a click plays that clip, clicking the playing one stops it
+  play(btn) {
+    const a = this.audio || (this.audio = new Audio());
+    const same = a.dataset.src === btn.dataset.src && !a.paused;
+    a.pause();
+    document.querySelectorAll('.preview-btn.playing').forEach(b => b.classList.remove('playing'));
+    if (same) { a.dataset.src = ''; return; }
+    a.src = btn.dataset.src; a.dataset.src = btn.dataset.src;
+    a.onended = () => btn.classList.remove('playing');
+    btn.classList.add('playing');
+    a.play();
   }
 
   switchTab(t) {
