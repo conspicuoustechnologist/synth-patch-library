@@ -124,7 +124,7 @@
 | 098-TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
 | 099-JOTTED 8TH | Lead all the way |
 
-## Yamaha PSR-730 (33 patches)
+## Yamaha PSR-730 (51 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -161,6 +161,24 @@
 | SyLd:526-Big&Low | Synth lead |
 | SyLd:527-Fat&Prky | Synth lead |
 | SyLd:528-SoftWurl | Synth lead |
+| SyLd:177-Square Lead | Square Lead |
+| SyLd:178-Saw.Lead | Saw.Lead |
+| SyLd:179-Big Lead | Big Lead |
+| SyLd:184-Sun Bell | Sun Bell |
+| SyLd:185-Aero Lead | Aero Lead |
+| SyLd:187-Mini Lead | Mini Lead |
+| SyLd:188-Vinylead | Vinylead |
+| SyLd:189-Warp | Warp |
+| SyLd:192-Tiny Lead | Tiny Lead |
+| SyLd:500-SineLead | SineLead |
+| SyLd:501-Saw.Lead | Saw.Lead |
+| SyLd:506-Big Lead | Big Lead |
+| SyLd:510-Dr.Lead | Dr.Lead |
+| SyLd:511-VeloLead | VeloLead |
+| SyLd:514-Pure Pad | Pure Pad |
+| SyLd:518-DistLead | DistLead |
+| SyLd:519-WireLead | WireLead |
+| SyLd:522-VoxLead | VoxLead |
 
 ## Alesis Micron (135 patches)
 
@@ -427,4 +445,4 @@
 
 ---
 
-**Total: 397 lead patches across all synths**
+**Total: 415 lead patches across all synths**

@@ -3,7 +3,7 @@
 # Guitar Patches by Synthesizer
 
 
-## Yamaha PSR-730 (22 patches)
+## Yamaha PSR-730 (69 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -29,7 +29,54 @@
 | Guit:347-FeedbkGt | Guitar sound |
 | Guit:348-FeedbGt2 | Guitar sound |
 | Guit:350-GtFeedbk | Guitar sound |
+| Ethn:614-Sitar | Sitar |
+| Ethn:615-DetSitar | DetSitar |
+| Ethn:616-Sitar 2 | Sitar 2 |
+| Ethn:617-Tambra | Tambra |
+| Ethn:618-Tamboura | Tamboura |
+| Ethn:619-Banjo | Banjo |
+| Ethn:620-MuteBnjo | MuteBnjo |
+| Ethn:621-Rabab | Rabab |
+| Ethn:622-Gopichnt | Gopichnt |
+| Ethn:623-Oud | Oud |
+| Ethn:624-Shamisen | Shamisen |
+| Ethn:625-Koto | Koto |
+| Ethn:626-T.Koto | T.Koto |
+| Ethn:627-Kanoon | Kanoon |
+| Ethn:629-Bagpipe | Bagpipe |
+| Ethn:630-Fiddle | Fiddle |
+| Ethn:631-Shanai | Shanai |
+| Ethn:632-Shanai2 | Shanai2 |
+| Ethn:633-Pungi | Pungi |
+| Ethn:634-Hichriki | Hichriki |
+| Guit:062-Classic Gtr | Classic Gtr |
+| Guit:063-Spanish Gtr | Spanish Gtr |
+| Guit:064-Folk Guitar | Folk Guitar |
+| Guit:065-12StrGuitar | 12StrGuitar |
+| Guit:066-Jazz Guitar | Jazz Guitar |
+| Guit:067-Octave Gtr | Octave Gtr |
+| Guit:068-HawaiianGtr | HawaiianGtr |
+| Guit:070-SolidGuitar | SolidGuitar |
+| Guit:071-CleanGuitar | CleanGuitar |
+| Guit:073-Tremolo Gtr | Tremolo Gtr |
+| Guit:074-Slap Guitar | Slap Guitar |
+| Guit:075-Funk Guitar | Funk Guitar |
+| Guit:076-MutedGuitar | MutedGuitar |
+| Guit:077-FeedbackGtr | FeedbackGtr |
+| Guit:080-PedalSteel | PedalSteel |
+| Guit:323-NylonGtr | NylonGtr |
+| Guit:328-SteelGtr | SteelGtr |
+| Guit:330-12StrGtr | 12StrGtr |
+| Guit:334-Jazz Gtr | Jazz Gtr |
+| Guit:335-MelloGtr | MelloGtr |
+| Guit:337-CleanGtr | CleanGtr |
+| Guit:339-Mute.Gtr | Mute.Gtr |
+| Guit:340-FunkGtr1 | FunkGtr1 |
+| Guit:342-FunkGtr2 | FunkGtr2 |
+| Guit:346-Dist.Gtr | Dist.Gtr |
+| Guit:349-GtrHarmo | GtrHarmo |
+| Guit:351-GtrHrmo2 | GtrHrmo2 |
 
 ---
 
-**Total: 22 guitar patches across all synths**
+**Total: 69 guitar patches across all synths**

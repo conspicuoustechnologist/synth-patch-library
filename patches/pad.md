@@ -70,58 +70,64 @@
 | 276-Just a Phase | Phase pad |
 | 278-Quantum | Soft pad with long release |
 
-## Yamaha PSR-730 (48 patches)
+## Yamaha PSR-730 (54 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| Pad:108-NewAgePad | New age pad |
 | SPad:531-Warm Pad | Warm pad |
-| Pad:110-PolySynth | Polysynth pad |
-| Pad:111-Choir Pad | Choir pad |
-| Pad:112-Bowed Pad | Bowed pad |
-| Pad:113-Metallic | Metallic pad |
 | SPad:552-Halo Pad | Halo pad |
 | SPad:553-SweepPad | Sweep pad |
-| Pad:371-NewAgePad | New age pad variant |
-| Pad:373-Sine Pad | Sine pad |
-| Pad:374-PolySynth | Polysynth variant |
-| Pad:375-Choir Pad | Choir pad variant |
 | SPad:544-Itopia | Itopia pad |
-| Pad:377-Bowed Pad | Bowed pad variant |
-| Pad:378-Metallic | Metallic variant |
 | SPad:554-Shwimmer | Shimmer pad |
-| Pad:382-Atmos | Atmospheric pad |
-| Pad:447-Square Pd | Square wave pad |
-| Pad:448-Hollow Pd | Hollow pad |
-| Pad:449-Shroud Pd | Shrouded pad |
-| Pad:450-Doctor Pd | Doctor pad |
-| Pad:451-ThickMatx | Thick matrix pad |
-| Pad:452-Horn Pd | Horn pad |
-| Pad:453-Rotary Pd | Rotary pad |
-| Pad:523-SynVoxPad | Synth vox pad |
-| Pad:524-SpacVoxPd | Space vox pad |
 | SPad:535-Horn Pad | Horn pad synth |
-| SyPd:453-Rotary Pd | Rotary synth pad |
-| SyPd:519-NewAge Pd | New age synth pad |
-| SyPd:521-Poly Pad | Poly synth pad |
-| SyPd:522-Choir Pad | Choir synth pad |
-| SyPd:523-SynVoxPad | Synth vox pad |
-| SyPd:524-SpacVoxPd | Space vox pad |
 | SyLd:525-Bass&Ld | Bass and lead pad |
-| SyPd:526-FifthsPad | Fifths pad |
-| SyPd:527-BassNLead | Bass and lead |
-| SyPd:528-NewAge2Pd | New age 2 pad |
-| Voice:116-Ooh | Ooh voice pad |
-| Voice:117-Aah | Aah voice pad |
-| Voice:383-AahVoice | Aah voice |
-| Voice:384-OohVoice | Ooh voice |
 | StrE:433-SynVoice | Synth voice |
-| Voice:386-OrcheHit | Orchestra hit |
-| Voice:387-SynVoice2 | Synth voice 2 |
 | StrE:122-Choir | Choir |
 | StrE:430-MelChoir | Melodic choir |
-| Voice:390-VoiceHmm | Voice hmm |
-| Voice:391-VoxHumnz | Vox humanz |
+| SPad:195-Insomnia | Insomnia |
+| SPad:196-Krypton | Krypton |
+| SPad:197-Cyber Pad | Cyber Pad |
+| SPad:198-Wave 2001 | Wave 2001 |
+| SPad:199-Equinox | Equinox |
+| SPad:200-Stargate | Stargate |
+| SPad:201-DX Pad | DX Pad |
+| SPad:202-Loch Ness | Loch Ness |
+| SPad:203-Fantasia | Fantasia |
+| SPad:204-Golden Age | Golden Age |
+| SPad:205-Xenon Pad | Xenon Pad |
+| SPad:206-Area 51 | Area 51 |
+| SPad:207-Atmosphere | Atmosphere |
+| SPad:208-Dark Moon | Dark Moon |
+| SPad:209-Ionosphere | Ionosphere |
+| SPad:210-Phase IV | Phase IV |
+| SPad:211-Symbiont | Symbiont |
+| SPad:212-Solaris | Solaris |
+| SPad:213-Time Travel | Time Travel |
+| SPad:214-Millenium | Millenium |
+| SPad:215-Transform | Transform |
+| SPad:529-NewAgePd | NewAgePd |
+| SPad:530-Fantasy2 | Fantasy2 |
+| SPad:532-ThickPad | ThickPad |
+| SPad:533-Soft Pad | Soft Pad |
+| SPad:534-SinePad | SinePad |
+| SPad:536-RotarStr | RotarStr |
+| SPad:537-PolySyPd | PolySyPd |
+| SPad:538-PolyPd80 | PolyPd80 |
+| SPad:539-ClickPad | ClickPad |
+| SPad:540-Ana Pad | Ana Pad |
+| SPad:541-SquarPad | SquarPad |
+| SPad:542-ChoirPad | ChoirPad |
+| SPad:543-Heaven2 | Heaven2 |
+| SPad:545-CC Pad | CC Pad |
+| SPad:546-BowedPad | BowedPad |
+| SPad:547-Glacier | Glacier |
+| SPad:548-GlassPad | GlassPad |
+| SPad:549-MetalPad | MetalPad |
+| SPad:550-Tine Pad | Tine Pad |
+| SPad:551-Pan Pad | Pan Pad |
+| SPad:555-Converge | Converge |
+| SPad:556-PolarPad | PolarPad |
+| SPad:557-Celstial | Celstial |
 
 ## Alesis Micron (128 patches)
 
@@ -383,4 +389,4 @@
 
 ---
 
-**Total: 358 pad patches across all synths**
+**Total: 364 pad patches across all synths**

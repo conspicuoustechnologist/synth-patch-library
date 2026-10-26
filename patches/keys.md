@@ -40,7 +40,7 @@
 | 081-RUBBER KOTO | Keyboard sound |
 | 087-SPECIAL TINE | Keyboard sound |
 
-## Yamaha PSR-730 (75 patches)
+## Yamaha PSR-730 (124 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -119,6 +119,55 @@
 | Pian:257-VX El.P2 | Piano |
 | Pian:265-PulseClv | Piano |
 | Pian:266-PierceCl | Piano |
+| Orgn:032-Jazz Organ1 | Jazz Organ1 |
+| Orgn:033-Jazz Organ2 | Jazz Organ2 |
+| Orgn:034-Click Organ | Click Organ |
+| Orgn:035-Dance Organ | Dance Organ |
+| Orgn:039-Rock Organ1 | Rock Organ1 |
+| Orgn:040-Rock Organ2 | Rock Organ2 |
+| Orgn:042-60's Organ | 60's Organ |
+| Orgn:043-Blues Organ | Blues Organ |
+| Orgn:045-Perc.Organ | Perc.Organ |
+| Orgn:046-16+1 Organ | 16+1 Organ |
+| Orgn:047-16+2 Organ | 16+2 Organ |
+| Orgn:048-16+4 Organ | 16+4 Organ |
+| Orgn:049-Elec.Organ | Elec.Organ |
+| Orgn:052-Pipe Organ | Pipe Organ |
+| Orgn:053-ChapelOrgan | ChapelOrgan |
+| Orgn:054-Reed Organ | Reed Organ |
+| Orgn:296-Organ Ba | Organ Ba |
+| Orgn:300-PercOrgn | PercOrgn |
+| Orgn:304-PercOrg2 | PercOrg2 |
+| Orgn:313-OrgFlute | OrgFlute |
+| Orgn:315-ReedOrgn | ReedOrgn |
+| Pian:001-Grand Piano | Grand Piano |
+| Pian:002-BrightPiano | BrightPiano |
+| Pian:006-Galaxy EP | Galaxy EP |
+| Pian:008-DX Modern | DX Modern |
+| Pian:009-Funk EP | Funk EP |
+| Pian:010-Modern EP | Modern EP |
+| Pian:013-Venus EP | Venus EP |
+| Pian:014-Tremolo EP | Tremolo EP |
+| Pian:015-Rock Piano | Rock Piano |
+| Pian:016-Clavi | Clavi |
+| Pian:017-Wah Clavi | Wah Clavi |
+| Pian:018-Harpsichord | Harpsichord |
+| Pian:019-GrandHarpsi | GrandHarpsi |
+| Pian:231-PianoStr | PianoStr |
+| Pian:233-BritePno | BritePno |
+| Pian:242-E.Piano1 | E.Piano1 |
+| Pian:244-MelloEp1 | MelloEp1 |
+| Pian:245-Chor.Ep1 | Chor.Ep1 |
+| Pian:249-E.Piano2 | E.Piano2 |
+| Pian:251-Chor.EP2 | Chor.EP2 |
+| Pian:256-DXKotoEP | DXKotoEP |
+| Pian:258-Harpsi. | Harpsi. |
+| Pian:259-Harpsi.K | Harpsi.K |
+| Pian:260-Harpsi.2 | Harpsi.2 |
+| Pian:261-Harpsi.3 | Harpsi.3 |
+| Pian:262-Clavi. | Clavi. |
+| Pian:263-Clavi.K | Clavi.K |
+| Pian:264-ClaviWah | ClaviWah |
 
 ## Alesis Micron (34 patches)
 
@@ -182,4 +231,4 @@
 
 ---
 
-**Total: 152 keys/piano patches across all synths**
+**Total: 201 keys/piano patches across all synths**

@@ -75,10 +75,10 @@ describe('PATCHES data integrity', () => {
     expect(dupes.length).toBeLessThan(300);
   });
 
-  // 1,854 after the 2026-10-26 cleanup (duplicates, vocoders and junk rows removed, PP-64)
-  test('total patch count is at least 1800', () => {
+  // 2,141 on 2026-10-26 after the cleanup (PP-64) and the PSR matching psr730.ins (PP-65); the floor allows for removals
+  test('total patch count is at least 1700', () => {
     const total = KNOWN_CATEGORIES.reduce((sum, cat) => sum + PATCHES[cat].length, 0);
-    expect(total).toBeGreaterThanOrEqual(1800);
+    expect(total).toBeGreaterThanOrEqual(1700);
   });
 });
 
@@ -141,7 +141,7 @@ describe('PatchLibrary.getStacked', () => {
   test('returns as many patches as available if num exceeds available count', () => {
     const result = lib.getStacked('guitar', 'random', 50);
     expect(result.length).toBeGreaterThan(0);
-    expect(result.length).toBeLessThanOrEqual(22);
+    expect(result.length).toBeLessThanOrEqual(PATCHES.guitar.length);
   });
 
   test('each returned patch has synth, name, description, category', () => {

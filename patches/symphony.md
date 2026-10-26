@@ -24,21 +24,12 @@
 | 280-Shimmer Strings | Shimmering strings |
 | 178-Sci-Fi Orch | Orchestra hit |
 
-## Yamaha PSR-730 (107 patches)
+## Yamaha PSR-730 (161 patches)
 
-### Brass (53 patches)
+### Brass (44 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| Brass:062-Trombone | Trombone |
-| Brass:063-Tuba | Tuba |
-| Brass:064-MuteTrmpt | Muted trumpet |
-| Brass:066-BrassSect | Brass section |
-| Brass:067-SynBrass | Synth brass |
-| Brass:330-Trombone | Trombone variant |
-| Brass:331-Tuba | Tuba variant |
-| Brass:332-MuteTrmpt | Muted trumpet variant |
-| Brass:334-BrssSect | Brass section variant |
 | Brss:129-Sweet Trp | Brass instrument |
 | Brss:130-Solo Trumpet | Brass instrument |
 | Brss:131-SoftTrumpet | Brass instrument |
@@ -84,16 +75,11 @@
 | Brss:470-VelBrss2 | Brass instrument |
 | Brss:471-AnaBrss2 | Brass instrument |
 
-### Strings (54 patches)
+### Strings (49 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| StrS:050-Viola | Viola |
-| StrS:051-Cello | Cello |
 | StrS:102-Contrabass | Contrabass |
-| StrS:053-TremoloStr | Tremolo strings |
-| StrS:054-PizzicatoStr | Pizzicato strings |
-| StrS:055-Harp | Harp |
 | StrE:111-Symphon.Str | String instrument |
 | StrE:113-Str.Quartet | String instrument |
 | StrE:114-ConcertoStr | String instrument |
@@ -142,6 +128,79 @@
 | StrS:402-Pizz.Str | String instrument |
 | StrS:404-YangChin | String instrument |
 | StrS:405-Timpani | String instrument |
+
+### Other (68 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| Brss:138-BrasSection | BrasSection |
+| Brss:140-MellowBrass | MellowBrass |
+| Brss:141-Small Brass | Small Brass |
+| Brss:142-Pop Brass | Pop Brass |
+| Brss:146-High Brass | High Brass |
+| Brss:147-BrightBrass | BrightBrass |
+| Brss:148-Big Brass | Big Brass |
+| Brss:150-Synth Brass | Synth Brass |
+| Brss:152-Jump Brass | Jump Brass |
+| Brss:153-TechnoBrass | TechnoBrass |
+| Brss:453-BrasSect | BrasSect |
+| Brss:456-HiBrass | HiBrass |
+| Pipe:169-Flute | Flute |
+| Pipe:170-Pan Flute | Pan Flute |
+| Pipe:171-Piccolo | Piccolo |
+| Pipe:172-EthnicFlute | EthnicFlute |
+| Pipe:173-Shakuhachi | Shakuhachi |
+| Pipe:174-Whistle | Whistle |
+| Pipe:175-Recorder | Recorder |
+| Pipe:176-Ocarina | Ocarina |
+| Pipe:485-Piccolo | Piccolo |
+| Pipe:486-Flute | Flute |
+| Pipe:487-Recorder | Recorder |
+| Pipe:488-PanFlute | PanFlute |
+| Pipe:489-Bottle | Bottle |
+| Pipe:490-Shakhchi | Shakhchi |
+| Pipe:491-Whistle | Whistle |
+| Pipe:492-Ocarina | Ocarina |
+| Reed:154-Soprano Sax | Soprano Sax |
+| Reed:155-Alto Sax | Alto Sax |
+| Reed:156-BreathyAlto | BreathyAlto |
+| Reed:157-Tenor Sax | Tenor Sax |
+| Reed:158-Breath Tenor | Breath Tenor |
+| Reed:159-BaritoneSax | BaritoneSax |
+| Reed:160-Sax Section | Sax Section |
+| Reed:161-Clarinet | Clarinet |
+| Reed:162-MelClarinet | MelClarinet |
+| Reed:163-WoodwindEns | WoodwindEns |
+| Reed:164-Brass Combo | Brass Combo |
+| Reed:165-Oboe | Oboe |
+| Reed:166-EnglishHorn | EnglishHorn |
+| Reed:168-Bagpipe | Bagpipe |
+| Reed:472-SprnoSax | SprnoSax |
+| Reed:473-Alto Sax | Alto Sax |
+| Reed:474-Sax Sect | Sax Sect |
+| Reed:475-HyprAlto | HyprAlto |
+| Reed:476-TenorSax | TenorSax |
+| Reed:477-BrthTnSx | BrthTnSx |
+| Reed:478-SoftTenr | SoftTenr |
+| Reed:479-TnrSax 2 | TnrSax 2 |
+| Reed:480-Bari.Sax | Bari.Sax |
+| Reed:481-Oboe | Oboe |
+| Reed:482-Eng.Horh | Eng.Horh |
+| Reed:484-Clarinet | Clarinet |
+| StrE:109-Strings | Strings |
+| StrE:110-OrchStrings | OrchStrings |
+| StrE:112-SlowStrings | SlowStrings |
+| StrE:119-PizzStrings | PizzStrings |
+| StrE:120-Syn Strings | Syn Strings |
+| StrE:406-Strings1 | Strings1 |
+| StrE:415-Strings2 | Strings2 |
+| StrE:417-LegatoSt | LegatoSt |
+| StrS:103-Harp | Harp |
+| StrS:105-Shamisen | Shamisen |
+| StrS:106-Koto | Koto |
+| StrS:107-Sitar | Sitar |
+| StrS:108-Banjo | Banjo |
+| StrS:403-Harp | Harp |
 
 ## Alesis Micron (44 patches)
 
@@ -250,4 +309,4 @@
 
 ---
 
-**Total: 96 brass patches, 91 string patches, 3 other (190 symphony patches total)**
+**Total: 87 brass patches, 86 string patches, 71 other (244 symphony patches total)**

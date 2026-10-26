@@ -38,27 +38,11 @@
 | 077-SIZZLEMOD HIT | Percussion |
 | 085-HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
 
-## Yamaha PSR-730 (52 patches)
+## Yamaha PSR-730 (74 patches)
 
 | Patch Name | Description |
 |------------|-------------|
-| Perc:116-Timpani | Timpani |
-| Perc:117-MelTimpani | Melodic timpani |
-| Perc:118-Glock | Glockenspiel |
-| Perc:119-Bell | Bell |
-| Perc:120-Vibe | Vibraphone |
-| Perc:121-Marimba | Marimba |
 | ChPc:023-Xylophone | Xylophone |
-| Perc:123-TubulrBel | Tubular bells |
-| Perc:124-Dulcimer | Dulcimer |
-| Perc:391-Timpani | Timpani variant |
-| Perc:392-Glock | Glockenspiel variant |
-| Perc:393-Bell | Bell variant |
-| Perc:394-Vibe | Vibraphone variant |
-| Perc:395-Marimba | Marimba variant |
-| Perc:397-TubulrBel | Tubular bells variant |
-| Perc:398-Dulcimer | Dulcimer variant |
-| Perc:400-Celesta | Celesta |
 | ChPc:020-Vibraphone | Chromatic percussion |
 | ChPc:025-Celesta | Chromatic percussion |
 | ChPc:026-Glocken | Chromatic percussion |
@@ -89,11 +73,49 @@
 | SEff:582-Gamelmba | Bell/mallet sound |
 | SEff:567-SynDrCmp | Synth drum comp |
 | Ethn:628-Kalimba | Ethnic mallet percussion |
-| Chrm:009-Celesta | Chromatic percussion |
-| Chrm:010-Glock | Chromatic percussion |
 | ChPc:271-Vibes | Chromatic percussion |
-| Chrm:013-Marimba | Chromatic percussion |
-| Chrm:015-TubulrBel | Chromatic percussion |
+| ChPc:021-Jazz Vibes | Jazz Vibes |
+| ChPc:022-Marimba | Marimba |
+| ChPc:024-Steel Drums | Steel Drums |
+| ChPc:028-TabularBells | TabularBells |
+| ChPc:272-VibesK | VibesK |
+| ChPc:273-HardVibe | HardVibe |
+| ChPc:274-Marimba | Marimba |
+| ChPc:275-MarimbaK | MarimbaK |
+| ChPc:278-Log Drum | Log Drum |
+| Perc:635-TnkBell | TnkBell |
+| Perc:636-Bonang | Bonang |
+| Perc:637-Gender | Gender |
+| Perc:638-Gamelan | Gamelan |
+| Perc:639-S.Gamlan | S.Gamlan |
+| Perc:640-Rama Cym | Rama Cym |
+| Perc:641-AsianBel | AsianBel |
+| Perc:642-Agogo | Agogo |
+| Perc:643-SteelDrm | SteelDrm |
+| Perc:644-GlasPerc | GlasPerc |
+| Perc:645-ThaiBell | ThaiBell |
+| Perc:646-WoodBlok | WoodBlok |
+| Perc:647-Castanet | Castanet |
+| Perc:648-TaikoDrm | TaikoDrm |
+| Perc:649-Gr.Cassa | Gr.Cassa |
+| Perc:650-MelodTom | MelodTom |
+| Perc:651-Mel Tom2 | Mel Tom2 |
+| Perc:652-Real Tom | Real Tom |
+| Perc:653-Rock Tom | Rock Tom |
+| Perc:654-Syn.Drum | Syn.Drum |
+| Perc:655-Ana Tom | Ana Tom |
+| Perc:656-ElecPerc | ElecPerc |
+| Perc:657-RevCymbl | RevCymbl |
+| Drum:216-Std.Kit1 | Std.Kit1 |
+| Drum:217-Std.Kit2 | Std.Kit2 |
+| Drum:218-Room Kit | Room Kit |
+| Drum:219-Rock Kit | Rock Kit |
+| Drum:220-Electro Kit | Electro Kit |
+| Drum:221-Analog Kit | Analog Kit |
+| Drum:222-Dance Kit | Dance Kit |
+| Drum:223-Jazz Kit | Jazz Kit |
+| Drum:224-Brush Kit | Brush Kit |
+| Drum:225-Classic Kit | Classic Kit |
 
 ## Alesis Micron (134 patches)
 
@@ -284,4 +306,4 @@
 
 ---
 
-**Total: 254 percussion/drum patches across all synths**
+**Total: 276 percussion/drum patches across all synths**

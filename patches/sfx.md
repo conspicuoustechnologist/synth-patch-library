@@ -26,7 +26,7 @@
 | 092-DARKNESS | Sound effect |
 | 100-CA CALIBRATION | SFX - calibration patch |
 
-## Yamaha PSR-730 (8 patches)
+## Yamaha PSR-730 (99 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -38,6 +38,97 @@
 | SndE:663-Hrlicptr | Sound effect |
 | SndE:664-Applause | Sound effect |
 | SndE:665-Gunshot | Sound effect |
+| SEff:558-Rain | Rain |
+| SEff:559-ClaviPad | ClaviPad |
+| SEff:560-HrmoRain | HrmoRain |
+| SEff:561-AfrcnWnd | AfrcnWnd |
+| SEff:562-Caribean | Caribean |
+| SEff:563-SoundTrk | SoundTrk |
+| SEff:564-Prologue | Prologue |
+| SEff:565-Ancestrl | Ancestrl |
+| SEff:566-Crystal | Crystal |
+| SEff:568-Popcorn | Popcorn |
+| SEff:569-TinyBell | TinyBell |
+| SEff:573-ChorBell | ChorBell |
+| SEff:577-XmasBell | XmasBell |
+| SEff:578-Vibebell | Vibebell |
+| SEff:579-DigiBell | DigiBell |
+| SEff:580-AirBells | AirBells |
+| SEff:581-BellHarp | BellHarp |
+| SEff:583-Atmosphr | Atmosphr |
+| SEff:584-WarmAtms | WarmAtms |
+| SEff:585-HollwRls | HollwRls |
+| SEff:586-NylonEP | NylonEP |
+| SEff:587-NylnHarp | NylnHarp |
+| SEff:588-Harp Vox | Harp Vox |
+| SEff:589-AtmosPad | AtmosPad |
+| SEff:590-Planet | Planet |
+| SEff:591-Bright | Bright |
+| SEff:592-FantaBel | FantaBel |
+| SEff:593-Smokey | Smokey |
+| SEff:594-Goblins | Goblins |
+| SEff:595-GobSyn | GobSyn |
+| SEff:596-50sSciFi | 50sSciFi |
+| SEff:597-Ring Pad | Ring Pad |
+| SEff:598-Ritual | Ritual |
+| SEff:599-ToHeaven | ToHeaven |
+| SEff:600-Night | Night |
+| SEff:601-Glisten | Glisten |
+| SEff:603-Echoes | Echoes |
+| SEff:604-EchoPad2 | EchoPad2 |
+| SEff:605-Echo Pan | Echo Pan |
+| SEff:606-EchoBell | EchoBell |
+| SEff:607-Big Pan | Big Pan |
+| SEff:608-SynPiano | SynPiano |
+| SEff:609-Creation | Creation |
+| SEff:610-Stardust | Stardust |
+| SEff:611-Reso Pan | Reso Pan |
+| SEff:612-Sci-Fi | Sci-Fi |
+| SEff:613-Starz | Starz |
+| SFX Kit1 | SFX Kit1 |
+| SFX Kit2 | SFX Kit2 |
+| SFX:666-CuttngNz | CuttngNz |
+| SFX:667-CttngNz2 | CttngNz2 |
+| SFX:668-Str Slap | Str Slap |
+| SFX:669-Fl.KClik | Fl.KClik |
+| SFX:670-Rain | Rain |
+| SFX:671-Thunder | Thunder |
+| SFX:672-Wind | Wind |
+| SFX:673-Stream | Stream |
+| SFX:674-Bubble | Bubble |
+| SFX:675-Feed | Feed |
+| SFX:676-Dog | Dog |
+| SFX:677-Horse | Horse |
+| SFX:678-Bird 2 | Bird 2 |
+| SFX:679-Ghost | Ghost |
+| SFX:680-Maou | Maou |
+| SFX:681-Tel.Dial | Tel.Dial |
+| SFX:682-DoorSqek | DoorSqek |
+| SFX:683-DoorSlam | DoorSlam |
+| SFX:684-Scratch | Scratch |
+| SFX:685-Scratch2 | Scratch2 |
+| SFX:686-WindChm | WindChm |
+| SFX:687-Telphon2 | Telphon2 |
+| SFX:688-CarEngin | CarEngin |
+| SFX:689-Car Stop | Car Stop |
+| SFX:690-Car Pass | Car Pass |
+| SFX:691-CarCrash | CarCrash |
+| SFX:692-Siren | Siren |
+| SFX:693-Train | Train |
+| SFX:694-Jetplane | Jetplane |
+| SFX:695-Starship | Starship |
+| SFX:696-Burst | Burst |
+| SFX:697-Coaster | Coaster |
+| SFX:698-SbMarine | SbMarine |
+| SFX:699-Laughing | Laughing |
+| SFX:700-Scream | Scream |
+| SFX:701-Punch | Punch |
+| SFX:702-Heart | Heart |
+| SFX:703-FootStep | FootStep |
+| SFX:704-MchinGun | MchinGun |
+| SFX:705-LaserGun | LaserGun |
+| SFX:706-Xplosion | Xplosion |
+| SFX:707-FireWork | FireWork |
 
 ## Alesis Micron (48 patches)
 
@@ -137,4 +228,4 @@
 
 ---
 
-**Total: 107 SFX/effects patches across all synths**
+**Total: 198 SFX/effects patches across all synths**
