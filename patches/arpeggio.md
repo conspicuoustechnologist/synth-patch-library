@@ -53,6 +53,12 @@
 | 295-Twang Arp | Twangy arp |
 | 290-(X_X) | Echoy lead with arp |
 
+## Moog Little Phatty (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 088-BRASSTINE ARP | Arpeggio |
+
 ## Alesis Micron (1 patches)
 
 | Patch Name | Description |
@@ -145,4 +151,4 @@
 
 ---
 
-**Total: 120 arpeggio patches across all synths**
+**Total: 121 arpeggio patches across all synths**

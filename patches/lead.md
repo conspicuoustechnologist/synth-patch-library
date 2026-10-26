@@ -82,7 +82,7 @@
 | 301-jd - blip bells | Custom blip bells lead sound |
 | 302-jd - buzzy lead | Custom buzzy lead sound |
 
-## Moog Little Phatty (37 patches)
+## Moog Little Phatty (46 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -123,6 +123,15 @@
 | 097-HARD RINGER | Lead |
 | 098-TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
 | 099-JOTTED 8TH | Lead all the way |
+| 008-ADAMLEAD2 | Lead |
+| 052-SLOWMO LEAD | Lead |
+| 055-THAT 70S LEAD | Lead |
+| 060-SQUEEGIELEAD | Lead |
+| 061-WHL BRITELEAD | Lead |
+| 066-SUMMER LEAD | Lead |
+| 068-ADAMLEAD1 | Lead |
+| 070-SOFT LEAD | Lead |
+| 071-QUASAR LEAD | Lead |
 
 ## Yamaha PSR-730 (51 patches)
 
@@ -518,4 +527,4 @@
 
 ---
 
-**Total: 483 lead patches across all synths**
+**Total: 492 lead patches across all synths**

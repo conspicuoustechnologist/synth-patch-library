@@ -24,6 +24,20 @@
 | 280-Shimmer Strings | Shimmering strings |
 | 178-Sci-Fi Orch | Orchestra hit |
 
+## Moog Little Phatty (2 patches)
+
+### Brass (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 089-BRASS REZ | Brass |
+
+### Strings (1 patches)
+
+| Patch Name | Description |
+|------------|-------------|
+| 036-1975 STRINGS | Strings |
+
 ## Yamaha PSR-730 (161 patches)
 
 ### Brass (44 patches)
@@ -309,4 +323,4 @@
 
 ---
 
-**Total: 87 brass patches, 86 string patches, 71 other (244 symphony patches total)**
+**Total: 88 brass patches, 87 string patches, 71 other (246 symphony patches total)**

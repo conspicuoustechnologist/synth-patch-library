@@ -45,7 +45,7 @@
 | 034-Pro Basic | Powerful bass |
 | 300-jd - Bwah bass | Custom bwah bass sound |
 
-## Moog Little Phatty (26 patches)
+## Moog Little Phatty (27 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -75,6 +75,7 @@
 | 078-SUPER SUB HIT | Bass sound |
 | 090-2 NASTY | Probably best as bass, could be lead too |
 | 093-2WAW FUNK | Funk bass, could also be funk lead |
+| 029-ELLEOTICBION | Bass sound |
 
 ### Sound Design Recipe: TB-303 Acid Bass (not a factory preset)
 
@@ -308,4 +309,4 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 
 ---
 
-**Total: 240 bass patches across all synths**
+**Total: 241 bass patches across all synths**

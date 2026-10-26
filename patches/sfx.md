@@ -14,7 +14,7 @@
 | 232-Hellectro | Sound effect |
 | 297-Crypt Dweller | Sound effect |
 
-## Moog Little Phatty (7 patches)
+## Moog Little Phatty (8 patches)
 
 | Patch Name | Description |
 |------------|-------------|
@@ -25,6 +25,7 @@
 | 050-DARKNESS2 | Sound effect |
 | 092-DARKNESS | Sound effect |
 | 100-CA CALIBRATION | SFX - calibration patch |
+| 000-CALIBRATION | Calibration patch |
 
 ## Yamaha PSR-730 (99 patches)
 
@@ -236,4 +237,4 @@
 
 ---
 
-**Total: 201 SFX/effects patches across all synths**
+**Total: 202 SFX/effects patches across all synths**
