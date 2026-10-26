@@ -229,16 +229,16 @@
 | Comp:Romulan Bells | Bell/mallet sound |
 | Comp:Sitary | Bell/mallet sound |
 | Comp:Toy Steel Drum | Bell/mallet sound |
-## Moog Little Phatty (4 patches)
+## Moog Little Phatty (5 patches)
 
 | Patch # | Patch Name | Description |
 |---------|------------|-------------|
-|   7 | BREAKING TOYS | Percussion |
-|  75 | KICK IT QUICK | Percussion |
-|  76 | AGOGO A GO GO | Percussion |
-|  77 | SIZZLEMOD HIT | Percussion |
-|  85 | HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
-| N/A | MALLET BELL | Bell |
+| 007 | BREAKING TOYS | Percussion |
+| 075 | KICK IT QUICK | Percussion |
+| 076 | AGOGO A GO GO | Percussion |
+| 077 | SIZZLEMOD HIT | Percussion |
+| 085 | HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
+
 ## Dave Smith Poly Evolver (43 patches)
 
 
@@ -295,19 +295,6 @@
 | 176-Kick | Percussion |
 | 225-Donk | Percussion |
 
-## Moog Little Phatty (1 patches)
-
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-|   7 | BREAKING TOYS | Percussion |
-|   7 | BREAKING TOYS | Percussion |
-|  75 | KICK IT QUICK | Percussion |
-|  76 | AGOGO A GO GO | Percussion |
-|  77 | SIZZLEMOD HIT | Percussion |
-|  85 | HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
-|  85 | HARD NOIZ MOD | Percussion - distortion clap with tones on high end |
-| N/A | MALLET BELL | Bell |
-| N/A | MALLET BELL | Bell |
 ## Yamaha PSR-730 (6 patches)
 
 | Patch Name | Description |

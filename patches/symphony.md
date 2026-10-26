@@ -25,22 +25,6 @@
 
 
 | 178-Sci-Fi Orch | Orchestra hit |
-## Moog Little Phatty
-
-### Brass (2 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| FIFTH BRASS | Fifth interval brass |
-| METAL BRASS | Metallic brass |
-
-### Strings (1 patches)
-
-| Patch Name | Description |
-|------------|-------------|
-| SAW STRINGS | Sawtooth strings |
-
-
 ## Yamaha PSR-730
 
 ### Brass (13 patches)

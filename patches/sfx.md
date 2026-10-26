@@ -3,23 +3,18 @@
 # SFX/Effects Patches by Synthesizer
 
 
-## Moog Little Phatty (11 patches)
+## Moog Little Phatty (7 patches)
 
 | Patch # | Patch Name | Description |
 |---------|------------|-------------|
-|  38 | FILTERMADNESS | Almost an SFX, its all over with filter |
-|  39 | COSMONAUT | Sound effect |
-|  40 | ALIENS MDWHL | Sound effect |
-|  46 | TRIPPY MOD | Sound effect |
-|  50 | DARKNESS2 | Sound effect |
-|  92 | DARKNESS | Sound effect |
+| 038 | FILTERMADNESS | Almost an SFX, its all over with filter |
+| 039 | COSMONAUT | Sound effect |
+| 040 | ALIENS MDWHL | Sound effect |
+| 046 | TRIPPY MOD | Sound effect |
+| 050 | DARKNESS2 | Sound effect |
+| 092 | DARKNESS | Sound effect |
 | 100 | CA CALIBRATION | SFX - calibration patch |
-| N/A | ALIENS | Alien sounds |
-| N/A | HELICOPTER | Helicopter sound |
-| N/A | LASER | Laser effect |
-| N/A | SIREN | Siren sound |
-| N/A | SPACESHIP | Spaceship sound |
-| N/A | ZAP | Zap sound |
+
 ## Alesis Micron (48 patches)
 
 | Patch Name | Description |

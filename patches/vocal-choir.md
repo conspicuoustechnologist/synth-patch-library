@@ -3,12 +3,13 @@
 # Vocal/Choir Patches by Synthesizer
 
 
-## Moog Little Phatty (1 patches)
+## Moog Little Phatty (2 patches)
 
 | Patch # | Patch Name | Description |
 |---------|------------|-------------|
-|  91 | COUNT HUCULA | Voice sort of, says "wow" kind of |
-| N/A | VAGUELY VOCAL | Vocal/choir sound |
+| 051 | VAGUELY VOCAL | Vocal/choir sound |
+| 091 | COUNT HUCULA | Voice sort of, says "wow" kind of |
+
 ## Yamaha PSR-730 (19 patches)
 
 | Patch Name | Description |

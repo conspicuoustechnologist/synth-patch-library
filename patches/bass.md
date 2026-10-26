@@ -45,7 +45,36 @@
 | 122-Sub Drone | Bass sound |
 | 034-Pro Basic | Powerful bass |
 | 300-jd - Bwah bass | Custom bwah bass sound |
-## Moog Little Phatty (21 patches)
+## Moog Little Phatty (26 patches)
+
+| Patch # | Patch Name | Description |
+|---------|------------|-------------|
+| 001 | *CBass | Custom bass sound |
+| 002 | TAURUS BASS3 | Third variation of Taurus pedal bass |
+| 004 | ThrilledBass | Custom bass sound |
+| 005 | LAMBSBREAD | Deep bass |
+| 010 | UPFRONT BASS | Forward, present bass in the mix |
+| 012 | BASS MAN | Straightforward, solid Moog bass |
+| 013 | SOLID1 BASS | Solid, reliable bass foundation |
+| 017 | BITCRUSHER | Bass |
+| 018 | SLOW SNH BASS | Sample & hold modulated bass with slow rate |
+| 020 | FOUNDATION | Bass sound |
+| 021 | SEEKER BASS | Filter-sweeping bass with movement |
+| 022 | PULSAR BASS | Pulsing, rhythmic bass |
+| 023 | ATOM BOM BASS | Explosive, powerful bass tone |
+| 024 | ALKALINE BASS | Bright, cutting bass with resonance |
+| 025 | BLOWOUT BASS | Bass |
+| 026 | ADAM BASS 1 | Classic Moog bass with analog warmth |
+| 027 | LITTLE TAURUS | Bass sound |
+| 028 | LITTLETAURUS2 | Bass sound |
+| 030 | TAURUS BASS | Taurus pedal-inspired deep bass |
+| 032 | TAURUS TUBA | Bass sound |
+| 033 | MINIBASS | Minimoog-style bass patch |
+| 034 | CLASS BASS | Classic Moog ladder filter bass |
+| 065 | OVERTONIC | Works best as bass, legato |
+| 078 | SUPER SUB HIT | Bass sound |
+| 090 | 2 NASTY | Probably best as bass, could be lead too |
+| 093 | 2WAW FUNK | Funk bass, could also be funk lead |
 
 ### Sound Design Recipe: TB-303 Acid Bass (not a factory preset)
 
@@ -80,35 +109,7 @@ Optional: Multidrive/overload control for extra grit beyond what a real 303 has.
 
 Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatty), [Moog Forum: Aftertouch and velocity modification](https://forum.moogmusic.com/t/aftertouch-and-velocity-modification/15860)
 
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-|   1 | *CBass | Custom bass sound |
-|   2 | TAURUS BASS3 | Third variation of Taurus pedal bass |
-|   4 | ThrilledBass | Custom bass sound |
-|   5 | LAMBSBREAD | Deep bass |
-|  10 | UPFRONT BASS | Forward, present bass in the mix |
-|  12 | BASS MAN | Straightforward, solid Moog bass |
-|  13 | SOLID1 BASS | Solid, reliable bass foundation |
-|  17 | BITCRUSHER | Bass |
-|  18 | SLOW SNH BASS | Sample & hold modulated bass with slow rate |
-|  20 | FOUNDATION | Bass sound |
-|  21 | SEEKER BASS | Filter-sweeping bass with movement |
-|  22 | PULSAR BASS | Pulsing, rhythmic bass |
-|  23 | ATOM BOM BASS | Explosive, powerful bass tone |
-|  24 | ALKALINE BASS | Bright, cutting bass with resonance |
-|  25 | BLOWOUT BASS | Bass |
-|  26 | ADAM BASS 1 | Classic Moog bass with analog warmth |
-|  27 | LITTLE TAURUS | Bass sound |
-|  28 | LITTLETAURUS2 | Bass sound |
-|  29 | ELLEOTICBION | Bass sound |
-|  30 | TAURUS BASS | Taurus pedal-inspired deep bass |
-|  32 | TAURUS TUBA | Bass sound |
-|  33 | MINIBASS | Minimoog-style bass patch |
-|  34 | CLASS BASS | Classic Moog ladder filter bass |
-|  65 | OVERTONIC | Works best as bass, legato |
-|  78 | SUPER SUB HIT | Bass sound |
-|  90 | 2 NASTY | Probably best as bass, could be lead too |
-|  93 | 2WAW FUNK | Funk bass, could also be funk lead |
+
 ## Yamaha PSR-730 (67 patches)
 
 | Patch Name | Description |

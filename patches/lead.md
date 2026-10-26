@@ -87,47 +87,48 @@
 | 293-Massive GGP | Pretty standard sawlike lead |
 | 301-jd - blip bells (lead) | Custom blip bells lead sound |
 | 302-jd - buzzy lead | Custom buzzy lead sound |
-## Moog Little Phatty (14 patches)
+## Moog Little Phatty (37 patches)
 
 | Patch # | Patch Name | Description |
 |---------|------------|-------------|
-|   3 | SONIC GROOVE | Groovy lead sound |
-|   6 | 4WAKEMAN | Rick Wakerman prog rock lead (confirmed) |
-|   9 | FILTERMOD | Lead |
-|  11 | IT GOES TO 11 | Lead |
-|  15 | SALI VATION | Lead |
-|  16 | ELECTROFLUX | Lead |
-|  19 | ZOMBIFIED | Virgin Prunes lead from song of same name |
-|  31 | *CAcidLead | Custom acid lead sound |
-|  37 | SAHASRARA | Harsh lead |
-|  41 | SESAME ST | Lead |
-|  42 | THIRD EYE | Pad, but almost a lead |
-|  45 | REZZY FOURTH | Lead |
-|  47 | TRANSPHATTY | Mostly a lead |
-|  48 | REZZIN WORM | Lead or bass |
-|  53 | MISHIEVOUS | Mostly lead, warm analog as a bass |
-|  54 | PUNK PANTHER | Mostly lead, low end is powerful bass |
-|  57 | MARY ALICE | Lead, almost soft Kraftwerk like |
-|  58 | MISTINGUETT | Lead, slurring, legato |
-|  59 | CUTTING ZINC | Mostly lead, bass can be punchy electro |
-|  62 | KINDERMOOG | Lead, but has a bass with it |
-|  63 | POSH MOOG | High pitched lead |
-|  64 | EDGY VIBRATO | Lead |
-|  67 | HAPPY MOOG | Lead, a bit high pitched |
-|  69 | HERBIE | Weird lead, weird harmonics, acid sound |
-|  72 | EARLY LABS | Legato/slurring lead |
-|  73 | ZAWICHICK | Pure lead |
-|  80 | SINE OFF | Lead, could be a bass |
-|  82 | PICK SIDES | Lead with weird harmonic |
-|  83 | PUCK SAYS MOD | Lead, with some vocal tones in it, but a lead |
-|  84 | FUSIONANOMALY | Lead, electronic saw, low end has electro bass |
-|  86 | BOUNCY SEQ | Clean lead mostly, also clean bass |
-|  94 | SOFT FUR | Droning lead, could be bass at low end |
-|  95 | DARQUE N HARD | Lead or bass |
-|  96 | CLEARMYTHROAT | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
-|  97 | HARD RINGER | Lead |
-|  98 | TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
-|  99 | JOTTED 8TH | Lead all the way |
+| 003 | SONIC GROOVE | Groovy lead sound |
+| 006 | 4WAKEMAN | Rick Wakerman prog rock lead (confirmed) |
+| 009 | FILTERMOD | Lead |
+| 011 | IT GOES TO 11 | Lead |
+| 015 | SALI VATION | Lead |
+| 016 | ELECTROFLUX | Lead |
+| 019 | ZOMBIFIED | Virgin Prunes lead from song of same name |
+| 031 | *CAcidLead | Custom acid lead sound |
+| 037 | SAHASRARA | Harsh lead |
+| 041 | SESAME ST | Lead |
+| 042 | THIRD EYE | Pad, but almost a lead |
+| 045 | REZZY FOURTH | Lead |
+| 047 | TRANSPHATTY | Mostly a lead |
+| 048 | REZZIN WORM | Lead or bass |
+| 053 | MISHIEVOUS | Mostly lead, warm analog as a bass |
+| 054 | PUNK PANTHER | Mostly lead, low end is powerful bass |
+| 057 | MARY ALICE | Lead, almost soft Kraftwerk like |
+| 058 | MISTINGUETT | Lead, slurring, legato |
+| 059 | CUTTING ZINC | Mostly lead, bass can be punchy electro |
+| 062 | KINDERMOOG | Lead, but has a bass with it |
+| 063 | POSH MOOG | High pitched lead |
+| 064 | EDGY VIBRATO | Lead |
+| 067 | HAPPY MOOG | Lead, a bit high pitched |
+| 069 | HERBIE | Weird lead, weird harmonics, acid sound |
+| 072 | EARLY LABS | Legato/slurring lead |
+| 073 | ZAWICHICK | Pure lead |
+| 080 | SINE OFF | Lead, could be a bass |
+| 082 | PICK SIDES | Lead with weird harmonic |
+| 083 | PUCK SAYS MOD | Lead, with some vocal tones in it, but a lead |
+| 084 | FUSIONANOMALY | Lead, electronic saw, low end has electro bass |
+| 086 | BOUNCY SEQ | Clean lead mostly, also clean bass |
+| 094 | SOFT FUR | Droning lead, could be bass at low end |
+| 095 | DARQUE N HARD | Lead or bass |
+| 096 | CLEARMYTHROAT | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
+| 097 | HARD RINGER | Lead |
+| 098 | TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
+| 099 | JOTTED 8TH | Lead all the way |
+
 ## Yamaha PSR-730 (33 patches)
 
 | Patch Name | Description |
@@ -477,83 +478,6 @@
 | 293-Massive GGP | Pretty standard sawlike lead |
 | 301-jd - blip bells (lead) | Custom blip bells lead sound |
 | 302-jd - buzzy lead | Custom buzzy lead sound |
-## Moog Little Phatty (4 patches)
-
-| Patch # | Patch Name | Description |
-|---------|------------|-------------|
-|   3 | SONIC GROOVE | Groovy lead sound |
-|   3 | SONIC GROOVE | Groovy lead sound |
-|   6 | 4WAKEMAN | Rick Wakerman prog rock lead (confirmed) |
-|   6 | 4WAKEMAN | Rick Wakerman prog rock lead (confirmed) |
-|   9 | FILTERMOD | Lead |
-|   9 | FILTERMOD | Lead |
-|  11 | IT GOES TO 11 | Lead |
-|  11 | IT GOES TO 11 | Lead |
-|  15 | SALI VATION | Lead |
-|  15 | SALI VATION | Lead |
-|  16 | ELECTROFLUX | Lead |
-|  16 | ELECTROFLUX | Lead |
-|  19 | ZOMBIFIED | Virgin Prunes lead from song of same name |
-|  19 | ZOMBIFIED | Virgin Prunes lead from song of same name |
-|  31 | *CAcidLead | Custom acid lead sound |
-|  31 | *CAcidLead | Custom acid lead sound |
-|  37 | SAHASRARA | Harsh lead |
-|  37 | SAHASRARA | Harsh lead |
-|  41 | SESAME ST | Lead |
-|  41 | SESAME ST | Lead |
-|  42 | THIRD EYE | Pad, but almost a lead |
-|  42 | THIRD EYE | Pad, but almost a lead |
-|  45 | REZZY FOURTH | Lead |
-|  45 | REZZY FOURTH | Lead |
-|  47 | TRANSPHATTY | Mostly a lead |
-|  47 | TRANSPHATTY | Mostly a lead |
-|  48 | REZZIN WORM | Lead or bass |
-|  48 | REZZIN WORM | Lead or bass |
-|  53 | MISHIEVOUS | Mostly lead, warm analog as a bass |
-|  53 | MISHIEVOUS | Mostly lead, warm analog as a bass |
-|  54 | PUNK PANTHER | Mostly lead, low end is powerful bass |
-|  54 | PUNK PANTHER | Mostly lead, low end is powerful bass |
-|  57 | MARY ALICE | Lead, almost soft Kraftwerk like |
-|  57 | MARY ALICE | Lead, almost soft Kraftwerk like |
-|  58 | MISTINGUETT | Lead, slurring, legato |
-|  58 | MISTINGUETT | Lead, slurring, legato |
-|  59 | CUTTING ZINC | Mostly lead, bass can be punchy electro |
-|  59 | CUTTING ZINC | Mostly lead, bass can be punchy electro |
-|  62 | KINDERMOOG | Lead, but has a bass with it |
-|  62 | KINDERMOOG | Lead, but has a bass with it |
-|  63 | POSH MOOG | High pitched lead |
-|  63 | POSH MOOG | High pitched lead |
-|  64 | EDGY VIBRATO | Lead |
-|  64 | EDGY VIBRATO | Lead |
-|  67 | HAPPY MOOG | Lead, a bit high pitched |
-|  67 | HAPPY MOOG | Lead, a bit high pitched |
-|  69 | HERBIE | Weird lead, weird harmonics, acid sound |
-|  69 | HERBIE | Weird lead, weird harmonics, acid sound |
-|  72 | EARLY LABS | Legato/slurring lead |
-|  72 | EARLY LABS | Legato/slurring lead |
-|  73 | ZAWICHICK | Pure lead |
-|  73 | ZAWICHICK | Pure lead |
-|  80 | SINE OFF | Lead, could be a bass |
-|  80 | SINE OFF | Lead, could be a bass |
-|  82 | PICK SIDES | Lead with weird harmonic |
-|  82 | PICK SIDES | Lead with weird harmonic |
-|  83 | PUCK SAYS MOD | Lead, with some vocal tones in it, but a lead |
-|  83 | PUCK SAYS MOD | Lead, with some vocal tones in it, but a lead |
-|  84 | FUSIONANOMALY | Lead, electronic saw, low end has electro bass |
-|  84 | FUSIONANOMALY | Lead, electronic saw, low end has electro bass |
-|  86 | BOUNCY SEQ | Clean lead mostly, also clean bass |
-|  86 | BOUNCY SEQ | Clean lead mostly, also clean bass |
-|  94 | SOFT FUR | Droning lead, could be bass at low end |
-|  94 | SOFT FUR | Droning lead, could be bass at low end |
-|  95 | DARQUE N HARD | Lead or bass |
-|  95 | DARQUE N HARD | Lead or bass |
-|  96 | CLEARMYTHROAT | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
-|  96 | CLEARMYTHROAT | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
-|  97 | HARD RINGER | Lead |
-|  98 | TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
-|  98 | TALKBOX 2 | Mostly lead, bass at low end, not very vocal, could be used with vocoder |
-|  99 | JOTTED 8TH | Lead all the way |
-|  99 | JOTTED 8TH | Lead all the way |
 ## Alesis Micron (92 patches)
 
 | Patch Name | Description |

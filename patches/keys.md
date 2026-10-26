@@ -33,17 +33,15 @@
 | 220-Xylo Echo | Keyboard sound |
 | 284-Rough Tines | Keyboard sound |
 | 020-Another Organ | Organ |
-## Moog Little Phatty (7 patches)
+## Moog Little Phatty (4 patches)
 
 | Patch # | Patch Name | Description |
 |---------|------------|-------------|
-|  35 | PHONY HOHNER | Keyboard sound |
-|  74 | LESLIE PAUL | Keyboard sound |
-|  81 | RUBBER KOTO | Keyboard sound |
-|  87 | SPECIAL TINE | Keyboard sound |
-| N/A | CLAVITAR | Clavinet guitar hybrid |
-| N/A | PIANO | Piano patch |
-| N/A | WURLY HARD | Hard Wurlitzer |
+| 035 | PHONY HOHNER | Keyboard sound |
+| 074 | LESLIE PAUL | Keyboard sound |
+| 081 | RUBBER KOTO | Keyboard sound |
+| 087 | SPECIAL TINE | Keyboard sound |
+
 ## Yamaha PSR-730 (75 patches)
 
 | Patch Name | Description |
