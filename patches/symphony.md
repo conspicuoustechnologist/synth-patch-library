@@ -31,18 +31,16 @@
 
 | Patch Name | Description |
 |------------|-------------|
-| Brass:061-Trumpet | Trumpet |
+| Brss:440-Trumpet | Trumpet |
 | Brass:062-Trombone | Trombone |
 | Brass:063-Tuba | Tuba |
 | Brass:064-MuteTrmpt | Muted trumpet |
-| Brass:065-Fr.Horn | French horn |
+| Brss:449-Fr.Horn | French horn |
 | Brass:066-BrassSect | Brass section |
 | Brass:067-SynBrass | Synth brass |
-| Brass:329-Trumpet | Trumpet variant |
 | Brass:330-Trombone | Trombone variant |
 | Brass:331-Tuba | Tuba variant |
 | Brass:332-MuteTrmpt | Muted trumpet variant |
-| Brass:333-Fr.Horn | French horn variant |
 | Brass:334-BrssSect | Brass section variant |
 
 ### Strings (24 patches)
@@ -50,10 +48,10 @@
 
 | Patch Name | Description |
 |------------|-------------|
-| StrS:049-Violin | Violin |
+| StrS:394-Violin | Violin |
 | StrS:050-Viola | Viola |
 | StrS:051-Cello | Cello |
-| StrS:052-Contrabass | Contrabass |
+| StrS:102-Contrabass | Contrabass |
 | StrS:053-TremoloStr | Tremolo strings |
 | StrS:054-PizzicatoStr | Pizzicato strings |
 | StrS:055-Harp | Harp |

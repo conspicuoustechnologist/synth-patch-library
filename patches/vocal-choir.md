@@ -42,11 +42,11 @@
 | Voice:117-Aah | Aah vocal |
 | Voice:383-AahVoice | Aah vocal |
 | Voice:384-OohVoice | Ooh vocal |
-| Voice:385-SynVoice | Synth voice |
+| StrE:433-SynVoice | Synth voice |
 | Voice:386-OrcheHit | Orchestra hit |
 | Voice:387-SynVoice2 | Synth voice |
-| Voice:388-Choir | Choir voice |
-| Voice:389-MelChoir | Choir voice |
+| StrE:122-Choir | Choir voice |
+| StrE:430-MelChoir | Choir voice |
 | Voice:390-VoiceHmm | Vocal/choir sound |
 | Voice:391-VoxHumnz | Vocal/choir sound |
 

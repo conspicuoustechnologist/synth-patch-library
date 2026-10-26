@@ -39,19 +39,17 @@
 | Perc:119-Bell | Bell |
 | Perc:120-Vibe | Vibraphone |
 | Perc:121-Marimba | Marimba |
-| Perc:122-Xylophone | Xylophone |
+| ChPc:023-Xylophone | Xylophone |
 | Perc:123-TubulrBel | Tubular bells |
 | Perc:124-Dulcimer | Dulcimer |
-| Perc:125-Santur | Santur |
+| ChPc:286-Santur | Santur |
 | Perc:391-Timpani | Timpani variant |
 | Perc:392-Glock | Glockenspiel variant |
 | Perc:393-Bell | Bell variant |
 | Perc:394-Vibe | Vibraphone variant |
 | Perc:395-Marimba | Marimba variant |
-| Perc:396-Xylophone | Xylophone variant |
 | Perc:397-TubulrBel | Tubular bells variant |
 | Perc:398-Dulcimer | Dulcimer variant |
-| Perc:399-Santur | Santur variant |
 | Perc:400-Celesta | Celesta |
 
 | ChPc:020-Vibraphone | Chromatic percussion |
@@ -86,9 +84,8 @@
 | Ethn:628-Kalimba | Ethnic mallet percussion |
 | Chrm:009-Celesta | Chromatic percussion |
 | Chrm:010-Glock | Chromatic percussion |
-| Chrm:012-Vibes | Chromatic percussion |
+| ChPc:271-Vibes | Chromatic percussion |
 | Chrm:013-Marimba | Chromatic percussion |
-| Chrm:014-Xylophone | Chromatic percussion |
 | Chrm:015-TubulrBel | Chromatic percussion |
 ## Alesis Micron (134 patches)
 
@@ -301,9 +298,9 @@
 |------------|-------------|
 | Chrm:009-Celesta | Chromatic percussion |
 | Chrm:010-Glock | Chromatic percussion |
-| Chrm:012-Vibes | Chromatic percussion |
+| ChPc:271-Vibes | Chromatic percussion |
 | Chrm:013-Marimba | Chromatic percussion |
-| Chrm:014-Xylophone | Chromatic percussion |
+| ChPc:023-Xylophone | Chromatic percussion |
 | Chrm:015-TubulrBel | Chromatic percussion |
 
 ## Alesis Micron (14 patches)

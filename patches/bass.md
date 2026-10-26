@@ -114,12 +114,6 @@ Sources: [Vintage Synth Explorer](https://www.vintagesynth.com/moog/little-phatt
 
 | Patch Name | Description |
 |------------|-------------|
-| Bass Drum H | High-tuned bass drum |
-| Bass Drum H 2 | High-tuned bass drum variant 2 |
-| Bass Drum H 4 | High-tuned bass drum variant 4 |
-| Bass Drum L | Low-tuned bass drum |
-| Bass Drum M | Mid-tuned bass drum |
-| Bass Drum M 2 | Mid-tuned bass drum variant 2 |
 | Bass:082-Aco.Bass | Acoustic upright bass |
 | Bass:083-Bass&Cymbal | Bass with cymbal accent |
 | Bass:084-FingerBass | Fingerstyle electric bass |

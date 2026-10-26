@@ -76,24 +76,21 @@
 | Patch Name | Description |
 |------------|-------------|
 | Pad:108-NewAgePad | New age pad |
-| Pad:109-Warm Pad | Warm pad |
+| SPad:531-Warm Pad | Warm pad |
 | Pad:110-PolySynth | Polysynth pad |
 | Pad:111-Choir Pad | Choir pad |
 | Pad:112-Bowed Pad | Bowed pad |
 | Pad:113-Metallic | Metallic pad |
-| Pad:114-Halo Pad | Halo pad |
-| Pad:115-SweepPad | Sweep pad |
+| SPad:552-Halo Pad | Halo pad |
+| SPad:553-SweepPad | Sweep pad |
 | Pad:371-NewAgePad | New age pad variant |
-| Pad:372-Warm Pad | Warm pad variant |
 | Pad:373-Sine Pad | Sine pad |
 | Pad:374-PolySynth | Polysynth variant |
 | Pad:375-Choir Pad | Choir pad variant |
-| Pad:376-Itopia | Itopia pad |
+| SPad:544-Itopia | Itopia pad |
 | Pad:377-Bowed Pad | Bowed pad variant |
 | Pad:378-Metallic | Metallic variant |
-| Pad:379-Halo Pad | Halo pad variant |
-| Pad:380-SweepPad | Sweep pad variant |
-| Pad:381-Shwimmer | Shimmer pad |
+| SPad:554-Shwimmer | Shimmer pad |
 | Pad:382-Atmos | Atmospheric pad |
 | Pad:447-Square Pd | Square wave pad |
 | Pad:448-Hollow Pd | Hollow pad |
@@ -104,15 +101,14 @@
 | Pad:453-Rotary Pd | Rotary pad |
 | Pad:523-SynVoxPad | Synth vox pad |
 | Pad:524-SpacVoxPd | Space vox pad |
-| SyPd:452-Horn Pad | Horn pad synth |
+| SPad:535-Horn Pad | Horn pad synth |
 | SyPd:453-Rotary Pd | Rotary synth pad |
 | SyPd:519-NewAge Pd | New age synth pad |
-| SyPd:520-Warm Pad | Warm synth pad |
 | SyPd:521-Poly Pad | Poly synth pad |
 | SyPd:522-Choir Pad | Choir synth pad |
 | SyPd:523-SynVoxPad | Synth vox pad |
 | SyPd:524-SpacVoxPd | Space vox pad |
-| SyPd:525-Bass&Ld | Bass and lead pad |
+| SyLd:525-Bass&Ld | Bass and lead pad |
 | SyPd:526-FifthsPad | Fifths pad |
 | SyPd:527-BassNLead | Bass and lead |
 | SyPd:528-NewAge2Pd | New age 2 pad |
@@ -120,11 +116,11 @@
 | Voice:117-Aah | Aah voice pad |
 | Voice:383-AahVoice | Aah voice |
 | Voice:384-OohVoice | Ooh voice |
-| Voice:385-SynVoice | Synth voice |
+| StrE:433-SynVoice | Synth voice |
 | Voice:386-OrcheHit | Orchestra hit |
 | Voice:387-SynVoice2 | Synth voice 2 |
-| Voice:388-Choir | Choir |
-| Voice:389-MelChoir | Melodic choir |
+| StrE:122-Choir | Choir |
+| StrE:430-MelChoir | Melodic choir |
 | Voice:390-VoiceHmm | Voice hmm |
 | Voice:391-VoxHumnz | Vox humanz |
 
