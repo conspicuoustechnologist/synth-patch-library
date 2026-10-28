@@ -27,7 +27,7 @@
 | Instrument                   | URL | Type                                   | Key Specs                                            |
 |------------------------------|-----|----------------------------------------|------------------------------------------------------|
 | Toneworks AX1500G            | [ZZounds](https://www.zzounds.com/productdetail.php?zsound_id=37972) | Guitar Multi-FX / Distortion & Modeling| Multi-FX / amp modeling unit                         |
-| Roland RE-201 Space Echo     | [Roland](https://www.roland.com/global/products/re201/) | Tape Delay & Spring Reverb             | Classic tape echo + spring reverb                    |
+| Boss RE-20 Space Echo        | [Boss](https://www.boss.info/us/products/re-20/) | Tape Delay & Spring Reverb             | Pedal modeled on the RE-201 tape echo + spring reverb |
 | Digitech RV-7                | [Digitech](https://digitech.com/en/products/rv-7) | Reverb                                 | 7 reverb modes                                       |
 | Boss BR-8                    | [Boss](https://www.boss.info/us/support/by_product/rc-8/owners_manual/) | Multitrack Recorder / FX Looper        | Digital multitrack recorder                          |
 | Antares AVP-1                | [Antares](https://www.antarestech.com/products/avp-1/) | Vocal Pitch / Harmony                  | Vocal pitch/harmony processor                        |
@@ -70,14 +70,16 @@
 
 ### Vocal Chain (channel 3)
 - Shure SM58 into the TC-Helicon Harmony M's XLR mic input
-- Harmony M Mono output (1/4", line level, voice plus effect) into channel 3's 1/4" line input, not the XLR. The Harmony M's Dry output (voice only) feeds channel 2 when recording dry and wet in one take, see below
+- Harmony M runs in mono mode (Stereo LED off; hold Voice 1 and Voice 2 for 2 seconds to toggle). In mono mode Left Out is 100% wet (harmony, double and FX) and Right Out is the dry voice, per the manual's "External Mixing with Mono and Dry Outputs" section. In stereo mode both jacks carry the same wet/dry mix, so neither one is dry
+- Harmony knob at full right in mono mode, so Left Out carries no dry voice. Tone off for a clean dry take, since Tone is applied to Right Out too (and stays on even in Bypass)
+- Harmony M Left Out (1/4", line level, wet) into channel 3's 1/4" line input, not the XLR. Right Out (dry) feeds channel 2 when recording dry and wet in one take, see below
 - Antares AVP-1 on channel 3's insert, with a TRS Y insert cable: grey (tip, send) into the AVP-1's line input, orange (ring, return) from the AVP-1's output
 - The AVP-1 must be powered on whenever the insert cable is in, or channel 3 goes silent
 - Gain staging: Harmony M input gain set so the loudest shouts just flicker its level light, then channel 3 gain so they read around 0 on solo, AVP-1 input on line and output matched so the level doesn't change
 
 ### Recording Vocals Dry and Wet in One Take
 - The 1620i connects to the computer by FireWire: each channel goes to REAPER on its own input, and REAPER's playback comes back on FW 1-2
-- Dry: Harmony M Dry output into channel 2's 1/4" line input (borrowing the guitar channel), recorded on REAPER input 2
+- Dry: Harmony M Right Out (mono mode) into channel 2's 1/4" line input (borrowing the guitar channel), recorded on REAPER input 2
 - Harmony M plus AVP-1: channel 3, recorded on REAPER input 3 (check once that the FireWire send carries the AVP-1 insert; if it doesn't, the send is pre-insert)
 - Everything, including the Aux 1 reverb and Aux 3 distortion returns: press ASSIGN TO FW 15-16 above the Main Mix fader, which sends the main mix to REAPER inputs 15-16 in place of channels 15-16 (the microKORG can't be recorded while it's on). Record 15-16 as one stereo track
 - Hearing playback: in CTRL ROOM/PHONES SOURCE, press both MAIN MIX and FW 1-2. REAPER's playback goes to the headphones without entering the main mix, so it stays out of the 15-16 recording
@@ -157,9 +159,16 @@ Lets the Windows 7 desktop running Reaper reach the same DIN-routed synths over 
 |------|--------|-------|--------|---------|
 | Mackie 1 | Mackie 1 | | Digitech RV-7 | Reverb depth / space |
 | Mackie 2 | Track/Ch/Via Synth | | MicroKorg Vocoder input | Vocoder processing (sound in → vocoder out) |
-| Mackie 3 | Mackie 3 | | Toneworks AX1500G → Roland RE-201 Space Echo | Distortion + tape delay / echo |
+| Mackie 3 | Mackie 3 | See Aux 3 notes below | Toneworks AX1500G → Boss RE-20 Space Echo | Distortion + tape delay / echo |
 | Mackie 4 | Mackie 4 | ESX-1 Audio In Button, Indiv. Out | Boss BR-8 → Electribe ESX-1 | Glitch / experimental FX into drum/percussion chain |
 | Mackie 4 | Mackie 2 | BR-8 Main out | Boss BR-8 | Guitar effects |
+
+### Aux 3 Notes (AX1500G → RE-20)
+- RE-20 OUTPUT A and B go to Aux Return 3 L/R on TS (mono) cables. TRS cables break the RE-20's bypass: with its effect off, the return goes silent
+- RE-20 EFFECT off bypasses the whole pedal, so the AX1500G passes straight through regardless of DIRECT
+- RE-20 DIRECT only matters with the effect on. ON returns the AX1500G's note plus the echoes. OFF returns the echoes only, so the AX1500G's distortion is heard only on the repeats
+- Distorted vocals: AX1500G on, DIRECT ON, EFFECT on, with ECHO VOLUME setting how much echo sits under the distorted note. Distortion with no echo: EFFECT off
+- Plain echo send: AX1500G bypassed (hold the lit program switch 0.5 seconds; 1.5 seconds mutes it instead), DIRECT OFF, EFFECT on
 
 ## DAW / Software
 - Controller: [Novation Launchpad Mini](https://us.novationmusic.com/products/launchpad-mini)
