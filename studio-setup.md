@@ -80,11 +80,21 @@
 ### Recording Vocals Dry and Wet in One Take
 - The 1620i connects to the computer by FireWire: each channel goes to REAPER on its own input, and REAPER's playback comes back on FW 1-2
 - Dry: Harmony M Right Out (mono mode) into channel 2's 1/4" line input (borrowing the guitar channel), recorded on REAPER input 2
-- Harmony M plus AVP-1: channel 3, recorded on REAPER input 3 (check once that the FireWire send carries the AVP-1 insert; if it doesn't, the send is pre-insert)
+- Harmony M plus AVP-1: channel 3, recorded on REAPER input 3 with channel 3's SEND FIREWIRE PRE/POST switch on POST. The insert sits after the gain and before the EQ, so a post-EQ FireWire tap always includes the AVP-1 (the manual doesn't say outright whether PRE does). POST also prints channel 3's EQ into the recording, so keep the EQ flat if you want it clean
 - Everything, including the Aux 1 reverb and Aux 3 distortion returns: press ASSIGN TO FW 15-16 above the Main Mix fader, which sends the main mix to REAPER inputs 15-16 in place of channels 15-16 (the microKORG can't be recorded while it's on). Record 15-16 as one stereo track
 - Hearing playback: in CTRL ROOM/PHONES SOURCE, press both MAIN MIX and FW 1-2. REAPER's playback goes to the headphones without entering the main mix, so it stays out of the 15-16 recording
 - Track in headphones: the JBLs run off the Main Out, so they don't carry REAPER's playback, and the mic would pick them up anyway
 - Each channel's MUTE button doubles as ALT 3/4: a muted channel goes to the ALT 3-4 bus instead of the main mix. Not needed for this setup
+
+### Reamping a Dry Track Through Aux 3
+Plays a recorded dry track from REAPER back through the AX1500G → RE-20 loop and records only the effected return, all over FireWire with no repatching. Checked against the Onyx 1620i owner's manual (~/transfer/manuals/MACKIE_ONYX1620I_ENG.pdf):
+- REAPER: route the dry track to FW out 1-2, and solo it so nothing else goes out
+- Set the 15-16 strip's INPUT selector (LINE or FW 1-2, at the top of the strip) to FW 1-2. Channels 15-16 then play REAPER's FW 1-2 instead of the microKORG, with the strip's gain, EQ and aux sends working as normal
+- Set Aux 3's PRE/POST switch (Aux Master section) to PRE, so the send is tapped before the channel fader. Then turn up the 15-16 strip's Aux 3 send and pull its fader all the way down, so the dry signal stays out of the main mix. Pull every other channel down too. (Mackie recommends POST for effects sends in normal use, so the echo level follows the fader)
+- Turn up Aux Return 3 and press ASSIGN TO FW 15-16, so the main mix (now just the effected return) goes back to REAPER on inputs 15-16. The Main Mix fader doesn't affect the FireWire level
+- Arm a new stereo track on FW inputs 15-16 with input monitoring off, then play and record
+- Nudge the new track earlier by the round-trip latency until it lines up with the dry track (zoom in on a sharp consonant)
+- Afterward, set the 15-16 INPUT selector back to LINE to get the microKORG back, and Aux 3 back to POST if that's how it normally runs
 
 ## DJ Booth
 - Technics SL-1200 MK2 (x2) - [Wikipedia](https://en.wikipedia.org/wiki/Technics_SL-1200) - direct-drive, quartz-locked, +/-8% pitch control, 0.7s start-up torque, 0.01% wow/flutter, 12.5kg
